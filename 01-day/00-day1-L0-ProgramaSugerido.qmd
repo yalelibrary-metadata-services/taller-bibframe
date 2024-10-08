@@ -1,0 +1,27 @@
+---
+title: "Introducción a la web semántica y los datos abiertos enlazados"
+page-navigation: true
+---
+
+# Programa Sugerido
+
+lunes, 21 de octubre
+
+| Hora | Tema |
+| ---- | ---  |
+| 9:00–9:15 | Presentaciones |
+| 9:15–9:30 | Visión general del taller |
+| 9:30–10:00 | Introducción a la web semántica y los datos abiertos enlazados |
+| 10:00–10:30 | Actividad: desmontando un registro MARC 21 |
+| 10:30–10:45 | Receso |
+| 10:45–11:00 | Discusión |
+| 11:00–11:30 | Datos enlazados y bibliotecas | 
+| 11:30–12:00 | Actividad |
+| 12:00–12:15 | Receso |
+| 12:15–1:00  | Actividad (continuación), resumen y discusión |
+
+# Recursos de estudio: 
+
+- Enlace a Notas Grupales: [Google Docs link?]
+- 
+- 

@@ -1,0 +1,16 @@
+---
+title: "Introducción al entorno de BIBFRAME"
+subtitle: "Un marco de datos enlazados para las bibliotecas"
+---
+
+## Descripcion del Taller: 
+
+### Introducción
+
+Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos. 
+
+### Objetivos
+
+- Entender cómo funcionan los datos enlazados.
+- Saber manejar el vocabulario y modelo BIBFRAME.
+- Adquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia.

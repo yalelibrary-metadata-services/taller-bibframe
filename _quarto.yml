@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "BIBFRAME: ¿En español?"
+  page-footer: "Yale University Library"
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Acerca de"
+        href: about.qmd
+      - sidebar:dia1
+      - sidebar:dia2
+      - sidebar:dia3
+      - sidebar:dia4
+      - sidebar:dia5
+  sidebar:
+    - id: dia1
+      search: false
+      title: "Día 1"
+      style: "docked"
+      background: light
+      href: 01-day1-L0-ProgramaSugerido.qmd
+      contents:
+      - href: 01-day1-L0-ProgramaSugerido.qmd
+        text: Introducción Día 1 
+    - id: dia2
+      title: "Día 2"
+      href: 02-day/00-day2-L0-ProgramaSugerido.qmd
+      contents:
+      - href: 02-day/00-day2-L0-ProgramaSugerido.qmd
+        text: Introducción Día 2
+    - id: dia3
+      title: "Día 3"
+      href: 03-day/00-day3-L0-ProgramaSugerido.qmd
+      contents:
+      - href: 03-day/00-day3-L0-ProgramaSugerido.qmd
+        text: Introducción Día 3
+    - id: dia4
+      title: "Día 4"
+      href: 04-day/00-day4-L0-ProgramaSugerido.qmd
+      contents:
+      - href: 04-day/00-day4-L0-ProgramaSugerido.qmd
+        text: Introducción Día 4
+    - id: dia5
+      title: "Día 5"
+      href: 05-day/00-day5-L0-ProgramaSugerido.qmd
+      contents:
+      - href: 05-day/00-day5-L0-ProgramaSugerido.qmd
+        text: Introducción Día 5
+format:
+  html:
+    theme: yeti

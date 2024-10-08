@@ -1,0 +1,98 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Timothy A. Thompson es un profesional de la información con más de una década de experiencia en operaciones de metadatos, principalmente como bibliotecólogo en instituciones como la Universidad de Yale, y con experiencia adicional como ontólogo empresarial en el sector privado. Tiene maestrías tanto en Bibliotecología como en Ciencias de Datos. Su labor ha incluido la creación, análisis y transformación de metadatos en una variedad de estándares y formatos, así como la mediación entre expertos en la materia y tecnólogos. Ha trabajado con estándares de datos enlazados desde 2016, con un enfoque en el modelado semántico de datos para materiales de patrimonio cultural.\nIrma Fraticelli-Rodríguez es una profesional de la información en las primeras etapas de su carrera profesional y cuenta con una formación especializada en curaduría digital y manejo de datos. Actualmente, trabaja en la Universidad de Yale como Analista de Metadatos, donde se encarga de la corrección y normalización de metadatos dentro de los catálogos en línea y los sistemas de descubrimiento de la biblioteca.\nÁlvaro López Bustamante es bibliotecólogo y Magister en Lingüística Aplicada. Tiene más de 15 años de experiencia en bibliotecas universitarias, y lideró por dos años y medio, la primera implementación de BIBFRAME en América Latina, en la Universidad de Concepción (Chile). Posee amplia experiencia en ejecución de proyectos, y se especializa en BIBFRAME y su implementación. Actualmente, cumple el rol de Community Advisor para EBSCO FOLIO, y está a cargo de apoyar el desarrollo de la comunidad de FOLIO en América Latina."
+  },
+  {
+    "objectID": "about.html#los-presentadores",
+    "href": "about.html#los-presentadores",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Timothy A. Thompson es un profesional de la información con más de una década de experiencia en operaciones de metadatos, principalmente como bibliotecólogo en instituciones como la Universidad de Yale, y con experiencia adicional como ontólogo empresarial en el sector privado. Tiene maestrías tanto en Bibliotecología como en Ciencias de Datos. Su labor ha incluido la creación, análisis y transformación de metadatos en una variedad de estándares y formatos, así como la mediación entre expertos en la materia y tecnólogos. Ha trabajado con estándares de datos enlazados desde 2016, con un enfoque en el modelado semántico de datos para materiales de patrimonio cultural.\nIrma Fraticelli-Rodríguez es una profesional de la información en las primeras etapas de su carrera profesional y cuenta con una formación especializada en curaduría digital y manejo de datos. Actualmente, trabaja en la Universidad de Yale como Analista de Metadatos, donde se encarga de la corrección y normalización de metadatos dentro de los catálogos en línea y los sistemas de descubrimiento de la biblioteca.\nÁlvaro López Bustamante es bibliotecólogo y Magister en Lingüística Aplicada. Tiene más de 15 años de experiencia en bibliotecas universitarias, y lideró por dos años y medio, la primera implementación de BIBFRAME en América Latina, en la Universidad de Concepción (Chile). Posee amplia experiencia en ejecución de proyectos, y se especializa en BIBFRAME y su implementación. Actualmente, cumple el rol de Community Advisor para EBSCO FOLIO, y está a cargo de apoyar el desarrollo de la comunidad de FOLIO en América Latina."
+  },
+  {
+    "objectID": "about.html#sobre-el-contenido",
+    "href": "about.html#sobre-el-contenido",
+    "title": "Acerca de",
+    "section": "Sobre el contenido:",
+    "text": "Sobre el contenido:\nEl Asistente Técnico de Metadatos de la Universidad de Yale,Daniel Mugaburu, estuvo a cargo de la traducción de los materiales de estudio.\nLos materiales presentados en clase son adaptaciones al español de los siguientes recursos:\n\nEBSCO Linked Data Training por Timothy A. Thompson\nSinopia Trainning por el PCC Standing Committee on Training\nMarva BIBFRAME User Manual por la Biblioteca del Congreso (EE.UU)"
+  },
+  {
+    "objectID": "about.html#calendario",
+    "href": "about.html#calendario",
+    "title": "Acerca de",
+    "section": "Calendario",
+    "text": "Calendario\nEste taller se estara ofreciendo como parte de las actividades para XXXVI Semana de la Facultad de Ciencias de la Información de la Universidad Autónoma de San Luis de Potosí que se estará celebrando desde el lunes 21 de octubre de 2024 hasta el viernes 25 de octubre de 2024.\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n21 de Octubre\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n22 de Octubre\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n23 de Octubre\nPresentación por el Mtro. Álvaro López Bustamante, y continuación sobre temas relacionados a BIBFRAME\n\n\n24 de Octubre\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n25 de Octubre\nContinuación: Editores de datos enlazados Sinopia y Marva"
+  },
+  {
+    "objectID": "about.html#requerimientos-para-el-taller",
+    "href": "about.html#requerimientos-para-el-taller",
+    "title": "Acerca de",
+    "section": "Requerimientos para el taller:",
+    "text": "Requerimientos para el taller:\n\nRealizar la encuesta preliminar para el taller (las respuestas son anónimas).\nCrear una cuenta en Sinopia, ambiente “Stage” (https://stage.sinopia.io). Aquí están algunas instrucciones de cómo crear una cuenta.\nLuego, proporcionar la información de su nombre, nombre de usuario y correo electrónico a Tim Thompson (timothy.thompson@yale.edu), para que se pueda vincular su cuenta a un grupo creado en la plataforma de Sinopia para el taller. El nombre de usuario será su identificador como catalogador/a en Sinopia."
+  },
+  {
+    "objectID": "04-day/00-day4-L0-ProgramaSugerido.html",
+    "href": "04-day/00-day4-L0-ProgramaSugerido.html",
+    "title": "Editores de datos enlazados para BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 4"
+    ]
+  },
+  {
+    "objectID": "02-day/00-day2-L0-ProgramaSugerido.html",
+    "href": "02-day/00-day2-L0-ProgramaSugerido.html",
+    "title": "Introducción al esquema BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 2"
+    ]
+  },
+  {
+    "objectID": "01-day/00-day1-L0-ProgramaSugerido.html",
+    "href": "01-day/00-day1-L0-ProgramaSugerido.html",
+    "title": "Introducción a la web semántica y los datos abiertos enlazados",
+    "section": "",
+    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nPresentaciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:00\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n10:00–10:30\nActividad: desmontando un registro MARC 21\n\n\n10:30–10:45\nReceso\n\n\n10:45–11:00\nDiscusión\n\n\n11:00–11:30\nDatos enlazados y bibliotecas\n\n\n11:30–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–1:00\nActividad (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales: [Google Docs link?]\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "03-day/00-day3-L0-ProgramaSugerido.html",
+    "href": "03-day/00-day3-L0-ProgramaSugerido.html",
+    "title": "BIBFRAME y otros modelos",
+    "section": "",
+    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:00\nConferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME, otros modelos y críticas\n\n\n10:45–11:45\nActividad\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 3"
+    ]
+  },
+  {
+    "objectID": "05-day/00-day5-L0-ProgramaSugerido.html",
+    "href": "05-day/00-day5-L0-ProgramaSugerido.html",
+    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 5"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción al entorno de BIBFRAME",
+    "section": "",
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+  },
+  {
+    "objectID": "index.html#descripcion-del-taller",
+    "href": "index.html#descripcion-del-taller",
+    "title": "Introducción al entorno de BIBFRAME",
+    "section": "",
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+  }
+]
