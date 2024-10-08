@@ -1,0 +1,42 @@
+---
+title: "Acerca de"
+---
+
+## Los Presentadores: 
+
+[**Timothy A. Thompson**](https://www.linkedin.com/in/timathompson/) es un profesional de la información con más de una década de experiencia en operaciones de metadatos, principalmente como bibliotecólogo en instituciones como la Universidad de Yale, y con experiencia adicional como ontólogo empresarial en el sector privado. Tiene maestrías tanto en Bibliotecología como en Ciencias de Datos. Su labor ha incluido la creación, análisis y transformación de metadatos en una variedad de estándares y formatos, así como la mediación entre expertos en la materia y tecnólogos. Ha trabajado con estándares de datos enlazados desde 2016, con un enfoque en el modelado semántico de datos para materiales de patrimonio cultural.
+
+[**Irma Fraticelli-Rodríguez**](https://www.linkedin.com/in/irmarie-fraticelli/) es una profesional de la información en las primeras etapas de su carrera profesional y cuenta con una formación especializada en curaduría digital y manejo de datos. Actualmente, trabaja en la Universidad de Yale como Analista de Metadatos, donde se encarga de la corrección y normalización de metadatos dentro de los catálogos en línea y los sistemas de descubrimiento de la biblioteca.
+ 
+[**Álvaro López Bustamante**](linkedin.com/in/alvaro-lopez-bustamante-061080118) es bibliotecólogo y Magister en Lingüística Aplicada. Tiene más de 15 años de experiencia en bibliotecas universitarias, y lideró por dos años y medio, la primera implementación de BIBFRAME en América Latina, en la Universidad de Concepción (Chile). Posee amplia experiencia en ejecución de proyectos, y se especializa en BIBFRAME y su implementación. Actualmente, cumple el rol de Community Advisor para EBSCO FOLIO, y está a cargo de apoyar el desarrollo de la comunidad de FOLIO en América Latina.
+
+## Sobre el contenido: 
+
+El Asistente Técnico de Metadatos de la Universidad de Yale,[Daniel Mugaburu](https://library.yale.edu/people/daniel-mugaburu), estuvo a cargo de la traducción de los materiales de estudio.
+
+Los materiales presentados en clase son adaptaciones al español de los siguientes recursos:
+
+- [EBSCO Linked Data Training](https://github.com/timathom/EBSCO-Linked-Data-Training.git) por Timothy A. Thompson
+- [Sinopia Trainning](https://www.loc.gov/catworkshop/Sinopia-Training/index.html) por el PCC Standing Committee on Training
+- [Marva BIBFRAME User Manual](https://guides.loc.gov/c.php?g=1170551&p=8704262&preview=003264c97f504caf990125066b248e24) por la Biblioteca del Congreso (EE.UU)
+
+
+## Calendario
+
+Este taller se estara ofreciendo como parte de las actividades para [XXXVI Semana de la Facultad de Ciencias de la Información](http://eventos.fci.uaslp.mx/) de la Universidad Autónoma de San Luis de Potosí que se estará celebrando desde el lunes 21 de octubre de 2024 hasta el viernes 25 de octubre de 2024. 
+
+| Date | Topic                     |
+|------|---------------------------|
+| 21 de Octubre    | Introducción a la web semántica y los datos abiertos enlazados |
+| 22 de Octubre    | BIBFRAME: hacia un nuevo marco bibliográfico |
+| 23 de Octubre    | Presentación por el Mtro. Álvaro López Bustamante, y continuación sobre temas relacionados a BIBFRAME                   |
+| 24 de Octubre    | Introducción a los editores de datos enlazados Sinopia y Marva    |
+| 25 de Octubre    | Continuación: Editores de datos enlazados Sinopia y Marva              |
+
+## Requerimientos para el taller: 
+
+- Realizar la [encuesta preliminar](https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_8pnIH8rBJozsDA2) para el taller (las respuestas son anónimas). 
+
+- Crear una cuenta en Sinopia, ambiente “Stage” (https://stage.sinopia.io). Aquí están algunas [instrucciones](https://github.com/LD4P/sinopia/wiki/Creating-an-account) de cómo crear una cuenta.
+
+- Luego, proporcionar la información de su nombre, nombre de usuario y correo electrónico a Tim Thompson (timothy.thompson@yale.edu), para que se pueda vincular su cuenta a un grupo creado en la plataforma de Sinopia para el taller. El nombre de usuario será su identificador como catalogador/a en Sinopia.
