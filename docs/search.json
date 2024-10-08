@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción al entorno de BIBFRAME",
+    "section": "",
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+  },
+  {
+    "objectID": "index.html#descripcion-del-taller",
+    "href": "index.html#descripcion-del-taller",
+    "title": "Introducción al entorno de BIBFRAME",
+    "section": "",
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Acerca de",
@@ -35,33 +49,13 @@
     "text": "Requerimientos para el taller:\n\nRealizar la encuesta preliminar para el taller (las respuestas son anónimas).\nCrear una cuenta en Sinopia, ambiente “Stage” (https://stage.sinopia.io). Aquí están algunas instrucciones de cómo crear una cuenta.\nLuego, proporcionar la información de su nombre, nombre de usuario y correo electrónico a Tim Thompson (timothy.thompson@yale.edu), para que se pueda vincular su cuenta a un grupo creado en la plataforma de Sinopia para el taller. El nombre de usuario será su identificador como catalogador/a en Sinopia."
   },
   {
-    "objectID": "04-day/00-day4-L0-ProgramaSugerido.html",
-    "href": "04-day/00-day4-L0-ProgramaSugerido.html",
-    "title": "Editores de datos enlazados para BIBFRAME",
+    "objectID": "05-day/00-day5-L0-ProgramaSugerido.html",
+    "href": "05-day/00-day5-L0-ProgramaSugerido.html",
+    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
     "section": "",
-    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Introducción Día 4"
-    ]
-  },
-  {
-    "objectID": "02-day/00-day2-L0-ProgramaSugerido.html",
-    "href": "02-day/00-day2-L0-ProgramaSugerido.html",
-    "title": "Introducción al esquema BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 2"
-    ]
-  },
-  {
-    "objectID": "01-day/00-day1-L0-ProgramaSugerido.html",
-    "href": "01-day/00-day1-L0-ProgramaSugerido.html",
-    "title": "Introducción a la web semántica y los datos abiertos enlazados",
-    "section": "",
-    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nPresentaciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:00\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n10:00–10:30\nActividad: desmontando un registro MARC 21\n\n\n10:30–10:45\nReceso\n\n\n10:45–11:00\nDiscusión\n\n\n11:00–11:30\nDatos enlazados y bibliotecas\n\n\n11:30–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–1:00\nActividad (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales: [Google Docs link?]\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 1"
+      "Introducción Día 5"
     ]
   },
   {
@@ -75,27 +69,33 @@
     ]
   },
   {
-    "objectID": "05-day/00-day5-L0-ProgramaSugerido.html",
-    "href": "05-day/00-day5-L0-ProgramaSugerido.html",
-    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
+    "objectID": "01-day/00-day1-L0-ProgramaSugerido.html",
+    "href": "01-day/00-day1-L0-ProgramaSugerido.html",
+    "title": "Introducción a la web semántica y los datos abiertos enlazados",
     "section": "",
-    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nPresentaciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:00\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n10:00–10:30\nActividad: desmontando un registro MARC 21\n\n\n10:30–10:45\nReceso\n\n\n10:45–11:00\nDiscusión\n\n\n11:00–11:30\nDatos enlazados y bibliotecas\n\n\n11:30–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–1:00\nActividad (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales: [Google Docs link?]\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Introducción Día 5"
+      "Introducción Día 1"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introducción al entorno de BIBFRAME",
+    "objectID": "02-day/00-day2-L0-ProgramaSugerido.html",
+    "href": "02-day/00-day2-L0-ProgramaSugerido.html",
+    "title": "Introducción al esquema BIBFRAME",
     "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 2"
+    ]
   },
   {
-    "objectID": "index.html#descripcion-del-taller",
-    "href": "index.html#descripcion-del-taller",
-    "title": "Introducción al entorno de BIBFRAME",
+    "objectID": "04-day/00-day4-L0-ProgramaSugerido.html",
+    "href": "04-day/00-day4-L0-ProgramaSugerido.html",
+    "title": "Editores de datos enlazados para BIBFRAME",
     "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 4"
+    ]
   }
 ]
