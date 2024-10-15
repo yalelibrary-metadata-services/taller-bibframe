@@ -1,0 +1,21 @@
+---
+title: "Introducción a la web semántica y los datos abiertos enlazados"
+page-navigation: true
+---
+
+# Programa Sugerido
+
+lunes, 21 de octubre
+
+| Hora | Tema |
+| ---- | ---  |
+| 9:00–9:15   | Introducciones |
+| 9:15–9:30   | Visión general del taller |
+| 9:30–10:00  | Introducción a la web semántica y los datos enlazados |
+| 10:00–10:30 | Tecnologías relacionadas a los Datos Enlazados |
+| 10:30–10:45 | Introducción al RDF y Actividad RDF|
+| 10:45–11:00 | Actividad Guiada: Crea una Tripleta, entendiendo RDF |
+| 11:00–11:30 | ¿Qué es una Ontología? | 
+| 11:30–12:00 | Modelos Semánticos para BIBFRAME |
+| 12:00–12:15 | Receso |
+| 12:15–1:00  | Discusión y Resúmen del día |

@@ -1,0 +1,75 @@
+---
+title: "Parte 2: Tecnologías Relacionadas a los Datos Enlazados"
+page-navigation: true
+---
+
+Aunque Turtle es uno de los formatos más legibles para los humanos, existen otros formatos populares para representar datos RDF, como **RDF/XML**.
+
+## Ejemplo en RDF/XML:
+
+```xml
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dbo="http://dbpedia.org/ontology/"
+         xmlns:ex="http://example.org/">
+
+  <rdf:Description rdf:about="http://example.org/Libro1">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Book"/>
+    <dbo:title>Cien Años de Soledad</dbo:title>
+    <dbo:author rdf:resource="http://example.org/Autor1"/>
+    <dbo:genre>Realismo Mágico</dbo:genre>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://example.org/Autor1">
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <dbo:name>Gabriel García Marquez</dbo:name>
+  </rdf:Description>
+
+</rdf:RDF>
+```
+
+Este ejemplo muestra cómo podemos representar el mismo conjunto de datos usando RDF/XML, un formato XML que sigue los estándares de RDF.
+
+## Aplicaciones de RDF
+
+### 1. **Datos Enlazados**
+RDF es la base de los **datos enlazados**. Al utilizar URIs únicas para identificar recursos, RDF permite interconectar datos entre diferentes fuentes, creando una red global de datos interoperables.
+
+### 2. **Descripción de Recursos en la Web**
+RDF se utiliza para describir recursos en la web, como páginas web, productos, personas y más. Por ejemplo, Google utiliza RDF y otros estándares para mejorar la búsqueda y ofrecer resultados más relevantes.
+
+### 3. **Ontologías**
+RDF se combina con lenguajes como **OWL (Web Ontology Language)** para describir ontologías complejas que definen clases y relaciones en dominios específicos, como la biomedicina, la geografía o el comercio electrónico.
+
+## ¿Cómo hacer consultas utlizando RDF y SPARQL?
+
+**SPARQL** es el lenguaje de consulta para acceder y manipular datos almacenados en formato RDF. Con SPARQL, es posible realizar consultas complejas sobre grafos RDF, extraer información específica y descubrir relaciones entre los datos.
+
+### Ejemplo de Consulta SPARQL:
+
+```sparql
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX ex: <http://example.org/>
+
+SELECT ?title ?authorName WHERE {
+  ?book a dbo:Book ;
+        dbo:title ?title ;
+        dbo:author ?author .
+  ?author dbo:name ?authorName .
+}
+```
+
+Esta consulta recupera los títulos de los libros y los nombres de sus autores en un conjunto de datos RDF.
+
+## Conclusión
+
+**RDF (Resource Description Framework)** es la base de la Web Semántica y de los Datos Enlazados. Permite modelar y enlazar información de manera estructurada y accesible tanto para humanos como para máquinas. Gracias a RDF, es posible interconectar datos de diferentes dominios y fuentes, permitiendo un acceso más rico e inteligente a la información.
+
+Cada una de estas tecnologías juega un papel importante en el ecosistema de los **datos enlazados**:
+
+- **Turtle** es ideal para representar datos RDF de manera simple y legible.
+- **JSON-LD** facilita la integración de datos enlazados en aplicaciones web modernas.
+- **OWL** proporciona el marco para definir ontologías y permitir razonamiento semántico.
+- **SPARQL** permite realizar consultas poderosas sobre los grafos de datos RDF.
+
+Estas tecnologías permiten estructurar, enlazar y consultar datos de manera que sean tanto accesibles como entendibles para las máquinas, lo que es fundamental para el desarrollo de la **Web Semántica**.
+

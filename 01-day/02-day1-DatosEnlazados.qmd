@@ -1,0 +1,29 @@
+---
+title: "Introducción a los datos enlazados"
+page-navigation: true
+---
+
+## ¿Qué son los Datos Enlazados?
+
+Los **Datos Enlazados** (*Linked Data* en inglés) son una forma de publicar y conectar datos en la web de manera estructurada, utilizando estándares abiertos que permiten que la información sea interrelacionada, accesible y procesada tanto por humanos como por máquinas. Este concepto se deriva del principio de que los datos en la web deben estar conectados de manera que se puedan cruzar referencias fácilmente.
+
+### Principios de los Datos Enlazados
+
+Tim Berners-Lee, el creador de la web, definió cuatro principios fundamentales para los datos enlazados:
+
+1. **Usar URIs para identificar recursos**: Todos los objetos o conceptos a describir deben tener una dirección única en la web, conocida como URI (Identificador Uniforme de Recursos).
+
+2. **Usar URIs HTTP para que la gente pueda buscarlos**: Esto significa que cualquier persona debe poder acceder a los datos simplemente colocando la URI en su navegador.
+
+3. **Proporcionar información útil al buscar una URI**: Cuando alguien accede a una URI, debe recibir información relevante sobre el recurso. Esto normalmente se hace en formatos legibles tanto para humanos como para máquinas, como RDF (Resource Description Framework).
+
+4. **Incluir enlaces a otras URIs**: De esta forma, los usuarios pueden descubrir recursos adicionales y conectar datos en diferentes contextos.
+
+## Importancia de los Datos Enlazados
+
+Los datos enlazados facilitan la creación de un **ecosistema de datos interconectados** en la web. Algunos beneficios clave incluyen:
+
+- **Interoperabilidad**: Los datos publicados de esta manera pueden ser utilizados y combinados fácilmente por diferentes aplicaciones.
+- **Datos enriquecidos**: Las conexiones entre conjuntos de datos permiten obtener información más rica y completa.
+- **Acceso abierto**: Los datos enlazados promueven la transparencia y el acceso abierto a la información.
+

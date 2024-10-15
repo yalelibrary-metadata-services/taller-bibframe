@@ -1,0 +1,91 @@
+---
+title: "¿Qué es BIBFRAME?"
+page-navigation: true
+---
+
+## ¿Qué es BIBFRAME?
+
+**BIBFRAME (Bibliographic Framework Initiative)** es una ontología desarrollada por la **Library of Congress** que reemplaza el tradicional formato **MARC (Machine-Readable Cataloging)** con una estructura más moderna basada en los principios de la Web Semántica. BIBFRAME fue diseñado para facilitar la gestión y el intercambio de datos bibliográficos en un entorno digital y para hacer que las bibliotecas sean más accesibles en la web.
+
+### Objetivo de BIBFRAME
+
+BIBFRAME busca transformar el modo en que los sistemas de bibliotecas describen y comparten sus recursos bibliográficos, alineando los datos de las bibliotecas con los estándares de la Web Semántica y permitiendo su integración en la red global de datos enlazados.
+
+### Componentes de BIBFRAME
+
+BIBFRAME se basa en tres clases principales:
+
+1. **Trabajo (Work)**: Representa el contenido intelectual o artístico de un recurso.
+   
+2. **Instancia (Instance)**: Describe una manifestación física o digital específica del trabajo (por ejemplo, una edición o publicación específica).
+   
+3. **Elemento (Item)**: Describe una copia particular de una instancia (por ejemplo, un libro físico en una biblioteca específica).
+
+### Ejemplo de BIBFRAME en Turtle:
+
+```turtle
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix ex: <http://example.org/> .
+
+ex:Trabajo1 a bf:Work ;
+    bf:title "Don Quijote de la Mancha" ;
+    bf:creator ex:Autor1 .
+
+ex:Autor1 a bf:Agent ;
+    bf:label "Miguel de Cervantes" .
+
+ex:Instancia1 a bf:Instance ;
+    bf:instanceOf ex:Trabajo1 ;
+    bf:issuedDate "1605" ;
+    bf:carrier ex:FormatoImpreso .
+
+ex:Item1 a bf:Item ;
+    bf:itemOf ex:Instancia1 ;
+    bf:shelfMark "PQ6323.A1" .
+```
+
+### Explicación del Ejemplo:
+
+1. **Trabajo (Work)**: `Trabajo1` representa la obra intelectual "Don Quijote de la Mancha", con el autor `Autor1` que es "Miguel de Cervantes".
+2. **Instancia (Instance)**: `Instancia1` es una edición específica del trabajo "Don Quijote", publicada en 1605.
+3. **Elemento (Item)**: `Item1` es una copia física de la instancia, identificada con un número de catálogo (`shelfMark`).
+
+## Comparación BIBFRAME y MARC
+
+### BIBFRAME
+
+- **Basado en RDF**: Los datos bibliográficos se estructuran usando principios de la Web Semántica, lo que permite enlazarlos con otros datos en la web.
+- **Mayor flexibilidad**: BIBFRAME puede representar relaciones complejas y múltiples formatos de recursos, lo que facilita la adaptación a nuevas tecnologías.
+
+### MARC
+
+- **Basado en registros planos**: Los datos bibliográficos en MARC se organizan en registros que contienen campos fijos y etiquetas. Aunque es eficiente para catalogar, tiene limitaciones cuando se trata de representar relaciones más complejas entre los recursos.
+- **Uso en entornos cerrados**: MARC fue diseñado principalmente para sistemas de bibliotecas y no está optimizado para la web.
+
+## Beneficios de BIBFRAME
+
+### 1. **Interoperabilidad**
+BIBFRAME facilita la interoperabilidad entre bibliotecas y otras instituciones, ya que sus datos pueden ser fácilmente compartidos y reutilizados en la web utilizando los estándares de la Web Semántica.
+
+### 2. **Accesibilidad Global**
+Al adoptar BIBFRAME, las bibliotecas pueden hacer que sus recursos bibliográficos sean más accesibles en la web, ya que los datos pueden integrarse con otras fuentes de información en la web de datos enlazados.
+
+### 3. **Mayor Flexibilidad**
+A diferencia de MARC, que tiene una estructura rígida, BIBFRAME ofrece flexibilidad en la representación de datos, lo que permite adaptarse mejor a nuevos tipos de recursos y tecnologías.
+
+### 4. **Conexión con Datos Externos**
+BIBFRAME facilita la conexión de los datos bibliográficos con otros conjuntos de datos en la web (por ejemplo, bases de datos de autores, instituciones, etc.), lo que enriquece la información disponible para los usuarios.
+
+## Aplicaciones de BIBFRAME
+
+1. **Bibliotecas Digitales**: BIBFRAME se está adoptando en bibliotecas digitales para reemplazar MARC y mejorar la interoperabilidad de los recursos bibliográficos en la web.
+   
+2. **Gestión de Datos Bibliográficos**: Las plataformas de gestión de bibliotecas están comenzando a adoptar BIBFRAME para permitir una mejor integración de sus catálogos con otros recursos en la Web Semántica.
+
+3. **Interconexión de Recursos**: Al estar basado en RDF, BIBFRAME permite enlazar datos bibliográficos con recursos externos, como biografías de autores, reseñas, y otros datos relacionados.
+
+## Conclusión
+
+Las **ontologías** como BIBFRAME son fundamentales en el ámbito de la Web Semántica y los Datos Enlazados, permitiendo estructurar y compartir conocimiento de manera interoperable. BIBFRAME, en particular, está transformando la manera en que las bibliotecas gestionan y publican sus recursos bibliográficos, alineando sus datos con los principios de la Web Semántica y facilitando la interconexión de los datos bibliográficos con el ecosistema global de datos enlazados. 
+
+El uso de BIBFRAME permite a las bibliotecas hacer que sus colecciones sean más accesibles, flexibles y conectadas con

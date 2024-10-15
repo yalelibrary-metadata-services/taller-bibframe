@@ -1,0 +1,6 @@
+---
+title: "Actividad Guiada: "
+page-navigation: true
+---
+
+https://github.com/timathom/EBSCO-Linked-Data-Training/blob/main/content/markdown/day_1/lesson_2/exercises_with_rdf_and_turtle.md
