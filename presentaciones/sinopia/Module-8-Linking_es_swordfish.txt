@@ -1,0 +1,144 @@
+Módulo 8 Sinopia
+Enlazando Descripciones Relacionadas
+
+Alcance de este módulo
+2
+Módulo 8: Vinculando descripciones relacionadas abarca 
+Crear enlaces entre descripciones que representan los diferentes niveles del modelo BIBFRAME 
+Crear enlaces entre Obras relacionadas e Instancias
+
+Plantillas PCC Sinopia y BIBFRAME
+3
+Cada plantilla principal de PCC Sinopia representa un único nivel central del modelo BIBFRAME. Una Obra, una Instancia o un Ítem
+
+_PCC BF2 Work (Monograph) = Work_PCC BF2 Instance (Monograph) = Instance
+
+_PCC BF2 Item (Monograph) = Item
+
+
+Vínculos entre niveles
+Ambos una plantilla de Instancia y una plantilla de Obra son necesarias para completar una descripción PCC BIBCO 
+Las plantillas separadas permiten que cada nivel actúe de forma independiente y sea fácilmente reutilizables 
+La descripción del Ítem es actualmente opcional
+4
+Descripción del la Obra
+Descripción de la Instancia
+Descripción del Ítem
+Solo son necesarios los enlaces desde la Instancia a la Obra o al Ítem (= flecha azul oscuro) 
+Sinopia comprende automáticamente el enlace inverso (= flecha punteada)
+
+Enlazar la Instancia a la Obra
+5
+Descripción del la Obra
+Descripción de la Instancia
+Plantilla de Instancia de PCC BF2 (Monografía)
+Utilice el campo "Instancia de" cerca de la parte superior de la plantilla para enlazar la descripción de la Instancia con la descripción de la Obra.
+
+Enlazar la Instancia a la Obra
+Hay 3 opciones para enlazar a una Obra:
+ 
+Realice una búsqueda de una Obra que ya existe en Sinopia. 
+Cree un nuevo trabajo y luego busque en Sinopia 
+Agregue un URI y etiqueta de otra fuente
+6
+
+Realizar una búsqueda en Sinopia para encontrar un Trabajo preexistente
+Haz esto si:
+Cree que pueda haber una Obra para su Instancia ya en la base de datos
+ 
+Ya ha creado una nueva Obra y quieres enlazar a ella
+7
+¿Cómo?
+Simplemente realice una búsqueda por palabra clave del título que desee. Sinopia buscará obras de BIBFRAME.
+
+1.1 Realizar una búsqueda en Sinopia para encontrar una Obra preexistente
+Realice una búsqueda de palabras clave 
+Pulse en la descripción de la Obra e ingrese 
+ 
+ 
+El URI y la etiqueta enlazarán con la Obra desde dentro de su Instancia
+8
+
+2. Crear una nueva Obra
+9
+¿Cómo?
+ 
+Pulse en el botón "Crear Nuevo"
+Seleccione una plantilla apropiada de la lista de plantillas
+Alternativamente, Pulse en "Plantillas de recursos“ (Resource Templates) en la parte superior de la página y seleccione de su lista de plantillas usadas recientemente
+ 
+Haga esto si:
+ 
+Ha buscado en Sinopia y sabe que no hay ninguna descripción de trabajo disponible
+
+2.1 Crear una nueva Obra
+Se abrirá una nueva plantilla de Obra con el título de la Obra completado basado en el título de la Instancia. 
+Edite el título de la Obra según sea necesario 
+Cree la descripción de su Obra 
+Guarde la descripción 
+Copie el URI de su Obra 
+Vuelva a la descripción de su Instancia, pegue la URI copiada y realice una búsqueda para enlazar la Obra
+10
+
+3. Agregar manualmente un URI y etiqueta
+11
+¿Cómo?
+ 
+Haz clic en "Ingresa tu propio URI y etiqueta"
+Haga esto si:
+ 
+Quiere enlazar a una descripción de Obra que está fuera de Sinopia (por ejemplo, SVDE)*
+
+3.1 Agregar manualmente un URI y etiqueta
+La pantalla cambiará para permitir la entrada manual
+ 
+ 
+12
+Escriba (o copie y pegue) su URI y etiqueta. Asegúrese de que no haya espacios adicionales.
+
+Obras relacionadas
+13
+Para vincular dos Obras relacionadas (por ejemplo, una novela y una adaptación cinematográfica de la novela o una obra individual dentro de una recopilación), utilice el campo de Obra Relacionada (Related Work) en una plantilla de Obra.
+Este campo incluye varias subplantillas incrustadas (ver Módulo 4: Acerca de las Plantillas de PCC para obtener más información). Para agregar datos, primero necesita pulsar en +Agregar Obra relacionada, y luego en +Agregar Obra (ver pantalla siguiente).
+
+Agregar un enlace a una Obra relacionada
+14
+Al igual que al enlazar Obras e Instancias, se puede enlazar a una obra relacionada por:
+ 
+Buscando la Obra en Sinopia y enlazándola
+ 
+Creando una nueva Obra y enlazándola con ella
+ 
+Añadiendo manualmente un URI externo y una etiqueta
+
+Agregar un término de relación de Obra a Obra
+Para agregar el tipo de relación, abra el campo de Relación (Relationship)
+15
+Seleccione la relación adecuada del menú desplegable
+
+Agregar una nota de Obra relacionada
+Si siente que el término de relación seleccionado necesita una descripción adicional, agregue una nota
+16
+
+Obra relacionada: enlaces inversos
+Crear un enlace desde Obra 1 a Obra 2 no crea automáticamente un enlace de Obra 2 a Obra 1.
+ 
+Si desea crear un enlace inverso (recíproco), vaya a Obra 2 y cree un enlace de obra relacionado de regreso a Obra 1, con el tipo de relación recíproca.
+17
+Obra 1
+Obra 2
+
+Enlazar más de una Instancia a una Obra
+18
+Una Obra puede tener más de una Instancia, por ejemplo, una versión impresa y una versión electrónica del mismo libro. Puede enlazar ambas instancias a la misma descripción de la Obra; no es necesario crear una nueva. De igual manera, una Instancia puede tener más de un Ítem
+Por eso, las plantillas Obra & Instancia están separadas. ¡Así se pueden reusar descripciones!
+
+
+Descripción del la Obra
+Descripción de la Instancia1
+Descripción de la Instancia2
+* Oficialmente, una Instancia de BIBFRAME también puede estar enlazada a más de una Obra. Por razones técnicas, aún no se estan utilizando en las plantillas PCC.
+Ítem1
+Ítem2
+
+Fin del Módulo 8

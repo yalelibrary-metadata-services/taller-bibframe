@@ -1,0 +1,124 @@
+---
+format:
+  revealjs: 
+    theme: simple
+    logo: fig/pcclogo.png
+title: "Módulo 2: Empezando en Sinopia"
+subtitle: Traducción al español por Daniel Mugaburu
+author: PCC SCT Task Group
+date: 2024/10/24
+---
+
+## Alcance de este módulo
+
+Este módulo abarca lo siguiente:
+- Lo que puedes hacer en Sinopia
+- Entornos de Sinopia y navegadores web compatibles
+- Creando una cuenta de Sinopia
+- Navegando por la interfaz de Sinopia
+- Informando errores
+
+## ¿Qué es Sinopia?
+
+- Sinopia es un entorno de creación de datos enlazados, desarrollado por [Linked Data for Production(LD4P)](https://wiki.lyrasis.org/pages/viewpage.action?pageId=74515029), financiado por la Fundación Mellon.
+  
+-  Sinopia permite a los catalogadores:
+  - Catalogar en un entorno de datos enlazados sin tener que configurar y mantener herramientas localmente
+  - Desarrollar las mejores prácticas relacionadas con la creación de datos enlazados
+  - Explorar la catalogación cooperativa en un entorno de datos enlazados
+
+## "Stage" vs Producción
+
+Entorno de prueba de usuarios de Sinopia destinado para práctica
+Los usuarios pueden crear datos durante el entrenamiento y no preocuparse por la calidad de los datos
+Las descripciones (y plantillas) pueden ser eliminadas de vez en cuando
+Plantillas de PCC disponibles (ver Módulo 4: Acerca de las plantillas PCC)
+Entorno para la creación de metadatos a nivel de "producción" o "permanente".
+Los metadatos en este repositorio se guardarán por un mínimo de 5 años después de que finalice la subvención LD4P3 (2026)
+A partir de la publicación de este entrenamiento, las Plantillas PCC aún no están disponibles
+Hay dos entornos principales de Sinopia, Stage y Producción :
+stage.sinopia.io
+sinopia.io
+
+Desarrollo de Sinopia (Sinopia Development)
+El desarrollo de Sinopia es principalmente para el uso de desarrolladores y propietarios de productos de Sinopia. El enfoque es probar actualizaciones de Sinopia antes de su lanzamiento. 
+También está siendo utilizado actualmente por un grupo de pruebas de Ex Libris Alma 
+Por favor, solo use Sinopia Development si forma parte del grupo de pruebas de Ex Libris Alma
+5
+
+Navegadores web compatibles
+6
+Sinopia es basado en la web, por lo que no tiene que instalar ningún software
+Puede usar cualquier navegador, pero tenga en cuenta que las actualizaciones de Sinopia solo se prueban en Chrome
+Informe cualquier problema con otros navegadores si los encuentra
+
+Cuentas
+7
+Necesita una cuenta de Sinopia para:
+Crear descripciones
+Editar descripciones
+Explorar, buscar y visualizar descripciones existentes 
+Necesita cuentas separadas para Stage y Producción, por lo que si desea utilizar ambas, necesitará registrarse dos veces
+ 
+Puede usar el mismo nombre de usuario, correo electrónico y contraseña para ambos, si lo prefiere
+ 
+ 
+
+Para crear una cuenta
+8
+Vaya a stage.sinopia.io o sinopia.io 
+Pulse en Solicitar Cuenta (Request Account) 
+Ingrese un nombre de usuario, correo electrónico y contraseña. 
+Pulse en el botón "Continuar" 
+Recibirá un correo electrónico pidiéndole que confirme.
+
+
+Su nombre de usuario = ID de catalogador
+9
+Su nombre de usuario no sólo es su acceso a Sinopia cuando use plantillas de Sinopia; se auto-llenará en todas sus descripciones como su ID de catalogador y otros usuarios lo verán. Por favor, ¡téngalo en cuenta al elegir!
+
+Después de iniciar sesión
+10
+Una vez que cree una cuenta e inicie la sesión, su pantalla lucirá así:
+ 
+Pulse en el botón del Editor de Datos Vinculados (Linked Data Editor) para empezar a usar Sinopia.
+
+Navegando en Sinopia
+11
+Barra de búsqueda
+Buscar  descripciones creadas en Sinopia. 
+
+Ver Módulo 3: Buscar datos creados en Sinopia
+Ayuda 
+Sitio de ayuda de Sinopia
+Informar errores
+Sugerir una nueva característica
+Notas de la versión
+Búsquedas y Ayuda
+Buscar y seleccionar plantillas de recursos. 
+
+Ver Módulo 4: Sobre las plantillas de PCC
+Menú desplegable de acciones 
+Cargar RDF
+Exportaciones
+Ver métricas
+Recursos
+Plantillas
+Usuarios
+no incluido en este entrenamiento
+Después de pulsar en el Editor de Datos Enlazados, estarás en el Panel de Control, el cual contiene enlaces a sus plantillas recientes, búsquedas y otros recursos. Otros enlaces son:
+ 
+
+Sitio de Ayuda de Sinopia
+12
+¡Su opinión es importante! Desde el menú de Ayuda, pulse en Reportar un error para informar problemas, o Sugerir una nueva característica para proponer nuevas ideas para Sinopia. Ambos enlaces abren un formulario en GitHub. Necesitará crear una cuenta gratuita de GitHub (www.github.com) para completar los formularios.
+ 
+Puede hacer preguntas, informar problemas y sugerir ideas en el canal de Slack #sinopiaenelEspacio deTrabajoLD4 (ld4.slack.com)
+
+Detalles técnicos de la sinopia
+Este entrenamiento se basa en Sinopia versión 3.17.74, lanzada en diciembre de 2023, con correcciones de errores y actualizaciones lanzadas periódicamente desde entonces. 
+Si desea obtener más detalles sobre la última versión de Sinopia y ver notas sobre cada lanzamiento, visite el sitio de ayuda de Sinopia desde el menú de Ayuda, o vaya a help.sinopia.io, y luego pulse en Último lanzamiento. 
+Hay videos cortos que muestran las características de Sinopia disponibles en YouTube 
+13
+
+Fin del Módulo 2
