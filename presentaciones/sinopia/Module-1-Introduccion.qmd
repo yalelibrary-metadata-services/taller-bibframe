@@ -1,7 +1,7 @@
 ---
 format:
   revealjs: 
-    theme: simple
+    theme: custom.scss
     logo: fig/pcclogo.png
 title: "Módulo 1: Introducción al Entrenamiento de Sinopia"
 subtitle: Traducción al español por Daniel Mugaburu

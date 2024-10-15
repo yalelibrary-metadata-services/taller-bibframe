@@ -1,0 +1,109 @@
+---
+format:
+  revealjs: 
+    theme: custom.scss
+    logo: fig/pcclogo.png
+title: "Módulo 3: Buscando datos creados en Sinopia"
+subtitle: Traducción al español por Daniel Mugaburu
+author: PCC SCT Task Group
+date: 2024/10/24
+---
+
+## Alcance de este Módulo:
+ 
+- Encontrar descripciones en Sinopia después de que se hayan creado usando la pestaña de Búsqueda.
+- Filtrar los resultados de las búsquedas.
+- Usar el panel de control para ver búsquedas recientes
+
+## Cuándo buscar​
+
+![](fig/menu_search_sinopia.png)
+
+Busque datos creados en Sinopia para:
+ 
+- Verificar si algo ya ha sido catalogado para poder reutilizar los metadatos
+- Encontrar una descripción que ya está en Sinopia para ver, editar o hacer una copia de ella
+- Buscar Obras o Instancias relacionadas para enlazar a la descripción
+ 
+## Iniciando una búsqueda
+
+- Verifique que el menú desplegable de búsqueda esté configurado en el valor predeterminado Sinopia.
+- Escriba su búsqueda en la cuadrilla Ingresar consulta y pulse en el icono 🔎, o pulse Enter.
+
+![](fig/menu_searchbar_sinopia.png)
+
+## ¿Qué se está buscando?
+- La función de búsqueda realiza una búsqueda de palabras clave en todos los datos literales de cualquier campo.
+- La búsqueda no distingue entre mayúsculas y minúsculas. 
+- Ejemplo: El término `francés` encuentra **f**rancés y **F**rancés
+ 
+![](fig/search_french.png)
+
+## Ordenando los resultados
+- Los resultados se ordenan por relevancia de forma predeterminada
+- Las coincidencias encontradas en campos de título son consideradas más relevantes que otras coincidencias.
+- Seleccione un orden diferente utilizando el menú desplegable de "Ordenar por".
+- Ordenar por etiqueta es equivalente a ordenar por el título de la obra o manifestación.
+  
+![](fig/search_sortby_sinopia.png)
+
+
+## Búsquedas de varias palabras: “Y” de forma predeterminada
+- El operador predeterminado para búsquedas de múltiples palabras es “Y” (And), y por eso no hay que ponerlo entre términos. 
+- Ejemplo: 
+  - El término `french history` (historia francesa) encuentra cualquier objeto que incluya las palabras "history" y "french" dentro de su descripcion. 
+  - Entre sus resultados encontramos libros escritos en francés y libros sobre historia francesa.
+
+![](fig/search_frenchhistory_sinopia.png)
+
+## Búsquedas de varias palabras: Usando O
+
+- Para búsquedas O (Or), utilize la barra vertical (|)
+- Ejemplo: 
+  - El término `history|french` (historia | francesa) encuentra objetos que contengan las palabras 'history' o 'french'.
+  - Entre sus resultados encontramos escritos sobre gramática francesa y teoria de la historia.
+
+![](fig/search_frenchhistory2_sinopia.png)
+
+
+## Derivación de palabras y Buscar todo
+
+- La búsqueda predeterminada es de palabras completas. 
+
+- Utilice un asterisco * como carácter comodín para truncar/derivados de una palabra
+  
+    - Ejemplo: Buscar `sun` no encuentra `sunshine` (soleado), pero buscar sun* encuentra sunshine (soleado), sunrise (amanecer), sunflower (girasol) etc.
+  
+    ![](fig/searchbar_entry_sinopia.png)
+
+- Para encontrar todo el material catalogado, busca con solo el carácter comodín (*).
+
+## Filtrando resultados
+
+- Para reducir el número de resultados, se puede filtrar por la clase del recurso, o por la institución o grupo que creó la descripción.
+
+- Pulse en el botón de "Filtrar por" (Filter by) y luego desmarque las categorías que no quiere en sus resultados. 
+
+- Pulse en "Ir" (Go) para filtrar la lista de resultados según las categorías que seleccione.
+
+![](fig/filter_results.png)
+
+## Buscando desde el panel de control
+
+- El Panel de control guarda sus búsquedas más recientes 
+- Para volver a realizar una búsqueda reciente, vaya a la pestaña de tablero (Dashboard) y desplácese hacia abajo hasta las búsquedas recientes. 
+- Pulse en la lupa ubicada en la misma celda del término para repetir la búsqueda.  
+
+![](fig/home_recentsearch_sinopia.png)
+
+## Buscando por URI
+
+- Cada descripción en Sinopia se le asigna un URI cuando se guarda por primera vez.
+- Si conoce el URI que corresponde a una descripción, introdúzcalo en el cuadro de búsqueda.
+- Los resultados incluyen la descripción con ese URI, y cualquier otra descripción que se refiera a él.
+
+![](fig/urisearch_sinopia.png)
+
+## Fin del Módulo 3
+
+Gracias

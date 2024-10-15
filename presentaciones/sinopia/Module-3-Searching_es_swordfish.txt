@@ -1,83 +1,0 @@
-Módulo 3 de Entrenamiento Sinopia
-Buscando datos creados en Sinopia
-
-2
-Módulo 3: Buscando Datos Creados en Sinopia abarca
- 
-Encontrar descripciones en Sinopia después de que se hayan creado usando la pestaña de Búsqueda
-Filtrar los resultados de las búsquedas
-Usar el panel de control para ver búsquedas recientes
-Alcance de este módulo
-
-3
-Busque datos creados en Sinopia para:
- 
-Verificar si algo ya ha sido catalogado para poder reutilizar los metadatos
-Encontrar una descripción que ya está en Sinopia para ver, editar o hacer una copia de ella
-Buscar Obras o Instancias relacionadas para enlazar a la descripción
- 
-Cuándo buscar
-
-Iniciando una búsqueda
-Verifique que el menú desplegable de búsqueda esté configurado en el valor predeterminado Sinopia.
-Escriba su búsqueda en la cuadrilla Ingresar consulta y pulse en el icono       , o pulse Enter.
-4
-
-¿Qué se está buscando?
-La función de búsqueda realiza una búsqueda de palabras clave en todos los datos literales de cualquier campo. 
-La búsqueda no distingue entre mayúsculas y minúsculas. 
-Ejemplo: francés encuentra francés y Francés
- 
- 
-5
-
-Ordenando los resultados
-Los resultados se ordenan por relevancia de forma predeterminada
-Las coincidencias encontradas en campos de título son  consideradas más relevantes que otras coincidencias 
-Seleccione un orden diferente utilizando el menú desplegable de "Ordenar por".
-Ordenar por etiqueta es equivalente a ordenar por el título de la obra o instancia.
-6
-
-Búsquedas de varias palabras: “Y” de forma predeterminada
-El operador predeterminado para búsquedas de múltiples palabras es “Y” 
-Ejemplo: historia francesa encuentra folletos de historia francesa pero no un censo de la escultura francesa
-7
-
-Búsquedas de varias palabras: Usando OR
-Para búsquedas OR, utilize la barra vertical 
-Ejemplo: historia | francesa  encuentra folletos de historia francesa, el censo de la escultura francesa, y Una historia de Roma
-8
-
-Búsquedas de varias palabras: Frases
-Las búsquedas de varias palabras no se manejan como búsquedas de frases; utilice comillas para búsquedas de frases.
-Ejemplos: 
-Buscar: historia francesa Resultado: Panfletos de historia francesa y Panfletos de la Revolución Francesa, una historia 
-Buscar: "historia francesa"Resultado: panfletos de historia francesa pero no panfletos de la Revolución Francesa, una historia
- 
-9
-
-Derivación de palabras y Buscar todo
-La búsqueda predeterminada es de palabras completas. 
-Utilice un asterisco * como carácter comodín para truncar/derivados de una palabra
-Ejemplo: Buscar sol no encuentra solisticio, pero buscar sol* encuentra sol, solisticio, soledad, etc. 
-Para "encontrar todo", busca con solo el carácter comodín (*).
-10
-
-Filtrando resultados
-Para reducir el número de resultados, se puede filtrar por la clase del recurso, o por la institución o grupo que creó la descripción. 
-Pulse en un botón de Filtrar por y luego desmarque las categorías que no quiere en sus resultados. 
-Pulse en Ir para filtrar la lista de resultados según las categorías que seleccione.
-11
-
-Buscando desde el panel de control
-12
-El Panel de control guarda sus búsquedas más recientes 
-Para volver a realizar una búsqueda reciente, vaya a la pestaña de Tablero y desplácese hacia abajo hasta las Búsquedas recientes.  Pulse en la lupa para realizar la búsqueda.  
-
-Buscando por URI
-13
-Cada descripción en Sinopia se le asigna un URI cuando se guarda por primera vez; aprenderá en el Módulo 7 cómo guardar sus descripciones; a cada descripción se le asigna un URI 
-Si conoce el URI que corresponde a una descripción, introdúzcalo en el cuadro de búsqueda. 
-Los resultados incluyen la descripción con ese URI, y cualquier otra descripción que se refiera a él.
-
-Fin del Módulo 3

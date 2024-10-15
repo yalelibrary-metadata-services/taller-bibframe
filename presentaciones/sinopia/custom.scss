@@ -1,0 +1,64 @@
+/*-- scss:defaults --*/
+$body-bg: white !default;
+$body-color: black !default;
+$link-color: #084a75 !default;
+$input-panel-bg: rgba(233, 236, 239, 0.2) !default;
+$base-font-size: 2vw;
+$heading-font-size: 4vw;
+
+
+/*-- scss:rules --*/
+
+.reveal {
+    font-size: $base-font-size;
+}
+
+// Adjust specific elements
+.reveal h1 {
+    font-size: $heading-font-size;
+    line-height: 1.2; 
+}
+
+.reveal h2 {
+    font-size: $heading-font-size * 0.8;
+}
+
+.reveal p {
+    font-size: $base-font-size;
+}
+
+.reveal ul li {
+    font-size: 1.8vw; // Lists also scale with viewport width
+}
+
+// Optional: Specific slide style
+.reveal section.special-slide {
+    h1 {
+        font-size: 5vw; // Larger font size for a special slide
+    }
+    p {
+        font-size: 3vw;
+    }
+}
+
+// Apply different styles based on screen size
+@media only screen and (max-width: 600px) {
+    .reveal {
+        font-size: 3vw; // Increase font size on small screens
+    }
+    .reveal h1 {
+        font-size: 6vw;
+    }
+    .reveal p {
+        font-size: 2.5vw;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .reveal {
+        font-size: 1.5vw; // Decrease font size on large screens
+    }
+    .reveal h1 {
+        font-size: 3vw;
+    }
+}
