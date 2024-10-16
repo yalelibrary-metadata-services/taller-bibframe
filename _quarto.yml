@@ -22,36 +22,6 @@ website:
       title: "Día 1"
       style: "docked"
       background: light
-<<<<<<< HEAD
-      href: 01-day/00-day1-L0-ProgramaSugerido.qmd
-      contents:
-      - href: 01-day/00-day1-L0-ProgramaSugerido.qmd
-        text: Introducción Día 1 
-    - id: dia2
-      title: "Día 2"
-      href: 02-day/00-day2-L0-ProgramaSugerido.qmd
-      contents:
-      - href: 02-day/00-day2-L0-ProgramaSugerido.qmd
-        text: Introducción Día 2
-    - id: dia3
-      title: "Día 3"
-      href: 03-day/00-day3-L0-ProgramaSugerido.qmd
-      contents:
-      - href: 03-day/00-day3-L0-ProgramaSugerido.qmd
-        text: Introducción Día 3
-    - id: dia4
-      title: "Día 4"
-      href: 04-day/00-day4-L0-ProgramaSugerido.qmd
-      contents:
-      - href: 04-day/00-day4-L0-ProgramaSugerido.qmd
-        text: Introducción Día 4
-    - id: dia5
-      title: "Día 5"
-      href: 05-day/00-day5-L0-ProgramaSugerido.qmd
-      contents:
-      - href: 05-day/00-day5-L0-ProgramaSugerido.qmd
-        text: Introducción Día 5
-=======
       href: 01-day/00-day1-ProgramaSugerido.qmd
       contents:
       - href: 01-day/00-day1-ProgramaSugerido.qmd
@@ -95,7 +65,6 @@ website:
         contents:
         - 05-day/00-day5-ProgramaSugerido.qmd
         - 05-day/01-day5-Resumen.qmd
->>>>>>> origin/main
 format:
   html:
     theme: yeti

@@ -1,152 +1,5 @@
 [
   {
-<<<<<<< HEAD
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introducción al entorno de BIBFRAME",
-    "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
-  },
-  {
-    "objectID": "index.html#descripcion-del-taller",
-    "href": "index.html#descripcion-del-taller",
-    "title": "Introducción al entorno de BIBFRAME",
-    "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
-  },
-  {
-=======
->>>>>>> origin/main
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Acerca de",
-    "section": "",
-    "text": "Timothy A. Thompson es un profesional de la información con más de una década de experiencia en operaciones de metadatos, principalmente como bibliotecólogo en instituciones como la Universidad de Yale, y con experiencia adicional como ontólogo empresarial en el sector privado. Tiene maestrías tanto en Bibliotecología como en Ciencias de Datos. Su labor ha incluido la creación, análisis y transformación de metadatos en una variedad de estándares y formatos, así como la mediación entre expertos en la materia y tecnólogos. Ha trabajado con estándares de datos enlazados desde 2016, con un enfoque en el modelado semántico de datos para materiales de patrimonio cultural.\nIrma Fraticelli-Rodríguez es una profesional de la información en las primeras etapas de su carrera profesional y cuenta con una formación especializada en curaduría digital y manejo de datos. Actualmente, trabaja en la Universidad de Yale como Analista de Metadatos, donde se encarga de la corrección y normalización de metadatos dentro de los catálogos en línea y los sistemas de descubrimiento de la biblioteca.\nÁlvaro López Bustamante es bibliotecólogo y Magister en Lingüística Aplicada. Tiene más de 15 años de experiencia en bibliotecas universitarias, y lideró por dos años y medio, la primera implementación de BIBFRAME en América Latina, en la Universidad de Concepción (Chile). Posee amplia experiencia en ejecución de proyectos, y se especializa en BIBFRAME y su implementación. Actualmente, cumple el rol de Community Advisor para EBSCO FOLIO, y está a cargo de apoyar el desarrollo de la comunidad de FOLIO en América Latina."
-  },
-  {
-    "objectID": "about.html#los-presentadores",
-    "href": "about.html#los-presentadores",
-    "title": "Acerca de",
-    "section": "",
-    "text": "Timothy A. Thompson es un profesional de la información con más de una década de experiencia en operaciones de metadatos, principalmente como bibliotecólogo en instituciones como la Universidad de Yale, y con experiencia adicional como ontólogo empresarial en el sector privado. Tiene maestrías tanto en Bibliotecología como en Ciencias de Datos. Su labor ha incluido la creación, análisis y transformación de metadatos en una variedad de estándares y formatos, así como la mediación entre expertos en la materia y tecnólogos. Ha trabajado con estándares de datos enlazados desde 2016, con un enfoque en el modelado semántico de datos para materiales de patrimonio cultural.\nIrma Fraticelli-Rodríguez es una profesional de la información en las primeras etapas de su carrera profesional y cuenta con una formación especializada en curaduría digital y manejo de datos. Actualmente, trabaja en la Universidad de Yale como Analista de Metadatos, donde se encarga de la corrección y normalización de metadatos dentro de los catálogos en línea y los sistemas de descubrimiento de la biblioteca.\nÁlvaro López Bustamante es bibliotecólogo y Magister en Lingüística Aplicada. Tiene más de 15 años de experiencia en bibliotecas universitarias, y lideró por dos años y medio, la primera implementación de BIBFRAME en América Latina, en la Universidad de Concepción (Chile). Posee amplia experiencia en ejecución de proyectos, y se especializa en BIBFRAME y su implementación. Actualmente, cumple el rol de Community Advisor para EBSCO FOLIO, y está a cargo de apoyar el desarrollo de la comunidad de FOLIO en América Latina."
-  },
-  {
-    "objectID": "about.html#sobre-el-contenido",
-    "href": "about.html#sobre-el-contenido",
-    "title": "Acerca de",
-    "section": "Sobre el contenido:",
-    "text": "Sobre el contenido:\nEl Asistente Técnico de Metadatos de la Universidad de Yale,Daniel Mugaburu, estuvo a cargo de la traducción de los materiales de estudio.\nLos materiales presentados en clase son adaptaciones al español de los siguientes recursos:\n\nEBSCO Linked Data Training por Timothy A. Thompson\nSinopia Trainning por el PCC Standing Committee on Training\nMarva BIBFRAME User Manual por la Biblioteca del Congreso (EE.UU)"
-  },
-  {
-    "objectID": "about.html#calendario",
-    "href": "about.html#calendario",
-    "title": "Acerca de",
-    "section": "Calendario",
-    "text": "Calendario\nEste taller se estara ofreciendo como parte de las actividades para XXXVI Semana de la Facultad de Ciencias de la Información de la Universidad Autónoma de San Luis de Potosí que se estará celebrando desde el lunes 21 de octubre de 2024 hasta el viernes 25 de octubre de 2024.\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n21 de Octubre\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n22 de Octubre\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n23 de Octubre\nPresentación por el Mtro. Álvaro López Bustamante, y continuación sobre temas relacionados a BIBFRAME\n\n\n24 de Octubre\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n25 de Octubre\nContinuación: Editores de datos enlazados Sinopia y Marva"
-  },
-  {
-    "objectID": "about.html#requerimientos-para-el-taller",
-    "href": "about.html#requerimientos-para-el-taller",
-    "title": "Acerca de",
-    "section": "Requerimientos para el taller:",
-    "text": "Requerimientos para el taller:\n\nRealizar la encuesta preliminar para el taller (las respuestas son anónimas).\nCrear una cuenta en Sinopia, ambiente “Stage” (https://stage.sinopia.io). Aquí están algunas instrucciones de cómo crear una cuenta.\nLuego, proporcionar la información de su nombre, nombre de usuario y correo electrónico a Tim Thompson (timothy.thompson@yale.edu), para que se pueda vincular su cuenta a un grupo creado en la plataforma de Sinopia para el taller. El nombre de usuario será su identificador como catalogador/a en Sinopia."
-  },
-  {
-<<<<<<< HEAD
-    "objectID": "05-day/00-day5-L0-ProgramaSugerido.html",
-    "href": "05-day/00-day5-L0-ProgramaSugerido.html",
-    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 5"
-    ]
-  },
-  {
-    "objectID": "03-day/00-day3-L0-ProgramaSugerido.html",
-    "href": "03-day/00-day3-L0-ProgramaSugerido.html",
-    "title": "BIBFRAME y otros modelos",
-    "section": "",
-    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:00\nConferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME, otros modelos y críticas\n\n\n10:45–11:45\nActividad\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 3"
-    ]
-  },
-  {
-    "objectID": "01-day/00-day1-L0-ProgramaSugerido.html",
-    "href": "01-day/00-day1-L0-ProgramaSugerido.html",
-    "title": "Introducción a la web semántica y los datos abiertos enlazados",
-    "section": "",
-    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nPresentaciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:00\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n10:00–10:30\nActividad: desmontando un registro MARC 21\n\n\n10:30–10:45\nReceso\n\n\n10:45–11:00\nDiscusión\n\n\n11:00–11:30\nDatos enlazados y bibliotecas\n\n\n11:30–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–1:00\nActividad (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales: [Google Docs link?]\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 1"
-=======
-    "objectID": "04-day/00-day4-L0-ProgramaSugerido.html",
-    "href": "04-day/00-day4-L0-ProgramaSugerido.html",
-    "title": "Editores de datos enlazados para BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 4"
->>>>>>> origin/main
-    ]
-  },
-  {
-    "objectID": "02-day/00-day2-L0-ProgramaSugerido.html",
-    "href": "02-day/00-day2-L0-ProgramaSugerido.html",
-    "title": "Introducción al esquema BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 2"
-    ]
-  },
-  {
-<<<<<<< HEAD
-    "objectID": "04-day/00-day4-L0-ProgramaSugerido.html",
-    "href": "04-day/00-day4-L0-ProgramaSugerido.html",
-=======
-    "objectID": "01-day/00-day1-L0-ProgramaSugerido.html",
-    "href": "01-day/00-day1-L0-ProgramaSugerido.html",
-    "title": "Introducción a la web semántica y los datos abiertos enlazados",
-    "section": "",
-    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nPresentaciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:00\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n10:00–10:30\nActividad: desmontando un registro MARC 21\n\n\n10:30–10:45\nReceso\n\n\n10:45–11:00\nDiscusión\n\n\n11:00–11:30\nDatos enlazados y bibliotecas\n\n\n11:30–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–1:00\nActividad (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales: [Google Docs link?]\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "03-day/00-day3-L0-ProgramaSugerido.html",
-    "href": "03-day/00-day3-L0-ProgramaSugerido.html",
-    "title": "BIBFRAME y otros modelos",
-    "section": "",
-    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:00\nConferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME, otros modelos y críticas\n\n\n10:45–11:45\nActividad\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 3"
-    ]
-  },
-  {
-    "objectID": "05-day/00-day5-L0-ProgramaSugerido.html",
-    "href": "05-day/00-day5-L0-ProgramaSugerido.html",
-    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 5"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introducción al entorno de BIBFRAME",
-    "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
-  },
-  {
-    "objectID": "index.html#descripcion-del-taller",
-    "href": "index.html#descripcion-del-taller",
-    "title": "Introducción al entorno de BIBFRAME",
-    "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
-  },
-  {
     "objectID": "presentaciones/Presentacion_Dias1_2_UnaIntroducciónAlEntornoDeBIBFRAME.html#quien-soy-quienes-somos",
     "href": "presentaciones/Presentacion_Dias1_2_UnaIntroducciónAlEntornoDeBIBFRAME.html#quien-soy-quienes-somos",
     "title": "Una introducción al entorno de BIBFRAME",
@@ -525,221 +378,11 @@
     "text": "Día 3"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#section",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#section",
-    "title": "Módulo de entrenamiento de Sinopia 1",
-    "section": "",
-    "text": "testGrupo de Capacitación de Sinopia (2019-2021) Paul Burley Adam Cohen Michelle Futornick Greta de Groat Jeannette Ho 2 John Hostage Nancy Lorimer Beth Picknally Camden Brian Stearns (Presidente) Craig Thomas\nDesarrolló el entrenamiento original para Sinopia\nGrupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-) Ben Abrahamse May Chan (Co-Presidente) Catrina Davis Abby Dover Paul Frank 3 Greta Heng Nancy Lorimer (Co-Presidente) Charlene Morrison Heather Pretty Adam L. Schiff\nActualizaciones a las diapositivas originales\n4 Antecedentes de Sinopia y de la serie original de entrenamiento\u000b Objetivos de aprendizaje para la serie de formación en su totalidad\u000b Organización de la serie de formación\u000b Referencias a recursos valiosos sobre datos enlazados y BIBFRAME para ayudarte a cumplir con los requisitos previos\u000b Apoyo disponible para usuarios de Sinopia Alcance de este módulo\nAntecedentes de la serie de entrenamiento de Sinopia Sinopia es un entorno (RDF) de datos enlazados hecho para la creación y reutilización de metadatos, desarrollado como parte de la serie de subvenciones Linked Data for Production financiada por la Fundación Mellon\u000b En conjunto con el desarrollo de Sinopia, PCC ha trabajado en estrecha colaboración con LD4P para proporcionar capacitación a los catalogadores de PCC mediante la creación\nFormación de catalogadores de Sinopia para PCC (primera versión de estas diapositivas) el grupo de afinidad PCC Sinopia, como parte de la comunidad LD4 (actualmente coordinada por Kalliopi Mathios, Ryan Mendenhall y Margarita Pérez Martínez) esta nueva actualización a las diapositivas originales de entrenamiento\n5\nObjetivos de aprendizaje de la serie de entrenamiento 6 Al final de esta serie de capacitación estarás preparado/a para catalogar libros monográficos en Sinopia utilizando las plantillas de Sinopia de la PCC. Aprenderás cómo\nUtilizar las herramientas de catalogación de Sinopia, con énfasis en las plantillas de PCC Crear y editar descripciones originales de datos enlazados Enlazar descripciones relacionadas Buscar datos creados en Sinopia Derivar nuevas descripciones a partir de descripciones existentes\n7 ¿Qué no está cubierto? Varios temas están fuera del alcance de este entrenamiento: Creando plantillas de catalogación Sinopia Si estás interesado en la configuración de plantillas, por favor consulta la próxima documentación en el sitio de Github de Sinopia\u000b Ingerir o enlazar descripciones de fuentes externas (distintas a las proporcionadas como referencias)\u000b Exportación de metadatos\u000b Amplia cobertura de las mejores prácticas de catalogación en el entorno de Sinopia\nMódulos de la serie de entrenamiento 8 Ingresar datos utilizando búsquedas\u000b Previsualización, Guardado y Edición de Descripciones\u000b Vinculación de Descripciones Relacionadas\u000b Copiando descripciones\u000b Flujo de trabajo de catalogación Introducción al Entrenamiento de Sinopia (es decir, este módulo)\u000b Empezando en Sinopia\u000b Buscando Datos Creados en Sinopia\u000b Sobre las Plantillas del PCC\u000b Ingresando literales\nRequisitos previos de la serie de entrenamiento Esta serie de formación está diseñada para usuarios con: Comprensión básica de datos enlazados Entendimiento básico de BIBFRAME Familiaridad con RDA Original\nLas diapositivas posteriores en este módulo incluyen enlaces a materiales que introducen conceptos de datos enlazados y BIBFRAME. Para obtener más información sobre RDA, consulta el RDA Toolkit. 9\nRecursos introductorios sobre Datos Enlazados Capacitación en Datos Vinculados de PCC (en progreso)\u000b Europeana: DatosAbiertosVinculados- ¿Quées? \u000b OCLC:EmpezandoconlosDatosEnlazados\u000b ALCTS/CORE:ColocandoelenlaceenlosDatosEnlazados \u000b Videos deeducacióncontinua de ALCTSCE/Coresobredatosenlazados 10\nRecursos introductorios de BIBFRAME Sitio de BIBFRAME de la Biblioteca del Congreso de los Estados Unidos\nDescripción del ModeloBIBFRAME 2.0 PreguntasFrequentes(FAQ) acerca de BIBFRAME \u000b BIBFRAME yelPCC\nalmacena informes, entrenamientos, y presentaciones relacionadas al PCC en BIBFRAME y datos enlazados en general\u000b Webinariosdeeducacióncontinua ALCTSCE/CoresobreBIBFRAME 11\nOtros recursos de ayuda y aprendizaje Grupo de Afinidad de Catalogación de Sinopia PCC wiki\u000bhttps://wiki.lyrasis.org/display/PFCCP/PCC+Sinopia+Cataloging+Affinity+Group\u000b Canal de Slack de Sinopia en LD4: # sinopia \u000b(el enlace para unirse al espacio de trabajo está en el sitio de ayuda de Sinopia arriba; también se te dará el enlace cuando te registres por primera vez en Sinopia)\u000b Sitio de ayuda de Sinopia \u000bhttp://help.sinopia.io \u000b Library of Congress BIBFRAME Listserv\u000bhttps://lsoft.com/scripts/wl.exe?SL1=BIBFRAME&H=LISTSERV.LOC.GOV 12\nGrupos de PCC trabajando con Datos Enlazados para febrero de 2024 Grupo deInteroperabilidadde BIBFRAME(BIG) ComitéConsultivode DatosEnlazados(LDAC) Grupo deTrabajosobreFormaciónenDatosEnlazados(LDT) Grupo deTrabajodel PCCsobrePerfilesdeAplicacióndeMetadatos(MAPs) ComitéAsesordeGestiónde Identidad(IMAC) Grupo de trabajo de la SCA sobre la conversión de BIBFRAME a MARC 13\nAprendizaje y descubrimiento práctico Sinopia es utilizado por el PCC (y otros) para experimentar trabajando con metadatos en un entorno de datos vinculados, y para explorar la catalogación cooperativa en un entorno de datos vinculados. Algunas instituciones están a punto de utilizar Sinopia en un entorno de producción Las mejores prácticas continúan evolucionando, al igual que las plantillas y nuestra comprensión del catálogo de LD. ¡Espere que las cosas cambien! Sinopia sigue siendo desarrollado, ¡y sus comentarios son importantes y bienvenidos! El módulo 2 explica cómo reportar errores y sugerir mejoras. 14\nFin del Módulo 1"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#grupo-de-capacitación-de-sinopia-2019-2021",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#grupo-de-capacitación-de-sinopia-2019-2021",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Grupo de Capacitación de Sinopia (2019-2021)",
-    "text": "Grupo de Capacitación de Sinopia (2019-2021)\nDesarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)",
-    "text": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)\nHan acutalizado las diapositivas originales\n\n\n\nBen Abrahamse\nMay Chan (Co-Presidente)\nCatrina Davis\nAbby Dover\nPaul Frank\n\n\n\nGreta Heng\nNancy Lorimer (Co-Presidente)\nCharlene Morrison\nHeather Pretty\nAdam L. Schiff"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#alcance-del-módulo-1",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#alcance-del-módulo-1",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Alcance del módulo #1",
-    "text": "Alcance del módulo #1\n\nAntecedentes de Sinopia y de la serie original de entrenamiento.\nObjetivos de aprendizaje para la serie de formación en su totalidad.\nOrganización de la serie de formación.\nReferencias a recursos valiosos sobre datos enlazados y BIBFRAME para ayudarte a cumplir con los requisitos previos.\nApoyo disponible para usuarios de Sinopia"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Antecedentes de la serie de entrenamiento de Sinopia",
-    "text": "Antecedentes de la serie de entrenamiento de Sinopia\n\nSinopia es un entorno (RDF) de datos enlazados hecho para la creación y reutilización de metadatos, desarrollado como parte de la serie de subvenciones Linked Data for Production financiada por la Fundación Mellon.\nEn conjunto con el desarrollo de Sinopia, PCC ha trabajado en estrecha colaboración con LD4P para proporcionar capacitación a los catalogadores de PCC mediante la creación\nFormación de catalogadores de Sinopia para PCC (primera versión de estas diapositivas) el grupo de afinidad PCC Sinopia, como parte de la comunidad LD4.\n\nLa comunidad actualmente esta coordinada por Kalliopi Mathios, Ryan Mendenhall y Margarita Pérez Martínez"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Objetivos de aprendizaje de la serie de entrenamiento",
-    "text": "Objetivos de aprendizaje de la serie de entrenamiento\nAl final de esta serie de capacitación estarás preparado/a para catalogar libros monográficos en Sinopia utilizando las plantillas de Sinopia de la PCC. Aprenderás cómo:\n\nUtilizar las herramientas de catalogación de Sinopia, con énfasis en las plantillas de PCC\nCrear y editar descripciones originales de datos enlazados\nEnlazar descripciones relacionadas\nBuscar datos creados en Sinopia\nDerivar nuevas descripciones a partir de descripciones existentes"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#qué-no-está-cubierto",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#qué-no-está-cubierto",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "¿Qué no está cubierto?",
-    "text": "¿Qué no está cubierto?\nVarios temas están fuera del alcance de este entrenamiento:\n\nCreando plantillas de catalogación Sinopia\n\nSi estás interesado en la configuración de plantillas, por favor consulta la próxima documentación en el sitio de Github de Sinopia.\n\nIngestar o enlazar descripciones de fuentes externas (distintas a las proporcionadas como referencias).\nExportación de metadatos.\nAmplia cobertura de las mejores prácticas de catalogación en el entorno de Sinopia"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#módulos-de-la-serie-de-entrenamiento",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#módulos-de-la-serie-de-entrenamiento",
-    "title": "Módulo de entrenamiento de Sinopia 1",
-    "section": "Módulos de la serie de entrenamiento",
-    "text": "Módulos de la serie de entrenamiento\nLo que si esta cubierto\n\nIngresar datos utilizando búsquedas\nPrevisualización, Guardado y Edición de Descripciones\nVinculación de Descripciones Relacionadas\nCopiando descripciones\nFlujo de trabajo de catalogación\nIntroducción al Entrenamiento de Sinopia (es decir, este módulo)\nEmpezando en Sinopia\nBuscando Datos Creados en Sinopia\nSobre las Plantillas del PCC\nIngresado de literales"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#requisitos-previos-de-la-serie-de-entrenamiento",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#requisitos-previos-de-la-serie-de-entrenamiento",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Requisitos previos de la serie de entrenamiento",
-    "text": "Requisitos previos de la serie de entrenamiento\nEsta serie de formación está diseñada para usuarios con: - Comprensión básica de datos enlazados - Entendimiento básico de BIBFRAME - Familiaridad con RDA Original\nLas diapositivas posteriores en este módulo incluyen enlaces a materiales que introducen conceptos de datos enlazados y BIBFRAME. Para obtener más información sobre RDA, consulta el RDA Toolkit."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#recursos-introductorios-sobre-datos-enlazados",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#recursos-introductorios-sobre-datos-enlazados",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Recursos introductorios sobre Datos Enlazados",
-    "text": "Recursos introductorios sobre Datos Enlazados\n\nCapacitación en Datos Vinculados de PCC (en progreso)\nEuropeana: DatosAbiertosVinculados\nOCLC:EmpezandoconlosDatosEnlazados\nALCTS/CORE Videos de educación continua de ALCTSCECore sobre datos enlazados"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#recursos-introductorios-de-bibframe",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#recursos-introductorios-de-bibframe",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Recursos introductorios de BIBFRAME",
-    "text": "Recursos introductorios de BIBFRAME\nSitio de BIBFRAME de la Biblioteca del Congreso de los Estados Unidos\n\nDescripción del Modelo BIBFRAME 2.0\nPreguntasFrequentes(FAQ) acerca de BIBFRAME\n\n[BIBFRAME y el PCC],(https://loc.gov/aba/pcc/bibframe/bibframe-and-pcc.html) ¿Cuál es la relación?\n\nEl PCC almacena informes, entrenamientos, y presentaciones relacionadas al PCC en BIBFRAME y datos enlazados en general.\n\nCanal de Youtube del ALCTSCE/Core sobre BIBFRAME"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#otros-recursos-de-ayuda-y-aprendizaje",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#otros-recursos-de-ayuda-y-aprendizaje",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Otros recursos de ayuda y aprendizaje",
-    "text": "Otros recursos de ayuda y aprendizaje\n\nGrupo de Afinidad de Catalogación de Sinopia PCC en wiki\nCanal de Slack de Sinopia en LD4: # sinopia\nSitio de ayuda de Sinopia\nLibrary of Congress BIBFRAME Listserv"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#grupos-de-pcc-trabajando-con-datos-enlazados",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#grupos-de-pcc-trabajando-con-datos-enlazados",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Grupos de PCC trabajando con Datos Enlazados",
-    "text": "Grupos de PCC trabajando con Datos Enlazados\nPara febrero de 2024 existen los siguientes grupos:\n\nGrupo de Interoperabilidad de BIBFRAME(BIG)\nComité Consultivo de Datos Enlazados(LDAC)\nGrupo de Trabajo sobre Formación en Datos Enlazados(LDT)\nGrupo de Trabajo del PCC sobre Perfiles de Aplicación de Metadatos (MAPs)\nComité Asesor de Gestión de Identidad(IMAC)\nGrupo de trabajo de la SCA sobre la conversión de BIBFRAME a MARC"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#aprendizaje-y-descubrimiento-práctico",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#aprendizaje-y-descubrimiento-práctico",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Aprendizaje y descubrimiento práctico",
-    "text": "Aprendizaje y descubrimiento práctico\n\nSinopia es utilizado por el PCC (y otros) para experimentar trabajando con metadatos en un entorno de datos vinculados, y para explorar la catalogación cooperativa en un entorno de datos vinculados. Algunas instituciones están a punto de utilizar Sinopia en un entorno de producción.\nLas mejores prácticas continúan evolucionando, al igual que las plantillas y nuestra comprensión del catálogo de LD. ¡Espere que las cosas cambien!\nSinopia sigue siendo desarrollado, ¡y sus comentarios son importantes y bienvenidos! El módulo 2 explica cómo reportar errores y sugerir mejoras."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#fin-del-módulo-1",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#fin-del-módulo-1",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Fin del Módulo 1",
-    "text": "Fin del Módulo 1\nGracias"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#lo-que-si-esta-cubierto",
-    "href": "presentaciones/sinopia/Module-1-Introduction_es_swordfish_test1.html#lo-que-si-esta-cubierto",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Lo que si esta cubierto",
-    "text": "Lo que si esta cubierto\n\nIngresar datos utilizando búsquedas\nPrevisualización, Guardado y Edición de Descripciones\nVinculación de Descripciones Relacionadas\nCopiando descripciones\nFlujo de trabajo de catalogación\nIntroducción al Entrenamiento de Sinopia (es decir, este módulo)\nEmpezando en Sinopia\nBuscando Datos Creados en Sinopia\nSobre las Plantillas del PCC\nIngresado de literales"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "",
-    "text": "Desarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)",
-    "text": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)\nHan acutalizado las diapositivas originales\n\n\n\nBen Abrahamse\nMay Chan (Co-Presidente)\nCatrina Davis\nAbby Dover\nPaul Frank\n\n\n\nGreta Heng\nNancy Lorimer (Co-Presidente)\nCharlene Morrison\nHeather Pretty\nAdam L. Schiff"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#alcance-del-módulo-1",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#alcance-del-módulo-1",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Alcance del módulo #1",
-    "text": "Alcance del módulo #1\n\nAntecedentes de Sinopia y de la serie original de entrenamiento.\nObjetivos de aprendizaje para la serie de formación en su totalidad.\nOrganización de la serie de formación.\nReferencias a recursos valiosos sobre datos enlazados y BIBFRAME para ayudarte a cumplir con los requisitos previos.\nApoyo disponible para usuarios de Sinopia"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Antecedentes de la serie de entrenamiento de Sinopia",
-    "text": "Antecedentes de la serie de entrenamiento de Sinopia\n\nSinopia es un entorno (RDF) de datos enlazados hecho para la creación y reutilización de metadatos, desarrollado como parte de la serie de subvenciones Linked Data for Production financiada por la Fundación Mellon.\nEn conjunto con el desarrollo de Sinopia, PCC ha trabajado en estrecha colaboración con LD4P para proporcionar capacitación a los catalogadores de PCC mediante la creación\nFormación de catalogadores de Sinopia para PCC (primera versión de estas diapositivas) el grupo de afinidad PCC Sinopia, como parte de la comunidad LD4.\n\nLa comunidad actualmente esta coordinada por Kalliopi Mathios, Ryan Mendenhall y Margarita Pérez Martínez"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Objetivos de aprendizaje de la serie de entrenamiento",
-    "text": "Objetivos de aprendizaje de la serie de entrenamiento\nAl final de esta serie de capacitación estarás preparado/a para catalogar libros monográficos en Sinopia utilizando las plantillas de Sinopia de la PCC. Aprenderás cómo:\n\nUtilizar las herramientas de catalogación de Sinopia, con énfasis en las plantillas de PCC\nCrear y editar descripciones originales de datos enlazados\nEnlazar descripciones relacionadas\nBuscar datos creados en Sinopia\nDerivar nuevas descripciones a partir de descripciones existentes"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#qué-no-está-cubierto",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#qué-no-está-cubierto",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "¿Qué no está cubierto?",
-    "text": "¿Qué no está cubierto?\nVarios temas están fuera del alcance de este entrenamiento:\n\nCreando plantillas de catalogación Sinopia\n\nSi estás interesado en la configuración de plantillas, por favor consulta la próxima documentación en el sitio de Github de Sinopia.\n\nIngestar o enlazar descripciones de fuentes externas (distintas a las proporcionadas como referencias).\nExportación de metadatos.\nAmplia cobertura de las mejores prácticas de catalogación en el entorno de Sinopia"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Lo que si esta cubierto",
-    "text": "Lo que si esta cubierto\n\nIngresar datos utilizando búsquedas\nPrevisualización, Guardado y Edición de Descripciones\nVinculación de Descripciones Relacionadas\nCopiando descripciones\nFlujo de trabajo de catalogación\nIntroducción al Entrenamiento de Sinopia (es decir, este módulo)\nEmpezando en Sinopia\nBuscando Datos Creados en Sinopia\nSobre las Plantillas del PCC\nIngresado de literales"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Requisitos previos de la serie de entrenamiento",
-    "text": "Requisitos previos de la serie de entrenamiento\nEsta serie de formación está diseñada para usuarios con:\n\nComprensión básica de datos enlazados\nEntendimiento básico de BIBFRAME\nFamiliaridad con RDA Original\n\nLas diapositivas posteriores en este módulo incluyen enlaces a materiales que introducen conceptos de datos enlazados y BIBFRAME. Para obtener más información sobre RDA, consulta el RDA Toolkit."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Recursos introductorios sobre Datos Enlazados",
-    "text": "Recursos introductorios sobre Datos Enlazados\n\nCapacitación en Datos Vinculados de PCC (en progreso)\nEuropeana: DatosAbiertosVinculados\nOCLC:EmpezandoconlosDatosEnlazados\nALCTS/CORE Videos de educación continua de ALCTSCECore sobre datos enlazados"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Recursos introductorios de BIBFRAME",
-    "text": "Recursos introductorios de BIBFRAME\nSitio de BIBFRAME de la Biblioteca del Congreso de los Estados Unidos\n\nDescripción del Modelo BIBFRAME 2.0\nPreguntasFrequentes(FAQ) acerca de BIBFRAME\n\n[BIBFRAME y el PCC],(https://loc.gov/aba/pcc/bibframe/bibframe-and-pcc.html) ¿Cuál es la relación?\n\nEl PCC almacena informes, entrenamientos, y presentaciones relacionadas al PCC en BIBFRAME y datos enlazados en general.\n\nCanal de Youtube del ALCTSCE/Core sobre BIBFRAME"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Otros recursos de ayuda y aprendizaje",
-    "text": "Otros recursos de ayuda y aprendizaje\n\nGrupo de Afinidad de Catalogación de Sinopia PCC en wiki\nCanal de Slack de Sinopia en LD4: # sinopia\nSitio de ayuda de Sinopia\nLibrary of Congress BIBFRAME Listserv"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Grupos de PCC trabajando con Datos Enlazados",
-    "text": "Grupos de PCC trabajando con Datos Enlazados\nPara febrero de 2024 existen los siguientes grupos:\n\nGrupo de Interoperabilidad de BIBFRAME(BIG)\nComité Consultivo de Datos Enlazados(LDAC)\nGrupo de Trabajo sobre Formación en Datos Enlazados(LDT)\nGrupo de Trabajo del PCC sobre Perfiles de Aplicación de Metadatos (MAPs)\nComité Asesor de Gestión de Identidad(IMAC)\nGrupo de trabajo de la SCA sobre la conversión de BIBFRAME a MARC"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Aprendizaje y descubrimiento práctico",
-    "text": "Aprendizaje y descubrimiento práctico\n\nSinopia es utilizado por el PCC (y otros) para experimentar trabajando con metadatos en un entorno de datos vinculados, y para explorar la catalogación cooperativa en un entorno de datos vinculados. Algunas instituciones están a punto de utilizar Sinopia en un entorno de producción.\nLas mejores prácticas continúan evolucionando, al igual que las plantillas y nuestra comprensión del catálogo de LD. ¡Espere que las cosas cambien!\nSinopia sigue siendo desarrollado, ¡y sus comentarios son importantes y bienvenidos! El módulo 2 explica cómo reportar errores y sugerir mejoras."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#fin-del-módulo-1",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#fin-del-módulo-1",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Fin del Módulo 1",
-    "text": "Fin del Módulo 1\nGracias"
-  },
-  {
     "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
     "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
     "title": "Módulo 2: Empezando en Sinopia",
-    "section": "",
-    "text": "Este módulo abarca lo siguiente:\n\nLo que puedes hacer en Sinopia\nEntornos de Sinopia y navegadores web compatibles\nCreando una cuenta de Sinopia\nNavegando por la interfaz de Sinopia\nInformando errores"
+    "section": "Alcance de este módulo",
+    "text": "Alcance de este módulo\nEste módulo abarca lo siguiente:\n\nLo que puedes hacer en Sinopia\nEntornos de Sinopia y navegadores web compatibles\nCreando una cuenta de Sinopia\nNavegando por la interfaz de Sinopia\nInformando errores"
   },
   {
     "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#qué-es-sinopia",
@@ -777,18 +420,11 @@
     "text": "Cuentas\nNecesita una cuenta de Sinopia para:\n\nCrear descripciones\nEditar descripciones\nExplorar, buscar y visualizar descripciones existentes\nNecesita cuentas separadas para Stage y Producción, por lo que si desea utilizar ambas, necesitará registrarse dos veces\n\nPuede usar el mismo nombre de usuario, correo electrónico y contraseña para ambos, si lo prefiere."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#para-crear-una-cuenta",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#para-crear-una-cuenta",
+    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
+    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
     "title": "Módulo 2: Empezando en Sinopia",
-    "section": "Para crear una cuenta",
-    "text": "Para crear una cuenta\n\nVaya a stage.sinopia.io o sinopia.io\nPulse en Solicitar Cuenta (Request Account)\nIngrese un nombre de usuario, correo electrónico y contraseña.\nPulse en el botón “Continuar”\nRecibirá un correo electrónico pidiéndole que confirme."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#imágenes",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#imágenes",
-    "title": "Módulo 2: Empezando en Sinopia",
-    "section": "Imágenes",
-    "text": "Imágenes\nCreación de cuenta en Sinopia\n\n\nAcceder a Cuenta \n\nCrear Cuenta \n\nAutenticar la cuenta \n\nConfirmación de Cuenta"
+    "section": "Instruciones crear una cuenta",
+    "text": "Instruciones crear una cuenta\n\nVaya a stage.sinopia.io o sinopia.io\nPulse en Solicitar Cuenta (Request Account)\nIngrese un nombre de usuario, correo electrónico y contraseña.\nPulse en el botón “Continuar”\nRecibirá un correo electrónico pidiéndole que confirme.\n\n\n\nAcceder \n\nCrear \n\nAutenticar \n\nConfirmar"
   },
   {
     "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#su-nombre-de-usuario-id-de-catalogador",
@@ -812,32 +448,11 @@
     "text": "Navegando en Sinopia\nDespués de pulsar en el Editor de Datos Enlazados, estarás en el Panel de Control, el cual contiene enlaces a sus plantillas recientes, búsquedas y otros recursos. Otros enlaces son:\n\n\n\n\nBuscar y seleccionar plantillas de recursos. (Ver Módulo 4)\n\n\n\nMenú desplegable de acciones\n\nCargar RDF\nExportaciones\nVer métricas (no incluido)\n\nRecursos\nPlantillas\nUsuarios\n\n\n\n\n\nBarra de búsqueda\n\nBuscar descripciones creadas en Sinopia. (Modulo 3)\n\n\n\n\nAyuda\n\nSitio de ayuda de Sinopia\nInformar errores\nSugerir una nueva característica\nNotas de la versión\nBúsquedas de Autoridades\nPreguntas y Respuestas"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
-    "title": "Módulo 2: Empezando en Sinopia",
-    "section": "Instruciones crear una cuenta",
-    "text": "Instruciones crear una cuenta\n\nVaya a stage.sinopia.io o sinopia.io\nPulse en Solicitar Cuenta (Request Account)\nIngrese un nombre de usuario, correo electrónico y contraseña.\nPulse en el botón “Continuar”\nRecibirá un correo electrónico pidiéndole que confirme.\n\n\n\nAcceder \n\nCrear \n\nAutenticar \n\nConfirmar"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#section",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#section",
-    "title": "Módulo 2: Empezando en Sinopia",
-    "section": "",
-    "text": "Creación de cuenta en Sinopia"
-  },
-  {
     "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#sitio-de-ayuda-de-sinopia",
     "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#sitio-de-ayuda-de-sinopia",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Sitio de Ayuda de Sinopia",
     "text": "Sitio de Ayuda de Sinopia\n¡Su opinión es importante!\nDesde el menú de Ayuda, pulse en Reportar un error para informar problemas, o Sugerir una nueva característica para proponer nuevas ideas para Sinopia.\nAmbos enlaces abren un formulario en GitHub. Necesitará crear una cuenta gratuita de GitHub (www.github.com) para completar los formularios.\nPuede hacer preguntas, informar problemas y sugerir ideas en el canal de Slack #sinopiaenelEspacio deTrabajoLD4 (ld4.slack.com)"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#detalles-técnicos-de-la-sinopia",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#detalles-técnicos-de-la-sinopia",
-    "title": "Módulo 2: Empezando en Sinopia",
-    "section": "Detalles técnicos de la sinopia",
-    "text": "Detalles técnicos de la sinopia\nEste entrenamiento se basa en Sinopia versión 3.17.74, lanzada en diciembre de 2023, con correcciones de errores y actualizaciones lanzadas periódicamente desde entonces. Si desea obtener más detalles sobre la última versión de Sinopia y ver notas sobre cada lanzamiento, visite el sitio de ayuda de Sinopia desde el menú de Ayuda, o vaya a help.sinopia.io, y luego pulse en Último lanzamiento. Hay videos cortos que muestran las características de Sinopia disponibles en YouTube 13\nFin del Módulo 2"
   },
   {
     "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#detalles-técnicos-de-sinopia",
@@ -903,13 +518,6 @@
     "text": "Búsquedas de varias palabras: Usando O\n\nPara búsquedas O (Or), utilize la barra vertical (|)\nEjemplo:\n\nEl término history|french (historia | francesa) encuentra objetos que contengan las palabras ‘history’ o ‘french’.\nEntre sus resultados encontramos escritos sobre gramática francesa y teoria de la historia."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-frases",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-frases",
-    "title": "Módulo 3: Buscando datos creados en Sinopia",
-    "section": "Búsquedas de varias palabras: Frases",
-    "text": "Búsquedas de varias palabras: Frases\n\nLas búsquedas de varias palabras no se manejan como búsquedas de frases; utilice comillas para búsquedas de frases.\nEjemplos:\nBuscar: historia francesa\nResultado: Panfletos de historia francesa y Panfletos de la Revolución Francesa, una historia\nBuscar: “historia francesa”\n\nResultado: panfletos de historia francesa pero no panfletos de la Revolución Francesa, una historia"
-  },
-  {
     "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#derivación-de-palabras-y-buscar-todo",
     "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#derivación-de-palabras-y-buscar-todo",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
@@ -945,179 +553,106 @@
     "text": "Fin del Módulo 3\nGracias"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
-    "title": "Módulo 4: Sobre las plantillas PCC",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción al entorno de BIBFRAME",
     "section": "",
-    "text": "El concepto de una plantilla\nLa selección de la plantilla PCC adecuada\nLa navegación a través de una plantilla\nLos tipos de datos que puedes ingresar en Sinopia"
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "¿Qué es una plantilla de recursos?",
-    "text": "¿Qué es una plantilla de recursos?\n\nPuedes pensar en una plantilla de recurso de Sinopia, o plantilla, como una receta. Al igual que una receta te dice qué ingredientes usar, una plantilla te dice qué elementos puedes usar para catalogar un elemento particular.\nPara cada clase, una plantilla especifica cuales propiedades son relevantes y cómo registrar datos para esas propiedades.\nUna plantilla actúa como un perfil de aplicación de metadatos. Para obtener más información sobre perfiles de aplicación de metadatos, consulte el Grupo de Tareas de PCC sobre Perfiles de Aplicación de Metadatos."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Plantillas de PCC: Antecedentes",
-    "text": "Plantillas de PCC: Antecedentes\n\nPara fomentar la adopción de Sinopia y la estandarización de la catalogación en Sinopia, el PCC ha proporcionado un conjunto de plantillas basadas en BIBFRAME para su uso. Estas plantillas de PCC fueron desarrolladas basadas en las mejores prácticas que surgieron del uso inicial de Sinopia.\nA partir de la publicación de este módulo, las Plantillas PCC están disponibles solo en el sitio web de Stage (stage.sinopia.io)"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Plantillas de PCC: ¿Qué está cubierto?",
-    "text": "Plantillas de PCC: ¿Qué está cubierto?\n\nSinopia ofrece plantillas de PCC para Obras, Manifestaciones e Ítems, tanto para Monografías como para Publicaciones Seriadas.\nCada nivel del modelo BIBFRAME (Obra, Manifestación, Ítem) tiene su propia plantilla.\nEl Módulo 8 explica cómo hacer enlaces entre descripciones creadas a partir de las plantillas."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#práctica-de-catalogación",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#práctica-de-catalogación",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Práctica de catalogación",
-    "text": "Práctica de catalogación\n\nLas plantillas de PCC Sinopia enlazan a las directrices originales de RDA siempre que sea posible, y a veces proporcionan instrucciones adicionales sobre la práctica de catalogación.\n\n\n\nA medida que los catalogadores de PCC adquieran experiencia con las plantillas de PCC, surgirán y serán documentadas prácticas recomendadas adicionales."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-de-pcc",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-de-pcc",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Encontrando Plantillas de PCC",
-    "text": "Encontrando Plantillas de PCC\n\nPara comenzar a catalogar en Sinopia, primero necesita seleccionar la plantilla adecuada. Sinopia contiene muchas plantillas, la mayoría de las cuales no son para uso en catalogación PCC.\nPara ver solo las plantillas PCC primarias, pulse en la pestaña Plantillas de Recursos (Resource Templates). En el casillero Buscar un recurso (Find a resource template), escriba “_pcc” (guión bajo pcc)."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-plantillas-usar",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-plantillas-usar",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "¿Qué plantillas usar?",
-    "text": "¿Qué plantillas usar?\n\nAl observar la lista de plantillas mostradas cuando se hace una búsqueda PCC, se puede notar que los nombres de las plantillas en la parte superior de la lista comienzan con un guion bajo. Estas son las plantillas que deseas abrir.\n\nEstas plantillas representan los niveles principales en el modelo BIBFRAME, como _PCC BF2 Work (Monografía).\n\nLas plantillas mencionadas más abajo, como Cobertura Geográfica (Geographic Coverage), son plantillas más pequeñas que se utilizan dentro de las plantillas de Obra, Manifestación e Ítem. Aunque es posible abrir estas “subplantillas” por separado, en la práctica, solo necesitarás abrir las plantillas que comiencen con un guión bajo."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Encontrar plantillas desde el Panel de control (Dashboard)",
-    "text": "Encontrar plantillas desde el Panel de control (Dashboard)\nLa pestaña del Panel de Control es una forma rápida de acceder a tus plantillas abiertas recientemente. Aparecerán primero en la pantalla bajo “Plantillas recientes“ (Recent templates).\nCuando comience por primera vez en Sinopia, esta lista estará vacía."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Encontrar plantillas desde la pantalla de Plantillas de recursos (Resource Templates)",
-    "text": "Encontrar plantillas desde la pantalla de Plantillas de recursos (Resource Templates)\nLa pantalla de plantillas de recursos (Resource Templates) muestra primero las plantillas que has utilizado más recientemente.\nPulse en el encabezado para abrir la lista"
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Encontrando Plantillas del PCC",
-    "text": "Encontrando Plantillas del PCC\n\nPara comenzar a catalogar en Sinopia, primero necesita seleccionar la plantilla adecuada. Sinopia contiene muchas plantillas, la mayoría de las cuales no son para uso en catalogación PCC.\nPara ver solo las plantillas PCC primarias, pulse en la pestaña Plantillas de Recursos (Resource Templates). En el casillero Buscar un recurso (Find a resource template), escriba “_pcc” (guión bajo pcc)."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegando una plantilla: Pestaña del editor",
-    "text": "Navegando una plantilla: Pestaña del editor\n\nCuando pulse en el ícono “crear”, Sinopia abrirá la plantilla para catalogar en la pestaña Editor.\nEsta es la sección donde ingresará los datos de catalogación y creará una descripción de recursos basada en BIBFRAME\n\nLas siguientes diapositivas muestran cómo navegar a través de una plantilla en la pestaña Editor. Los módulos posteriores explicarán cómo ingresar datos en la Plantilla."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegar una plantilla: Barra lateral",
-    "text": "Navegar una plantilla: Barra lateral\n\nLa barra lateral izquierda muestra una vista general de la plantilla y te da una forma rápida de moverte de una sección a otra."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegar una plantilla: Campos",
-    "text": "Navegar una plantilla: Campos\nEn el lado derecho de la ventana están los campos en sí mismos. Cada campo donde puede ingresar datos corresponde a una propiedad de BIBFRAME."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegar una plantilla: Barra lateral",
-    "text": "Navegar una plantilla: Barra lateral\nCuando haces clic en el nombre de un campo en la barra lateral izquierda, el lado derecho de la ventana muestra el campo correspondiente."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegar una plantilla: Enlaces de RDA Toolkit",
-    "text": "Navegar una plantilla: Enlaces de RDA Toolkit\nEl ícono de la cajita con la flecha es un enlace directo a la guía apropiada en el Original RDA Toolkit.\nSi pasas el cursor sobre el ícono, aparecerá el número de la regla RDA."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegar una plantilla: Campos obligatorios",
-    "text": "Navegar una plantilla: Campos obligatorios\nLos campos obligatorios están identificados por un asterisco (*). Si deja un campo obligatorio en blanco, Sinopia no le permitirá guardar una descripción y resaltará los campos vacíos en rojo."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegar una plantilla: Más Información",
-    "text": "Navegar una plantilla: Más Información\nAl pulsar en el botón “i”, se abrirá un cuadro que contiene aclaraciones sobre las mejores prácticas o cómo ingresar los datos."
-  },
-  {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
-    "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Navegar una plantilla: Subplantillas",
-    "text": "Navegar una plantilla: Subplantillas\nUna simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor. Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad. Captura de pantalla de"
-  },
-  {
-    "objectID": "presentaciones/dia1_sample.html#definición-datos",
-    "href": "presentaciones/dia1_sample.html#definición-datos",
-    "title": "Datos Enlazados",
-    "section": "Definición: Datos",
-    "text": "Definición: Datos\nEn varios idiomas existe la discusión sobre la palabra ‘dato’ como un sustantivo singular o plural. En el caso del español, tenemos varias perspectivas de lo que este termino significa.\nPensemos en las palabras ‘data’, ‘dato’ o ‘datos’.\nEn español…\n\nEl documento ‘data’ del siglo XVI.\nEl ‘dato’ en el formulario esta erróneo.\nLos ‘datos’ estan disponibles para descargar en la página web.\n\nLas palabras data, dato y datos se refieren a diferentes tipos de información. En el caso de ‘data’, se refiere a un tiempo o fecha en específico. Pero en el caso de ‘dato’ y ‘datos’, podemos observar el uso de este término en singluar y plural, como una pieza de información o una aconglomeración.\nEl diccionario de la Real Academia Española define el termino ‘datos’ como “Información dispuesta de manera adecuada para su tratamiento por una computadora.”\nEntonces, una ficha de catálogo, ¿puede considerarse como “datos”?"
-  },
-  {
-    "objectID": "presentaciones/dia1_sample.html#fichas-catalográficas",
-    "href": "presentaciones/dia1_sample.html#fichas-catalográficas",
-    "title": "Datos Enlazados",
-    "section": "Fichas Catalográficas",
-    "text": "Fichas Catalográficas\nUna ficha catalográfica reúne un conjunto de elementos descriptivos en un orden establecido y estandarizado. Estos elementos, son pedazos de información sobre un recurso, pero ¿qué hace un dato ser un “dato enlazado”?\n\nFicha de catalográfica descargda de la cuenta Flickr del Instituto Inglés MexicanoAunque contenga información estructurada, necesita digitalizarse y estructurarse de manera estandarizada para luego ser procesada por una computadora.\nComo profesionales de la información, nuestro trabajo es organizar, dar sentido y crear conocimiento a partir de estos datos. Estos pedazos de información son procesados y almacenados en diferentes sistemas computarizados que contienen sus propias maneras de estructurar sus datos y metadatos. Tener accesible los datos de algún recurso en un catálogo público en la web, ¿hace que los datos sean datos enlazados?\nLa respuesta es no.\nNo necesariamente los datos de recursos publicados en una base de datos estan estructurados, o serializados, de una manera que permiten que la conección a otros datos enlazados. En un contexto bibliotecario, los datos vinculados implican que la informacion esta estructurada de manera que no sólo nuestros sistemas pueda interactuar con esta informacion, sino que también, otras aplicaciones identificarla y utilizar partes de ella efectivamente.\nEder Ávila Barrientos, en su texto “Los datos enlazados y su uso en bibliotecas” (p. 2) nos indica lo siguiente:\n\n“…hay que comprender que los datos tienen atributos que conforman su significado en un contexto determinado, como una biblioteca, un proceso de investigación o para una determinada disciplina. La representación de estos atributos mediante una descripción efectiva a través del uso de vocabularios, ontologías y esquemas de metadatos fomentará su vinculación en concordancia con los atributos que manifiesten. Por lo tanto, la vinculación de los datos es un proceso que involucra el análisis de sus atributos, los cuales permitirán establecer vínculos entre datos con atributos similares…”\n\nEntonces, ¿qué hace que un dato sea enlazado?"
-  },
-  {
-    "objectID": "presentaciones/dia1_sample.html#qué-son-los-datos-enlazados-linked-data",
-    "href": "presentaciones/dia1_sample.html#qué-son-los-datos-enlazados-linked-data",
-    "title": "Datos Enlazados",
-    "section": "¿Qué son los Datos Enlazados (Linked Data)?",
-    "text": "¿Qué son los Datos Enlazados (Linked Data)?\nEl término Datos Enlazados (Linked Data) se refiere a un conjunto de prácticas que permiten dar sentido a pedazos de informacion, ya sea que esten organizados de manera estructurada o no estructurada. Esto se realiza mediante la aplicación de ontologías, identificadores únicos y otros atributos dentro de un modelo entidad-relación.\nLos datos enlazados son fundamentales para el desarrollo de la web semántica, y su progreso depende de la integración de estos datos en diferentes fuentes y sistemas de información. La web semántica busca procesar y dar significado a los datos para el usuario final, permitiendo búsquedas más complejas mediante la vinculación de datos de diversas fuentes. (Eder Ávila Barrientos, pp. 13-14)"
-  },
-  {
-    "objectID": "presentaciones/dia1_sample.html#qué-son-los-datos-abiertos-enlazados-linked-open-data",
-    "href": "presentaciones/dia1_sample.html#qué-son-los-datos-abiertos-enlazados-linked-open-data",
-    "title": "Datos Enlazados",
-    "section": "¿Qué son los Datos Abiertos Enlazados (Linked Open Data)?",
-    "text": "¿Qué son los Datos Abiertos Enlazados (Linked Open Data)?\nLos Datos Abiertos Enlazados o Linked Open Data (LOD) son estructuras para la vinculación y publicación de datos de manera gratuita. Los datos enlazados organizan y conectan pedazos de información en la web, de manera que, diferentes sistemas computarizados y buscadores encuentren programáticamente el contenido estructurado en este formato.\nEjemplo de un proyecto que busca aplicar el concepto de Datos Abiertos Enlazados: Europeana\n\nReferencias:\n\nMixter, Jeff (2024).“An introduction to library linked data”. OCLC\nÁvila Barrientos, Eder. (2020). Los datos bibliográficos abiertos enlazados y su comportamiento en la recuperación de información. Investigación bibliotecológica, 34(82), 203-227. Epub 17 de abril de 2020\nÁvila Barrientos, Eder. (2020) . Los Datos enlazados y su uso en bibliotecas Instituto de Investigaciones Bibliotecológicas y de la Información.\nBlaney, Jonathan (2017) . Introducción a los Datos abiertos enlazados. Programming Historian"
-  },
-  {
-    "objectID": "templates/lesson.html",
-    "href": "templates/lesson.html",
-    "title": "Descripción general de la lección:",
+    "objectID": "index.html#descripcion-del-taller",
+    "href": "index.html#descripcion-del-taller",
+    "title": "Introducción al entorno de BIBFRAME",
     "section": "",
-    "text": "Descripción general de la lección:\n\n\n\nPreguntas\nObjetivos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQué es —- ?\n\n\n\n\n Back to top"
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html",
-    "title": "Módulo 4: Sobre las plantillas PCC",
+    "objectID": "04-day/01-day4-Resumen.html",
+    "href": "04-day/01-day4-Resumen.html",
+    "title": "Resumen del Día 4",
     "section": "",
-    "text": "El concepto de una plantilla\nLa selección de la plantilla PCC adecuada\nLa navegación a través de una plantilla\nLos tipos de datos que puedes ingresar en Sinopia"
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html",
-    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "objectID": "04-day/01-day4-Resumen.html#objetivos",
+    "href": "04-day/01-day4-Resumen.html#objetivos",
+    "title": "Resumen del Día 4",
     "section": "",
-    "text": "Desarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
+    "href": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 4",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#recursos",
+    "href": "04-day/01-day4-Resumen.html#recursos",
+    "title": "Resumen del Día 4",
+    "section": "Recursos",
+    "text": "Recursos",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html",
+    "href": "05-day/01-day5-Resumen.html",
+    "title": "Resumen del Día 5",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#objetivos",
+    "href": "05-day/01-day5-Resumen.html#objetivos",
+    "title": "Resumen del Día 5",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#temas-discutidos-en-clase",
+    "href": "05-day/01-day5-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 5",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#recursos",
+    "href": "05-day/01-day5-Resumen.html#recursos",
+    "title": "Resumen del Día 5",
+    "section": "Recursos",
+    "text": "Recursos",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
   },
   {
     "objectID": "02-day/01-day2-Resumen.html",
@@ -1153,13 +688,6 @@
     ]
   },
   {
-    "objectID": "02-day/01-day2-Resumen.html#qué-es-bibframe",
-    "href": "02-day/01-day2-Resumen.html#qué-es-bibframe",
-    "title": "Resumen del Día 1",
-    "section": "¿Qué es BIBFRAME?",
-    "text": "¿Qué es BIBFRAME?\nBIBFRAME (Bibliographic Framework Initiative) es una ontología desarrollada por la Library of Congress que reemplaza el tradicional formato MARC (Machine-Readable Cataloging) con una estructura más moderna basada en los principios de la Web Semántica. BIBFRAME fue diseñado para facilitar la gestión y el intercambio de datos bibliográficos en un entorno digital y para hacer que las bibliotecas sean más accesibles en la web.\n\nObjetivo de BIBFRAME\nBIBFRAME busca transformar el modo en que los sistemas de bibliotecas describen y comparten sus recursos bibliográficos, alineando los datos de las bibliotecas con los estándares de la Web Semántica y permitiendo su integración en la red global de datos enlazados.\n\n\nComponentes de BIBFRAME\nBIBFRAME se basa en tres clases principales:\n\nTrabajo (Work): Representa el contenido intelectual o artístico de un recurso.\nInstancia (Instance): Describe una manifestación física o digital específica del trabajo (por ejemplo, una edición o publicación específica).\nElemento (Item): Describe una copia particular de una instancia (por ejemplo, un libro físico en una biblioteca específica)."
-  },
-  {
     "objectID": "02-day/01-day2-Resumen.html#recursos",
     "href": "02-day/01-day2-Resumen.html#recursos",
     "title": "Resumen del Día 2",
@@ -1168,6 +696,16 @@
     "crumbs": [
       "Introducción Día 2",
       "Resumen del Día 2"
+    ]
+  },
+  {
+    "objectID": "03-day/00-day3-ProgramaSugerido.html",
+    "href": "03-day/00-day3-ProgramaSugerido.html",
+    "title": "BIBFRAME y otros modelos",
+    "section": "",
+    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:00\nConferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME, otros modelos y críticas\n\n\n10:45–11:45\nActividad\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 3"
     ]
   },
   {
@@ -1313,107 +851,6 @@
     ]
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html",
-    "title": "Módulo 2: Empezando en Sinopia",
-    "section": "",
-    "text": "Este módulo abarca lo siguiente:\n\nLo que puedes hacer en Sinopia\nEntornos de Sinopia y navegadores web compatibles\nCreando una cuenta de Sinopia\nNavegando por la interfaz de Sinopia\nInformando errores"
-  },
-  {
-    "objectID": "templates/day_calendar.html",
-    "href": "templates/day_calendar.html",
-    "title": "Programa Sugerido",
-    "section": "",
-    "text": "Programa Sugerido\nlunes, ## de octubre de 202#\n\n\n\nHora\nTema\n\n\n\n\n09:00 – 09:15\nTema\n\n\n09:15 – 09:30\nTema\n\n\n09:30 – 10:00\nTema\n\n\n10:00 – 10:30\nTema\n\n\n10:30 – 10:45\nTema\n\n\n10:45 – 11:00\nTema\n\n\n11:00 – 11:30\nTema\n\n\n11:30 – 12:00\nTema\n\n\n12:00 – 12:15\nTema\n\n\n12:15 – 13:00\nTema\n\n\n\n\n\nResumen y Requisitos para el día\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "04-day/00-day4-ProgramaSugerido.html",
-    "href": "04-day/00-day4-ProgramaSugerido.html",
->>>>>>> origin/main
-    "title": "Editores de datos enlazados para BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 4"
-    ]
-<<<<<<< HEAD
-=======
-  },
-  {
-    "objectID": "02-day/00-day2-ProgramaSugerido.html",
-    "href": "02-day/00-day2-ProgramaSugerido.html",
-    "title": "Introducción al esquema BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 2"
-    ]
-  },
-  {
-    "objectID": "03-day/00-day3-ProgramaSugerido.html",
-    "href": "03-day/00-day3-ProgramaSugerido.html",
-    "title": "BIBFRAME y otros modelos",
-    "section": "",
-    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:00\nConferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME, otros modelos y críticas\n\n\n10:45–11:45\nActividad\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 3"
-    ]
-  },
-  {
-    "objectID": "05-day/00-day5-ProgramaSugerido.html",
-    "href": "05-day/00-day5-ProgramaSugerido.html",
-    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción Día 5"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html",
-    "href": "04-day/01-day4-Resumen.html",
-    "title": "Resumen del Día 4",
-    "section": "",
-    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
-    "crumbs": [
-      "Introducción Día 4",
-      "Resumen del Día 4"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html#objetivos",
-    "href": "04-day/01-day4-Resumen.html#objetivos",
-    "title": "Resumen del Día 4",
-    "section": "",
-    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
-    "crumbs": [
-      "Introducción Día 4",
-      "Resumen del Día 4"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
-    "href": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
-    "title": "Resumen del Día 4",
-    "section": "Temas Discutidos en Clase:",
-    "text": "Temas Discutidos en Clase:",
-    "crumbs": [
-      "Introducción Día 4",
-      "Resumen del Día 4"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html#recursos",
-    "href": "04-day/01-day4-Resumen.html#recursos",
-    "title": "Resumen del Día 4",
-    "section": "Recursos",
-    "text": "Recursos",
-    "crumbs": [
-      "Introducción Día 4",
-      "Resumen del Día 4"
-    ]
-  },
-  {
     "objectID": "03-day/01-day3-Resumen.html",
     "href": "03-day/01-day3-Resumen.html",
     "title": "Resumen del Día 3",
@@ -1458,48 +895,285 @@
     ]
   },
   {
-    "objectID": "05-day/01-day5-Resumen.html",
-    "href": "05-day/01-day5-Resumen.html",
-    "title": "Resumen del Día 5",
+    "objectID": "02-day/00-day2-ProgramaSugerido.html",
+    "href": "02-day/00-day2-ProgramaSugerido.html",
+    "title": "Introducción al esquema BIBFRAME",
     "section": "",
-    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Introducción Día 5",
-      "Resumen del Día 5"
+      "Introducción Día 2"
     ]
   },
   {
-    "objectID": "05-day/01-day5-Resumen.html#objetivos",
-    "href": "05-day/01-day5-Resumen.html#objetivos",
-    "title": "Resumen del Día 5",
+    "objectID": "05-day/00-day5-ProgramaSugerido.html",
+    "href": "05-day/00-day5-ProgramaSugerido.html",
+    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
     "section": "",
-    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Introducción Día 5",
-      "Resumen del Día 5"
+      "Introducción Día 5"
     ]
   },
   {
-    "objectID": "05-day/01-day5-Resumen.html#temas-discutidos-en-clase",
-    "href": "05-day/01-day5-Resumen.html#temas-discutidos-en-clase",
-    "title": "Resumen del Día 5",
-    "section": "Temas Discutidos en Clase:",
-    "text": "Temas Discutidos en Clase:",
+    "objectID": "04-day/00-day4-ProgramaSugerido.html",
+    "href": "04-day/00-day4-ProgramaSugerido.html",
+    "title": "Editores de datos enlazados para BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Introducción Día 5",
-      "Resumen del Día 5"
+      "Introducción Día 4"
     ]
   },
   {
-    "objectID": "05-day/01-day5-Resumen.html#recursos",
-    "href": "05-day/01-day5-Resumen.html#recursos",
-    "title": "Resumen del Día 5",
-    "section": "Recursos",
-    "text": "Recursos",
-    "crumbs": [
-      "Introducción Día 5",
-      "Resumen del Día 5"
-    ]
->>>>>>> origin/main
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Timothy A. Thompson es un profesional de la información con más de una década de experiencia en operaciones de metadatos, principalmente como bibliotecólogo en instituciones como la Universidad de Yale, y con experiencia adicional como ontólogo empresarial en el sector privado. Tiene maestrías tanto en Bibliotecología como en Ciencias de Datos. Su labor ha incluido la creación, análisis y transformación de metadatos en una variedad de estándares y formatos, así como la mediación entre expertos en la materia y tecnólogos. Ha trabajado con estándares de datos enlazados desde 2016, con un enfoque en el modelado semántico de datos para materiales de patrimonio cultural.\nIrma Fraticelli-Rodríguez es una profesional de la información en las primeras etapas de su carrera profesional y cuenta con una formación especializada en curaduría digital y manejo de datos. Actualmente, trabaja en la Universidad de Yale como Analista de Metadatos, donde se encarga de la corrección y normalización de metadatos dentro de los catálogos en línea y los sistemas de descubrimiento de la biblioteca.\nÁlvaro López Bustamante es bibliotecólogo y Magister en Lingüística Aplicada. Tiene más de 15 años de experiencia en bibliotecas universitarias, y lideró por dos años y medio, la primera implementación de BIBFRAME en América Latina, en la Universidad de Concepción (Chile). Posee amplia experiencia en ejecución de proyectos, y se especializa en BIBFRAME y su implementación. Actualmente, cumple el rol de Community Advisor para EBSCO FOLIO, y está a cargo de apoyar el desarrollo de la comunidad de FOLIO en América Latina."
+  },
+  {
+    "objectID": "about.html#los-presentadores",
+    "href": "about.html#los-presentadores",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Timothy A. Thompson es un profesional de la información con más de una década de experiencia en operaciones de metadatos, principalmente como bibliotecólogo en instituciones como la Universidad de Yale, y con experiencia adicional como ontólogo empresarial en el sector privado. Tiene maestrías tanto en Bibliotecología como en Ciencias de Datos. Su labor ha incluido la creación, análisis y transformación de metadatos en una variedad de estándares y formatos, así como la mediación entre expertos en la materia y tecnólogos. Ha trabajado con estándares de datos enlazados desde 2016, con un enfoque en el modelado semántico de datos para materiales de patrimonio cultural.\nIrma Fraticelli-Rodríguez es una profesional de la información en las primeras etapas de su carrera profesional y cuenta con una formación especializada en curaduría digital y manejo de datos. Actualmente, trabaja en la Universidad de Yale como Analista de Metadatos, donde se encarga de la corrección y normalización de metadatos dentro de los catálogos en línea y los sistemas de descubrimiento de la biblioteca.\nÁlvaro López Bustamante es bibliotecólogo y Magister en Lingüística Aplicada. Tiene más de 15 años de experiencia en bibliotecas universitarias, y lideró por dos años y medio, la primera implementación de BIBFRAME en América Latina, en la Universidad de Concepción (Chile). Posee amplia experiencia en ejecución de proyectos, y se especializa en BIBFRAME y su implementación. Actualmente, cumple el rol de Community Advisor para EBSCO FOLIO, y está a cargo de apoyar el desarrollo de la comunidad de FOLIO en América Latina."
+  },
+  {
+    "objectID": "about.html#sobre-el-contenido",
+    "href": "about.html#sobre-el-contenido",
+    "title": "Acerca de",
+    "section": "Sobre el contenido:",
+    "text": "Sobre el contenido:\nEl Asistente Técnico de Metadatos de la Universidad de Yale,Daniel Mugaburu, estuvo a cargo de la traducción de los materiales de estudio.\nLos materiales presentados en clase son adaptaciones al español de los siguientes recursos:\n\nEBSCO Linked Data Training por Timothy A. Thompson\nSinopia Trainning por el PCC Standing Committee on Training\nMarva BIBFRAME User Manual por la Biblioteca del Congreso (EE.UU)"
+  },
+  {
+    "objectID": "about.html#calendario",
+    "href": "about.html#calendario",
+    "title": "Acerca de",
+    "section": "Calendario",
+    "text": "Calendario\nEste taller se estara ofreciendo como parte de las actividades para XXXVI Semana de la Facultad de Ciencias de la Información de la Universidad Autónoma de San Luis de Potosí que se estará celebrando desde el lunes 21 de octubre de 2024 hasta el viernes 25 de octubre de 2024.\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n21 de Octubre\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n22 de Octubre\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n23 de Octubre\nPresentación por el Mtro. Álvaro López Bustamante, y continuación sobre temas relacionados a BIBFRAME\n\n\n24 de Octubre\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n25 de Octubre\nContinuación: Editores de datos enlazados Sinopia y Marva"
+  },
+  {
+    "objectID": "about.html#requerimientos-para-el-taller",
+    "href": "about.html#requerimientos-para-el-taller",
+    "title": "Acerca de",
+    "section": "Requerimientos para el taller:",
+    "text": "Requerimientos para el taller:\n\nRealizar la encuesta preliminar para el taller (las respuestas son anónimas).\nCrear una cuenta en Sinopia, ambiente “Stage” (https://stage.sinopia.io). Aquí están algunas instrucciones de cómo crear una cuenta.\nLuego, proporcionar la información de su nombre, nombre de usuario y correo electrónico a Tim Thompson (timothy.thompson@yale.edu), para que se pueda vincular su cuenta a un grupo creado en la plataforma de Sinopia para el taller. El nombre de usuario será su identificador como catalogador/a en Sinopia."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Grupo de Capacitación de Sinopia (2019-2021)",
+    "text": "Grupo de Capacitación de Sinopia (2019-2021)\nDesarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)",
+    "text": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)\nHan acutalizado las diapositivas originales\n\n\n\nBen Abrahamse\nMay Chan (Co-Presidente)\nCatrina Davis\nAbby Dover\nPaul Frank\n\n\n\nGreta Heng\nNancy Lorimer (Co-Presidente)\nCharlene Morrison\nHeather Pretty\nAdam L. Schiff"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#alcance-del-módulo-1",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#alcance-del-módulo-1",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Alcance del módulo #1",
+    "text": "Alcance del módulo #1\n\nAntecedentes de Sinopia y de la serie original de entrenamiento.\nObjetivos de aprendizaje para la serie de formación en su totalidad.\nOrganización de la serie de formación.\nReferencias a recursos valiosos sobre datos enlazados y BIBFRAME para ayudarte a cumplir con los requisitos previos.\nApoyo disponible para usuarios de Sinopia"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Antecedentes de la serie de entrenamiento de Sinopia",
+    "text": "Antecedentes de la serie de entrenamiento de Sinopia\n\nSinopia es un entorno (RDF) de datos enlazados hecho para la creación y reutilización de metadatos, desarrollado como parte de la serie de subvenciones Linked Data for Production financiada por la Fundación Mellon.\nEn conjunto con el desarrollo de Sinopia, PCC ha trabajado en estrecha colaboración con LD4P para proporcionar capacitación a los catalogadores de PCC mediante la creación\nFormación de catalogadores de Sinopia para PCC (primera versión de estas diapositivas) el grupo de afinidad PCC Sinopia, como parte de la comunidad LD4.\n\nLa comunidad actualmente esta coordinada por Kalliopi Mathios, Ryan Mendenhall y Margarita Pérez Martínez"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Objetivos de aprendizaje de la serie de entrenamiento",
+    "text": "Objetivos de aprendizaje de la serie de entrenamiento\nAl final de esta serie de capacitación estarás preparado/a para catalogar libros monográficos en Sinopia utilizando las plantillas de Sinopia de la PCC. Aprenderás cómo:\n\nUtilizar las herramientas de catalogación de Sinopia, con énfasis en las plantillas de PCC\nCrear y editar descripciones originales de datos enlazados\nEnlazar descripciones relacionadas\nBuscar datos creados en Sinopia\nDerivar nuevas descripciones a partir de descripciones existentes"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#qué-no-está-cubierto",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#qué-no-está-cubierto",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "¿Qué no está cubierto?",
+    "text": "¿Qué no está cubierto?\nVarios temas están fuera del alcance de este entrenamiento:\n\nCreando plantillas de catalogación Sinopia\n\nSi estás interesado en la configuración de plantillas, por favor consulta la próxima documentación en el sitio de Github de Sinopia.\n\nIngestar o enlazar descripciones de fuentes externas (distintas a las proporcionadas como referencias).\nExportación de metadatos.\nAmplia cobertura de las mejores prácticas de catalogación en el entorno de Sinopia"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Lo que si esta cubierto",
+    "text": "Lo que si esta cubierto\n\nIngresar datos utilizando búsquedas\nPrevisualización, Guardado y Edición de Descripciones\nVinculación de Descripciones Relacionadas\nCopiando descripciones\nFlujo de trabajo de catalogación\nIntroducción al Entrenamiento de Sinopia (es decir, este módulo)\nEmpezando en Sinopia\nBuscando Datos Creados en Sinopia\nSobre las Plantillas del PCC\nIngresado de literales"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Requisitos previos de la serie de entrenamiento",
+    "text": "Requisitos previos de la serie de entrenamiento\nEsta serie de formación está diseñada para usuarios con:\n\nComprensión básica de datos enlazados\nEntendimiento básico de BIBFRAME\nFamiliaridad con RDA Original\n\nLas diapositivas posteriores en este módulo incluyen enlaces a materiales que introducen conceptos de datos enlazados y BIBFRAME. Para obtener más información sobre RDA, consulta el RDA Toolkit."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Recursos introductorios sobre Datos Enlazados",
+    "text": "Recursos introductorios sobre Datos Enlazados\n\nCapacitación en Datos Vinculados de PCC (en progreso)\nEuropeana: DatosAbiertosVinculados\nOCLC:EmpezandoconlosDatosEnlazados\nALCTS/CORE Videos de educación continua de ALCTSCECore sobre datos enlazados"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Recursos introductorios de BIBFRAME",
+    "text": "Recursos introductorios de BIBFRAME\nSitio de BIBFRAME de la Biblioteca del Congreso de los Estados Unidos\n\nDescripción del Modelo BIBFRAME 2.0\nPreguntasFrequentes(FAQ) acerca de BIBFRAME\n\n[BIBFRAME y el PCC],(https://loc.gov/aba/pcc/bibframe/bibframe-and-pcc.html) ¿Cuál es la relación?\n\nEl PCC almacena informes, entrenamientos, y presentaciones relacionadas al PCC en BIBFRAME y datos enlazados en general.\n\nCanal de Youtube del ALCTSCE/Core sobre BIBFRAME"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Otros recursos de ayuda y aprendizaje",
+    "text": "Otros recursos de ayuda y aprendizaje\n\nGrupo de Afinidad de Catalogación de Sinopia PCC en wiki\nCanal de Slack de Sinopia en LD4: # sinopia\nSitio de ayuda de Sinopia\nLibrary of Congress BIBFRAME Listserv"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Grupos de PCC trabajando con Datos Enlazados",
+    "text": "Grupos de PCC trabajando con Datos Enlazados\nPara febrero de 2024 existen los siguientes grupos:\n\nGrupo de Interoperabilidad de BIBFRAME(BIG)\nComité Consultivo de Datos Enlazados(LDAC)\nGrupo de Trabajo sobre Formación en Datos Enlazados(LDT)\nGrupo de Trabajo del PCC sobre Perfiles de Aplicación de Metadatos (MAPs)\nComité Asesor de Gestión de Identidad(IMAC)\nGrupo de trabajo de la SCA sobre la conversión de BIBFRAME a MARC"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Aprendizaje y descubrimiento práctico",
+    "text": "Aprendizaje y descubrimiento práctico\n\nSinopia es utilizado por el PCC (y otros) para experimentar trabajando con metadatos en un entorno de datos vinculados, y para explorar la catalogación cooperativa en un entorno de datos vinculados. Algunas instituciones están a punto de utilizar Sinopia en un entorno de producción.\nLas mejores prácticas continúan evolucionando, al igual que las plantillas y nuestra comprensión del catálogo de LD. ¡Espere que las cosas cambien!\nSinopia sigue siendo desarrollado, ¡y sus comentarios son importantes y bienvenidos! El módulo 2 explica cómo reportar errores y sugerir mejoras."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#fin-del-módulo-1",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html#fin-del-módulo-1",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "Fin del Módulo 1",
+    "text": "Fin del Módulo 1\nGracias"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Alcance de este módulo",
+    "text": "Alcance de este módulo\n\nEl concepto de una plantilla\nLa selección de la plantilla PCC adecuada\nLa navegación a través de una plantilla\nLos tipos de datos que puedes ingresar en Sinopia"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "¿Qué es una plantilla de recursos?",
+    "text": "¿Qué es una plantilla de recursos?\n\nPuedes pensar en una plantilla de recurso de Sinopia, o plantilla, como una receta. Al igual que una receta te dice qué ingredientes usar, una plantilla te dice qué elementos puedes usar para catalogar un elemento particular.\nPara cada clase, una plantilla especifica cuales propiedades son relevantes y cómo registrar datos para esas propiedades.\nUna plantilla actúa como un perfil de aplicación de metadatos. Para obtener más información sobre perfiles de aplicación de metadatos, consulte el Grupo de Tareas de PCC sobre Perfiles de Aplicación de Metadatos."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Plantillas de PCC: Antecedentes",
+    "text": "Plantillas de PCC: Antecedentes\n\nPara fomentar la adopción de Sinopia y la estandarización de la catalogación en Sinopia, el PCC ha proporcionado un conjunto de plantillas basadas en BIBFRAME para su uso. Estas plantillas de PCC fueron desarrolladas basadas en las mejores prácticas que surgieron del uso inicial de Sinopia.\nA partir de la publicación de este módulo, las Plantillas PCC están disponibles solo en el sitio web de Stage (stage.sinopia.io)"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Plantillas de PCC: ¿Qué está cubierto?",
+    "text": "Plantillas de PCC: ¿Qué está cubierto?\n\nSinopia ofrece plantillas de PCC para Obras, Manifestaciones e Ítems, tanto para Monografías como para Publicaciones Seriadas.\nCada nivel del modelo BIBFRAME (Obra, Manifestación, Ítem) tiene su propia plantilla.\nEl Módulo 8 explica cómo hacer enlaces entre descripciones creadas a partir de las plantillas."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#práctica-de-catalogación",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#práctica-de-catalogación",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Práctica de catalogación",
+    "text": "Práctica de catalogación\n\nLas plantillas de PCC Sinopia enlazan a las directrices originales de RDA siempre que sea posible, y a veces proporcionan instrucciones adicionales sobre la práctica de catalogación.\n\n\n\nA medida que los catalogadores de PCC adquieran experiencia con las plantillas de PCC, surgirán y serán documentadas prácticas recomendadas adicionales."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Encontrando Plantillas del PCC",
+    "text": "Encontrando Plantillas del PCC\n\nPara comenzar a catalogar en Sinopia, primero necesita seleccionar la plantilla adecuada. Sinopia contiene muchas plantillas, la mayoría de las cuales no son para uso en catalogación PCC.\nPara ver solo las plantillas PCC primarias, pulse en la pestaña Plantillas de Recursos (Resource Templates). En el casillero Buscar un recurso (Find a resource template), escriba “_pcc” (guión bajo pcc)."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-plantillas-usar",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-plantillas-usar",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "¿Qué plantillas usar?",
+    "text": "¿Qué plantillas usar?\n\nAl observar la lista de plantillas mostradas cuando se hace una búsqueda PCC, se puede notar que los nombres de las plantillas en la parte superior de la lista comienzan con un guion bajo. Estas son las plantillas que deseas abrir.\n\nEstas plantillas representan los niveles principales en el modelo BIBFRAME, como _PCC BF2 Work (Monografía).\n\nLas plantillas mencionadas más abajo, como Cobertura Geográfica (Geographic Coverage), son plantillas más pequeñas que se utilizan dentro de las plantillas de Obra, Manifestación e Ítem. Aunque es posible abrir estas “subplantillas” por separado, en la práctica, solo necesitarás abrir las plantillas que comiencen con un guión bajo."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Encontrar plantillas desde el Panel de control (Dashboard)",
+    "text": "Encontrar plantillas desde el Panel de control (Dashboard)\nLa pestaña del Panel de Control es una forma rápida de acceder a tus plantillas abiertas recientemente. Aparecerán primero en la pantalla bajo “Plantillas recientes“ (Recent templates).\nCuando comience por primera vez en Sinopia, esta lista estará vacía."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Encontrar plantillas desde la pantalla de Plantillas de recursos (Resource Templates)",
+    "text": "Encontrar plantillas desde la pantalla de Plantillas de recursos (Resource Templates)\nLa pantalla de plantillas de recursos (Resource Templates) muestra primero las plantillas que has utilizado más recientemente.\nPulse en el encabezado para abrir la lista"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegando una plantilla: Pestaña del editor",
+    "text": "Navegando una plantilla: Pestaña del editor\n\nCuando pulse en el ícono “crear”, Sinopia abrirá la plantilla para catalogar en la pestaña Editor.\nEsta es la sección donde ingresará los datos de catalogación y creará una descripción de recursos basada en BIBFRAME\n\nLas siguientes diapositivas muestran cómo navegar a través de una plantilla en la pestaña Editor. Los módulos posteriores explicarán cómo ingresar datos en la Plantilla."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegar una plantilla: Barra lateral",
+    "text": "Navegar una plantilla: Barra lateral\n\nLa barra lateral izquierda muestra una vista general de la plantilla y te da una forma rápida de moverte de una sección a otra."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegar una plantilla: Campos",
+    "text": "Navegar una plantilla: Campos\nEn el lado derecho de la ventana están los campos en sí mismos. Cada campo donde puede ingresar datos corresponde a una propiedad de BIBFRAME."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegar una plantilla: Barra lateral",
+    "text": "Navegar una plantilla: Barra lateral\nCuando haces clic en el nombre de un campo en la barra lateral izquierda, el lado derecho de la ventana muestra el campo correspondiente."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegar una plantilla: Enlaces de RDA Toolkit",
+    "text": "Navegar una plantilla: Enlaces de RDA Toolkit\nEl ícono de la cajita con la flecha es un enlace directo a la guía apropiada en el Original RDA Toolkit.\nSi pasas el cursor sobre el ícono, aparecerá el número de la regla RDA."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegar una plantilla: Campos obligatorios",
+    "text": "Navegar una plantilla: Campos obligatorios\nLos campos obligatorios están identificados por un asterisco (*). Si deja un campo obligatorio en blanco, Sinopia no le permitirá guardar una descripción y resaltará los campos vacíos en rojo."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegar una plantilla: Más Información",
+    "text": "Navegar una plantilla: Más Información\nAl pulsar en el botón “i”, se abrirá un cuadro que contiene aclaraciones sobre las mejores prácticas o cómo ingresar los datos."
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "Navegar una plantilla: Subplantillas",
+    "text": "Navegar una plantilla: Subplantillas\nUna simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor. Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad. Captura de pantalla de"
   }
 ]
