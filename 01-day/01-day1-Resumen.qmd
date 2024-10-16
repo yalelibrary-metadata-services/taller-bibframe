@@ -1,0 +1,102 @@
+---
+title: "Resumen del Día 1"
+page-navigation: true
+---
+
+## Objetivos: 
+
+1. Adquirir conocimiento general sobre web semántica y datos enlazados. 
+2. 
+
+## Temas Discutidos en Clase:
+
+1. 
+2. 
+
+
+## ¿Qué es la Web Semántica?
+
+La **Web Semántica** es una extensión de la web actual, donde la información no solo es accesible para los humanos, sino que también es comprensible y procesable por las máquinas. Su objetivo principal es permitir que los datos en la web sean entendidos y vinculados de manera que los programas informáticos puedan encontrar, compartir y combinar información automáticamente a través de distintas fuentes.
+
+## ¿Qué son los Datos Enlazados?
+
+Los **Datos Enlazados** (*Linked Data* en inglés) son una forma de publicar y conectar datos en la web de manera estructurada, utilizando estándares abiertos que permiten que la información sea interrelacionada, accesible y procesada tanto por humanos como por máquinas. Este concepto se deriva del principio de que los datos en la web deben estar conectados de manera que se puedan cruzar referencias fácilmente.
+
+## ¿Qué es RDF?
+
+El **RDF (Resource Description Framework)** es un estándar del W3C diseñado para modelar datos y describir recursos en la web. Su principal objetivo es proporcionar una forma de estructurar datos que pueda ser entendida tanto por humanos como por máquinas. RDF se utiliza ampliamente en la **Web Semántica** para representar información de manera que las máquinas puedan interpretar y procesar estos datos, facilitando la interconexión de datos en la web.
+
+## Componentes Claves de RDF
+
+RDF organiza los datos en forma de **tripletas**, donde cada tripleta está formada por tres elementos:
+
+1. **Sujeto**: El recurso o entidad que se describe.
+2. **Predicado**: La propiedad o atributo del sujeto.
+3. **Objeto**: El valor de la propiedad o el recurso relacionado.
+
+### Estructura Básica de RDF
+
+RDF utiliza **URIs (Identificadores Uniformes de Recursos)** para identificar de manera única cada recurso, lo que permite que los datos estén vinculados y puedan ser referenciados desde cualquier lugar de la web. Además, las tripletas RDF pueden ser combinadas y reutilizadas en diferentes contextos.
+
+Los datos RDF pueden ser serializados en varios formatos, como **Turtle**, **RDF/XML**, **N-Triples**, y **JSON-LD**.
+
+## ¿Cómo Funciona RDF?
+
+RDF permite crear **grafos de datos** interconectados donde cada nodo representa un recurso o entidad (como un libro, una persona, una organización, etc.), y los enlaces entre los nodos representan las relaciones o propiedades entre ellos.
+
+Por ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web.
+
+## Serializaciones para Datos Enlazados
+
+- **Turtle** es ideal para representar datos RDF de manera simple y legible.
+- **JSON-LD** facilita la integración de datos enlazados en aplicaciones web modernas.
+- **OWL** proporciona el marco para definir ontologías y permitir razonamiento semántico.
+- **SPARQL** permite realizar consultas poderosas sobre los grafos de datos RDF.
+
+Estas tecnologías permiten estructurar, enlazar y consultar datos de manera que sean tanto accesibles como entendibles para las máquinas, lo que es fundamental para el desarrollo de la **Web Semántica**.
+
+## ¿Qué es una Ontología?
+
+En el contexto de la **Web Semántica** y los **Datos Enlazados**, una **ontología** es una representación formal de un conjunto de conceptos dentro de un dominio y de las relaciones entre esos conceptos. Las ontologías proporcionan una estructura clara que permite organizar, compartir y reutilizar información de manera coherente, tanto por personas como por máquinas.
+
+## Componentes de una Ontología
+
+Una ontología generalmente incluye los siguientes elementos:
+
+- **Clases**: Representan los conceptos o tipos de objetos del dominio (por ejemplo, "Libro" o "Autor").
+- **Propiedades**: Definen las relaciones entre clases o atributos de las clases (por ejemplo, "tieneAutor" o "título").
+- **Instancias**: Son ejemplos específicos de clases (por ejemplo, "Don Quijote" como instancia de la clase "Libro").
+- **Axiomas**: Reglas que definen las restricciones sobre las clases y propiedades, lo que permite razonamiento automático.
+
+
+## Recursos
+
+- Manu Sporny. [¿Qué son los Datos Enlazados?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) (Video)
+
+- Europeana. [Datos Abiertos Vinculados. ¿Qué son?](https://www.youtube.com/watch?v=arC3VEW1wWQ)(Video)
+
+- Linked Open Data Cloud. 
+[Una visualización de conjuntos de datos enlazados en la Web de Datos Enlazados](https://lod-cloud.net/)
+
+- Mixter, Jeff (2024).["An introduction to library linked data".](https://blog.oclc.org/next/intro-to-library-linked-data/?utm_source=SFMC&utm_medium=email&utm_content=nextblog-april-30-how-linked-data-can-help-libraries-make-impact-cataloging-metadata&utm_campaign=oclc-next-blog&utm_term=Cataloging%20and%20Metadata) OCLC
+
+- Ávila Barrientos, Eder. (2020). [Los datos bibliográficos abiertos enlazados y su comportamiento en la recuperación de información.](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-358X2020000100203) Investigación bibliotecológica, 34(82), 203-227. Epub 17 de abril de 2020 
+  
+- Ávila Barrientos, Eder. (2020) . [Los Datos enlazados y su uso en bibliotecas](https://ru.iibi.unam.mx/jspui/handle/IIBI_UNAM/56) Instituto de
+Investigaciones Bibliotecológicas y de la Información. 
+
+- Blaney, Jonathan (2017) . [Introducción a los Datos abiertos enlazados.](https://programminghistorian.org/es/lecciones/introduccion-datos-abiertos-enlazados) Programming Historian
+
+- Timothy A. Thompson (2023). [Empowering Global Leaders: A Linked Data Training Program for Library Innovation.](https://github.com/timathom/EBSCO-Linked-Data-Training/blob/0d85bd73e82eb27189fa89a10e199c175d3248de/content/markdown/index.md) EBSCO Information Services LLC
+
+- [W3C Semantic Web Standards](https://www.w3.org/standards/semanticweb/)
+Sitio oficial del World Wide Web Consortium (W3C) que define los estándares para la Web Semántica, incluyendo RDF, OWL, y SPARQL.
+
+- [Linked Data - Tim Berners-Lee’s Linked Data Principles](https://www.w3.org/DesignIssues/LinkedData.html)
+Artículo original de Tim Berners-Lee que introduce los principios de los Datos Enlazados.
+
+- [RDF Primer (W3C)](https://www.w3.org/TR/rdf11-primer/)
+Una guía completa del W3C para aprender sobre RDF, incluyendo conceptos básicos y ejemplos.
+
+- [SPARQL Query Language for RDF (W3C)](https://www.w3.org/TR/sparql11-query/)
+Recurso detallado sobre el lenguaje de consultas SPARQL para trabajar con datos RDF.

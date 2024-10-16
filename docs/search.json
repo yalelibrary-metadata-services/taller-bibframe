@@ -589,8 +589,8 @@
     "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
     "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
-    "section": "Grupo de Capacitación de Sinopia (2019-2021)",
-    "text": "Grupo de Capacitación de Sinopia (2019-2021)\nDesarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
+    "section": "",
+    "text": "Desarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
   },
   {
     "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
@@ -687,8 +687,8 @@
     "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
     "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
     "title": "Módulo 2: Empezando en Sinopia",
-    "section": "Alcance de este módulo",
-    "text": "Alcance de este módulo\nEste módulo abarca lo siguiente:\n\nLo que puedes hacer en Sinopia\nEntornos de Sinopia y navegadores web compatibles\nCreando una cuenta de Sinopia\nNavegando por la interfaz de Sinopia\nInformando errores"
+    "section": "",
+    "text": "Este módulo abarca lo siguiente:\n\nLo que puedes hacer en Sinopia\nEntornos de Sinopia y navegadores web compatibles\nCreando una cuenta de Sinopia\nNavegando por la interfaz de Sinopia\nInformando errores"
   },
   {
     "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#qué-es-sinopia",
@@ -897,8 +897,8 @@
     "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
     "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
     "title": "Módulo 4: Sobre las plantillas PCC",
-    "section": "Alcance de este módulo",
-    "text": "Alcance de este módulo\n\nEl concepto de una plantilla\nLa selección de la plantilla PCC adecuada\nLa navegación a través de una plantilla\nLos tipos de datos que puedes ingresar en Sinopia"
+    "section": "",
+    "text": "El concepto de una plantilla\nLa selección de la plantilla PCC adecuada\nLa navegación a través de una plantilla\nLos tipos de datos que puedes ingresar en Sinopia"
   },
   {
     "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
@@ -1017,6 +1017,434 @@
     "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Subplantillas",
-    "text": "Navegar una plantilla: Subplantillas\nUna simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor. \u000b Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad. Captura de pantalla de"
+    "text": "Navegar una plantilla: Subplantillas\nUna simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor. Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad. Captura de pantalla de"
+  },
+  {
+    "objectID": "presentaciones/dia1_sample.html#definición-datos",
+    "href": "presentaciones/dia1_sample.html#definición-datos",
+    "title": "Datos Enlazados",
+    "section": "Definición: Datos",
+    "text": "Definición: Datos\nEn varios idiomas existe la discusión sobre la palabra ‘dato’ como un sustantivo singular o plural. En el caso del español, tenemos varias perspectivas de lo que este termino significa.\nPensemos en las palabras ‘data’, ‘dato’ o ‘datos’.\nEn español…\n\nEl documento ‘data’ del siglo XVI.\nEl ‘dato’ en el formulario esta erróneo.\nLos ‘datos’ estan disponibles para descargar en la página web.\n\nLas palabras data, dato y datos se refieren a diferentes tipos de información. En el caso de ‘data’, se refiere a un tiempo o fecha en específico. Pero en el caso de ‘dato’ y ‘datos’, podemos observar el uso de este término en singluar y plural, como una pieza de información o una aconglomeración.\nEl diccionario de la Real Academia Española define el termino ‘datos’ como “Información dispuesta de manera adecuada para su tratamiento por una computadora.”\nEntonces, una ficha de catálogo, ¿puede considerarse como “datos”?"
+  },
+  {
+    "objectID": "presentaciones/dia1_sample.html#fichas-catalográficas",
+    "href": "presentaciones/dia1_sample.html#fichas-catalográficas",
+    "title": "Datos Enlazados",
+    "section": "Fichas Catalográficas",
+    "text": "Fichas Catalográficas\nUna ficha catalográfica reúne un conjunto de elementos descriptivos en un orden establecido y estandarizado. Estos elementos, son pedazos de información sobre un recurso, pero ¿qué hace un dato ser un “dato enlazado”?\n\nFicha de catalográfica descargda de la cuenta Flickr del Instituto Inglés MexicanoAunque contenga información estructurada, necesita digitalizarse y estructurarse de manera estandarizada para luego ser procesada por una computadora.\nComo profesionales de la información, nuestro trabajo es organizar, dar sentido y crear conocimiento a partir de estos datos. Estos pedazos de información son procesados y almacenados en diferentes sistemas computarizados que contienen sus propias maneras de estructurar sus datos y metadatos. Tener accesible los datos de algún recurso en un catálogo público en la web, ¿hace que los datos sean datos enlazados?\nLa respuesta es no.\nNo necesariamente los datos de recursos publicados en una base de datos estan estructurados, o serializados, de una manera que permiten que la conección a otros datos enlazados. En un contexto bibliotecario, los datos vinculados implican que la informacion esta estructurada de manera que no sólo nuestros sistemas pueda interactuar con esta informacion, sino que también, otras aplicaciones identificarla y utilizar partes de ella efectivamente.\nEder Ávila Barrientos, en su texto “Los datos enlazados y su uso en bibliotecas” (p. 2) nos indica lo siguiente:\n\n“…hay que comprender que los datos tienen atributos que conforman su significado en un contexto determinado, como una biblioteca, un proceso de investigación o para una determinada disciplina. La representación de estos atributos mediante una descripción efectiva a través del uso de vocabularios, ontologías y esquemas de metadatos fomentará su vinculación en concordancia con los atributos que manifiesten. Por lo tanto, la vinculación de los datos es un proceso que involucra el análisis de sus atributos, los cuales permitirán establecer vínculos entre datos con atributos similares…”\n\nEntonces, ¿qué hace que un dato sea enlazado?"
+  },
+  {
+    "objectID": "presentaciones/dia1_sample.html#qué-son-los-datos-enlazados-linked-data",
+    "href": "presentaciones/dia1_sample.html#qué-son-los-datos-enlazados-linked-data",
+    "title": "Datos Enlazados",
+    "section": "¿Qué son los Datos Enlazados (Linked Data)?",
+    "text": "¿Qué son los Datos Enlazados (Linked Data)?\nEl término Datos Enlazados (Linked Data) se refiere a un conjunto de prácticas que permiten dar sentido a pedazos de informacion, ya sea que esten organizados de manera estructurada o no estructurada. Esto se realiza mediante la aplicación de ontologías, identificadores únicos y otros atributos dentro de un modelo entidad-relación.\nLos datos enlazados son fundamentales para el desarrollo de la web semántica, y su progreso depende de la integración de estos datos en diferentes fuentes y sistemas de información. La web semántica busca procesar y dar significado a los datos para el usuario final, permitiendo búsquedas más complejas mediante la vinculación de datos de diversas fuentes. (Eder Ávila Barrientos, pp. 13-14)"
+  },
+  {
+    "objectID": "presentaciones/dia1_sample.html#qué-son-los-datos-abiertos-enlazados-linked-open-data",
+    "href": "presentaciones/dia1_sample.html#qué-son-los-datos-abiertos-enlazados-linked-open-data",
+    "title": "Datos Enlazados",
+    "section": "¿Qué son los Datos Abiertos Enlazados (Linked Open Data)?",
+    "text": "¿Qué son los Datos Abiertos Enlazados (Linked Open Data)?\nLos Datos Abiertos Enlazados o Linked Open Data (LOD) son estructuras para la vinculación y publicación de datos de manera gratuita. Los datos enlazados organizan y conectan pedazos de información en la web, de manera que, diferentes sistemas computarizados y buscadores encuentren programáticamente el contenido estructurado en este formato.\nEjemplo de un proyecto que busca aplicar el concepto de Datos Abiertos Enlazados: Europeana\n\nReferencias:\n\nMixter, Jeff (2024).“An introduction to library linked data”. OCLC\nÁvila Barrientos, Eder. (2020). Los datos bibliográficos abiertos enlazados y su comportamiento en la recuperación de información. Investigación bibliotecológica, 34(82), 203-227. Epub 17 de abril de 2020\nÁvila Barrientos, Eder. (2020) . Los Datos enlazados y su uso en bibliotecas Instituto de Investigaciones Bibliotecológicas y de la Información.\nBlaney, Jonathan (2017) . Introducción a los Datos abiertos enlazados. Programming Historian"
+  },
+  {
+    "objectID": "templates/lesson.html",
+    "href": "templates/lesson.html",
+    "title": "Descripción general de la lección:",
+    "section": "",
+    "text": "Descripción general de la lección:\n\n\n\nPreguntas\nObjetivos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQué es —- ?\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html",
+    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html",
+    "title": "Módulo 4: Sobre las plantillas PCC",
+    "section": "",
+    "text": "El concepto de una plantilla\nLa selección de la plantilla PCC adecuada\nLa navegación a través de una plantilla\nLos tipos de datos que puedes ingresar en Sinopia"
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html",
+    "href": "presentaciones/sinopia/Module-1-Introduccion.html",
+    "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
+    "section": "",
+    "text": "Desarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html",
+    "href": "02-day/01-day2-Resumen.html",
+    "title": "Resumen del Día 2",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre…",
+    "crumbs": [
+      "Introducción Día 2",
+      "Resumen del Día 2"
+    ]
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html#objetivos",
+    "href": "02-day/01-day2-Resumen.html#objetivos",
+    "title": "Resumen del Día 2",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre…",
+    "crumbs": [
+      "Introducción Día 2",
+      "Resumen del Día 2"
+    ]
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html#temas-discutidos-en-clase",
+    "href": "02-day/01-day2-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 2",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:",
+    "crumbs": [
+      "Introducción Día 2",
+      "Resumen del Día 2"
+    ]
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html#qué-es-bibframe",
+    "href": "02-day/01-day2-Resumen.html#qué-es-bibframe",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué es BIBFRAME?",
+    "text": "¿Qué es BIBFRAME?\nBIBFRAME (Bibliographic Framework Initiative) es una ontología desarrollada por la Library of Congress que reemplaza el tradicional formato MARC (Machine-Readable Cataloging) con una estructura más moderna basada en los principios de la Web Semántica. BIBFRAME fue diseñado para facilitar la gestión y el intercambio de datos bibliográficos en un entorno digital y para hacer que las bibliotecas sean más accesibles en la web.\n\nObjetivo de BIBFRAME\nBIBFRAME busca transformar el modo en que los sistemas de bibliotecas describen y comparten sus recursos bibliográficos, alineando los datos de las bibliotecas con los estándares de la Web Semántica y permitiendo su integración en la red global de datos enlazados.\n\n\nComponentes de BIBFRAME\nBIBFRAME se basa en tres clases principales:\n\nTrabajo (Work): Representa el contenido intelectual o artístico de un recurso.\nInstancia (Instance): Describe una manifestación física o digital específica del trabajo (por ejemplo, una edición o publicación específica).\nElemento (Item): Describe una copia particular de una instancia (por ejemplo, un libro físico en una biblioteca específica)."
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html#recursos",
+    "href": "02-day/01-day2-Resumen.html#recursos",
+    "title": "Resumen del Día 2",
+    "section": "Recursos",
+    "text": "Recursos",
+    "crumbs": [
+      "Introducción Día 2",
+      "Resumen del Día 2"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html",
+    "href": "01-day/01-day1-Resumen.html",
+    "title": "Resumen del Día 1",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#objetivos",
+    "href": "01-day/01-day1-Resumen.html#objetivos",
+    "title": "Resumen del Día 1",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#temas-discutidos-en-clase",
+    "href": "01-day/01-day1-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 1",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-es-la-web-semántica",
+    "href": "01-day/01-day1-Resumen.html#qué-es-la-web-semántica",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué es la Web Semántica?",
+    "text": "¿Qué es la Web Semántica?\nLa Web Semántica es una extensión de la web actual, donde la información no solo es accesible para los humanos, sino que también es comprensible y procesable por las máquinas. Su objetivo principal es permitir que los datos en la web sean entendidos y vinculados de manera que los programas informáticos puedan encontrar, compartir y combinar información automáticamente a través de distintas fuentes.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-son-los-datos-enlazados",
+    "href": "01-day/01-day1-Resumen.html#qué-son-los-datos-enlazados",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué son los Datos Enlazados?",
+    "text": "¿Qué son los Datos Enlazados?\nLos Datos Enlazados (Linked Data en inglés) son una forma de publicar y conectar datos en la web de manera estructurada, utilizando estándares abiertos que permiten que la información sea interrelacionada, accesible y procesada tanto por humanos como por máquinas. Este concepto se deriva del principio de que los datos en la web deben estar conectados de manera que se puedan cruzar referencias fácilmente.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-es-rdf",
+    "href": "01-day/01-day1-Resumen.html#qué-es-rdf",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué es RDF?",
+    "text": "¿Qué es RDF?\nEl RDF (Resource Description Framework) es un estándar del W3C diseñado para modelar datos y describir recursos en la web. Su principal objetivo es proporcionar una forma de estructurar datos que pueda ser entendida tanto por humanos como por máquinas. RDF se utiliza ampliamente en la Web Semántica para representar información de manera que las máquinas puedan interpretar y procesar estos datos, facilitando la interconexión de datos en la web.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#componentes-claves-de-rdf",
+    "href": "01-day/01-day1-Resumen.html#componentes-claves-de-rdf",
+    "title": "Resumen del Día 1",
+    "section": "Componentes Claves de RDF",
+    "text": "Componentes Claves de RDF\nRDF organiza los datos en forma de tripletas, donde cada tripleta está formada por tres elementos:\n\nSujeto: El recurso o entidad que se describe.\nPredicado: La propiedad o atributo del sujeto.\nObjeto: El valor de la propiedad o el recurso relacionado.\n\n\nEstructura Básica de RDF\nRDF utiliza URIs (Identificadores Uniformes de Recursos) para identificar de manera única cada recurso, lo que permite que los datos estén vinculados y puedan ser referenciados desde cualquier lugar de la web. Además, las tripletas RDF pueden ser combinadas y reutilizadas en diferentes contextos.\nLos datos RDF pueden ser serializados en varios formatos, como Turtle, RDF/XML, N-Triples, y JSON-LD.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#cómo-funciona-rdf",
+    "href": "01-day/01-day1-Resumen.html#cómo-funciona-rdf",
+    "title": "Resumen del Día 1",
+    "section": "¿Cómo Funciona RDF?",
+    "text": "¿Cómo Funciona RDF?\nRDF permite crear grafos de datos interconectados donde cada nodo representa un recurso o entidad (como un libro, una persona, una organización, etc.), y los enlaces entre los nodos representan las relaciones o propiedades entre ellos.\nPor ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#serializaciones-para-datos-enlazados",
+    "href": "01-day/01-day1-Resumen.html#serializaciones-para-datos-enlazados",
+    "title": "Resumen del Día 1",
+    "section": "Serializaciones para Datos Enlazados",
+    "text": "Serializaciones para Datos Enlazados\n\nTurtle es ideal para representar datos RDF de manera simple y legible.\nJSON-LD facilita la integración de datos enlazados en aplicaciones web modernas.\nOWL proporciona el marco para definir ontologías y permitir razonamiento semántico.\nSPARQL permite realizar consultas poderosas sobre los grafos de datos RDF.\n\nEstas tecnologías permiten estructurar, enlazar y consultar datos de manera que sean tanto accesibles como entendibles para las máquinas, lo que es fundamental para el desarrollo de la Web Semántica.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-es-una-ontología",
+    "href": "01-day/01-day1-Resumen.html#qué-es-una-ontología",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué es una Ontología?",
+    "text": "¿Qué es una Ontología?\nEn el contexto de la Web Semántica y los Datos Enlazados, una ontología es una representación formal de un conjunto de conceptos dentro de un dominio y de las relaciones entre esos conceptos. Las ontologías proporcionan una estructura clara que permite organizar, compartir y reutilizar información de manera coherente, tanto por personas como por máquinas.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#componentes-de-una-ontología",
+    "href": "01-day/01-day1-Resumen.html#componentes-de-una-ontología",
+    "title": "Resumen del Día 1",
+    "section": "Componentes de una Ontología",
+    "text": "Componentes de una Ontología\nUna ontología generalmente incluye los siguientes elementos:\n\nClases: Representan los conceptos o tipos de objetos del dominio (por ejemplo, “Libro” o “Autor”).\nPropiedades: Definen las relaciones entre clases o atributos de las clases (por ejemplo, “tieneAutor” o “título”).\nInstancias: Son ejemplos específicos de clases (por ejemplo, “Don Quijote” como instancia de la clase “Libro”).\nAxiomas: Reglas que definen las restricciones sobre las clases y propiedades, lo que permite razonamiento automático.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#recursos",
+    "href": "01-day/01-day1-Resumen.html#recursos",
+    "title": "Resumen del Día 1",
+    "section": "Recursos",
+    "text": "Recursos\n\nManu Sporny. ¿Qué son los Datos Enlazados? (Video)\nEuropeana. Datos Abiertos Vinculados. ¿Qué son?(Video)\nLinked Open Data Cloud. Una visualización de conjuntos de datos enlazados en la Web de Datos Enlazados\nMixter, Jeff (2024).“An introduction to library linked data”. OCLC\nÁvila Barrientos, Eder. (2020). Los datos bibliográficos abiertos enlazados y su comportamiento en la recuperación de información. Investigación bibliotecológica, 34(82), 203-227. Epub 17 de abril de 2020\nÁvila Barrientos, Eder. (2020) . Los Datos enlazados y su uso en bibliotecas Instituto de Investigaciones Bibliotecológicas y de la Información.\nBlaney, Jonathan (2017) . Introducción a los Datos abiertos enlazados. Programming Historian\nTimothy A. Thompson (2023). Empowering Global Leaders: A Linked Data Training Program for Library Innovation. EBSCO Information Services LLC\nW3C Semantic Web Standards Sitio oficial del World Wide Web Consortium (W3C) que define los estándares para la Web Semántica, incluyendo RDF, OWL, y SPARQL.\nLinked Data - Tim Berners-Lee’s Linked Data Principles Artículo original de Tim Berners-Lee que introduce los principios de los Datos Enlazados.\nRDF Primer (W3C) Una guía completa del W3C para aprender sobre RDF, incluyendo conceptos básicos y ejemplos.\nSPARQL Query Language for RDF (W3C) Recurso detallado sobre el lenguaje de consultas SPARQL para trabajar con datos RDF.",
+    "crumbs": [
+      "Introducción Día 1",
+      "Resumen del Día 1"
+    ]
+  },
+  {
+    "objectID": "01-day/00-day1-ProgramaSugerido.html",
+    "href": "01-day/00-day1-ProgramaSugerido.html",
+    "title": "Introducción a la web semántica y los datos abiertos enlazados",
+    "section": "",
+    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nIntroducciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:00\nRDF básico\n\n\n10:00–10:45\nOntologías y modelado semántico de datos\n\n\n10:45–11:00\nReceso\n\n\n11:00–11:45\nActividad: desmontando un registro MARC 21\n\n\n11:45–12:00\nDiscución\n\n\n11:30–12:00\nModelos Semánticos para BIBFRAME\n\n\n12:00–1:00\nActividad con Turtle, resumen y discusión\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 1"
+    ]
+  },
+  {
+    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html",
+    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html",
+    "title": "Módulo 2: Empezando en Sinopia",
+    "section": "",
+    "text": "Este módulo abarca lo siguiente:\n\nLo que puedes hacer en Sinopia\nEntornos de Sinopia y navegadores web compatibles\nCreando una cuenta de Sinopia\nNavegando por la interfaz de Sinopia\nInformando errores"
+  },
+  {
+    "objectID": "templates/day_calendar.html",
+    "href": "templates/day_calendar.html",
+    "title": "Programa Sugerido",
+    "section": "",
+    "text": "Programa Sugerido\nlunes, ## de octubre de 202#\n\n\n\nHora\nTema\n\n\n\n\n09:00 – 09:15\nTema\n\n\n09:15 – 09:30\nTema\n\n\n09:30 – 10:00\nTema\n\n\n10:00 – 10:30\nTema\n\n\n10:30 – 10:45\nTema\n\n\n10:45 – 11:00\nTema\n\n\n11:00 – 11:30\nTema\n\n\n11:30 – 12:00\nTema\n\n\n12:00 – 12:15\nTema\n\n\n12:15 – 13:00\nTema\n\n\n\n\n\nResumen y Requisitos para el día\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "04-day/00-day4-ProgramaSugerido.html",
+    "href": "04-day/00-day4-ProgramaSugerido.html",
+    "title": "Editores de datos enlazados para BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 4"
+    ]
+  },
+  {
+    "objectID": "02-day/00-day2-ProgramaSugerido.html",
+    "href": "02-day/00-day2-ProgramaSugerido.html",
+    "title": "Introducción al esquema BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 2"
+    ]
+  },
+  {
+    "objectID": "03-day/00-day3-ProgramaSugerido.html",
+    "href": "03-day/00-day3-ProgramaSugerido.html",
+    "title": "BIBFRAME y otros modelos",
+    "section": "",
+    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:00\nConferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME, otros modelos y críticas\n\n\n10:45–11:45\nActividad\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 3"
+    ]
+  },
+  {
+    "objectID": "05-day/00-day5-ProgramaSugerido.html",
+    "href": "05-day/00-day5-ProgramaSugerido.html",
+    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\nRecursos de estudio:\n\nEnlace a Notas Grupales:\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción Día 5"
+    ]
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html",
+    "href": "04-day/01-day4-Resumen.html",
+    "title": "Resumen del Día 4",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#objetivos",
+    "href": "04-day/01-day4-Resumen.html#objetivos",
+    "title": "Resumen del Día 4",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
+    "href": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 4",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#recursos",
+    "href": "04-day/01-day4-Resumen.html#recursos",
+    "title": "Resumen del Día 4",
+    "section": "Recursos",
+    "text": "Recursos",
+    "crumbs": [
+      "Introducción Día 4",
+      "Resumen del Día 4"
+    ]
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html",
+    "href": "03-day/01-day3-Resumen.html",
+    "title": "Resumen del Día 3",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 3",
+      "Resumen del Día 3"
+    ]
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html#objetivos",
+    "href": "03-day/01-day3-Resumen.html#objetivos",
+    "title": "Resumen del Día 3",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 3",
+      "Resumen del Día 3"
+    ]
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html#temas-discutidos-en-clase",
+    "href": "03-day/01-day3-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 3",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:",
+    "crumbs": [
+      "Introducción Día 3",
+      "Resumen del Día 3"
+    ]
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html#recursos",
+    "href": "03-day/01-day3-Resumen.html#recursos",
+    "title": "Resumen del Día 3",
+    "section": "Recursos",
+    "text": "Recursos",
+    "crumbs": [
+      "Introducción Día 3",
+      "Resumen del Día 3"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html",
+    "href": "05-day/01-day5-Resumen.html",
+    "title": "Resumen del Día 5",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#objetivos",
+    "href": "05-day/01-day5-Resumen.html#objetivos",
+    "title": "Resumen del Día 5",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#temas-discutidos-en-clase",
+    "href": "05-day/01-day5-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 5",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#recursos",
+    "href": "05-day/01-day5-Resumen.html#recursos",
+    "title": "Resumen del Día 5",
+    "section": "Recursos",
+    "text": "Recursos",
+    "crumbs": [
+      "Introducción Día 5",
+      "Resumen del Día 5"
+    ]
   }
 ]
