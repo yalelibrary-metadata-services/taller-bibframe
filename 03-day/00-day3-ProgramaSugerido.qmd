@@ -1,0 +1,22 @@
+---
+title: "BIBFRAME y otros modelos"
+---
+
+# Programa Sugerido
+
+miércoles, 23 de octubre
+
+| Hora | Tema |
+| ---- | ---  |
+| 9:00–10:00 | Conferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”|
+| 10:00–10:15 | Receso |
+| 10:15–10:45 | BIBFRAME, otros modelos y críticas |
+| 10:45–11:45 | Actividad |
+| 11:45–12:00 | Receso |
+| 12:00–1:00 | Presentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial |
+
+# Recursos de estudio: 
+
+-  Enlace a Notas Grupales: 
+- 
+- 

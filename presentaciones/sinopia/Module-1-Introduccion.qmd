@@ -1,0 +1,182 @@
+---
+format:
+  revealjs: 
+    theme: custom.scss
+    logo: fig/pcclogo.png
+title: "Módulo 1: Introducción al Entrenamiento de Sinopia"
+subtitle: Traducción al español por Daniel Mugaburu
+author: PCC SCT Task Group
+date: 2024/10/24
+---
+
+## Grupo de Capacitación de Sinopia (2019-2021)
+
+Desarrollaron el entrenamiento original para Sinopia
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Paul Burley
+- Adam Cohen
+- Michelle Futornick
+- Greta de Groat
+- Jeannette Ho
+:::
+
+::: {.column width="50%"}
+- Nancy Lorimer
+- Beth Picknally Camden
+- Brian Stearns (Presidente)
+- Craig Thomas
+- John Hostage
+:::
+
+::::
+
+
+## Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)
+
+Han acutalizado las diapositivas originales
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Ben Abrahamse
+- May Chan (Co-Presidente)
+- Catrina Davis
+- Abby Dover
+- Paul Frank 
+:::
+
+::: {.column width="50%"}
+- Greta Heng
+- Nancy Lorimer (Co-Presidente)
+- Charlene Morrison
+- Heather Pretty
+- Adam L. Schiff
+:::
+
+::::
+
+ 
+## Alcance del módulo #1
+
+- Antecedentes de Sinopia y de la serie original de entrenamiento.
+- Objetivos de aprendizaje para la serie de formación en su totalidad.
+- Organización de la serie de formación.
+- Referencias a recursos valiosos sobre datos enlazados y BIBFRAME para ayudarte a cumplir con los requisitos previos. 
+- Apoyo disponible para usuarios de Sinopia
+
+## Antecedentes de la serie de entrenamiento de Sinopia
+
+- Sinopia es un entorno (RDF) de datos enlazados hecho para la creación y reutilización de metadatos, desarrollado como parte de la serie de subvenciones Linked Data for Production financiada por la Fundación Mellon.
+  
+- En conjunto con el desarrollo de Sinopia, PCC ha trabajado en estrecha colaboración con LD4P para proporcionar capacitación a los catalogadores de PCC mediante la creación
+ 
+- Formación de catalogadores de Sinopia para PCC (primera versión de estas diapositivas) el grupo de afinidad PCC Sinopia, como parte de la comunidad LD4.
+  - La comunidad actualmente esta coordinada por Kalliopi Mathios, Ryan Mendenhall y Margarita Pérez Martínez
+ 
+## Objetivos de aprendizaje de la serie de entrenamiento
+
+Al final de esta serie de capacitación estarás preparado/a para catalogar libros monográficos en Sinopia utilizando las plantillas de Sinopia de la PCC.  Aprenderás cómo:
+ 
+- Utilizar las herramientas de catalogación de Sinopia, con énfasis en las plantillas de PCC
+- Crear y editar descripciones originales de datos enlazados
+- Enlazar descripciones relacionadas
+- Buscar datos creados en Sinopia
+- Derivar nuevas descripciones a partir de descripciones existentes
+
+## ¿Qué no está cubierto?
+
+Varios temas están fuera del alcance de este entrenamiento: 
+
+- Creando plantillas de catalogación Sinopia
+  - Si estás interesado en la configuración de plantillas, por favor consulta la próxima documentación en el sitio de Github de Sinopia. 
+  
+- Ingestar o enlazar descripciones de fuentes externas (distintas a las proporcionadas como referencias). 
+  
+- Exportación de metadatos. 
+  
+- Amplia cobertura de las mejores prácticas de catalogación en el entorno de Sinopia
+
+## Lo que si esta cubierto
+
+- Ingresar datos utilizando búsquedas
+- Previsualización, Guardado y Edición de Descripciones 
+- Vinculación de Descripciones Relacionadas 
+- Copiando descripciones
+- Flujo de trabajo de catalogación
+- Introducción al Entrenamiento de Sinopia (es decir, este módulo)
+- Empezando en Sinopia
+- Buscando Datos Creados en Sinopia 
+- Sobre las Plantillas del PCC
+- Ingresado de literales
+
+## Requisitos previos de la serie de entrenamiento
+
+Esta serie de formación está diseñada para usuarios con: 
+
+- Comprensión básica de datos enlazados
+- Entendimiento básico de BIBFRAME
+- Familiaridad con RDA Original
+ 
+Las diapositivas posteriores en este módulo incluyen enlaces a materiales que introducen conceptos de datos enlazados y BIBFRAME. Para obtener más información sobre RDA, consulta el RDA Toolkit.
+
+## Recursos introductorios sobre Datos Enlazados
+
+- Capacitación en Datos Vinculados de PCC (en progreso)
+  
+- [Europeana: DatosAbiertosVinculados](https://www.youtube.com/watch?v=uju4wT9uBIA) 
+
+- [OCLC:EmpezandoconlosDatosEnlazados](https://www.oclc.org/research/areas/data-science/linkeddata/linked-data-getting-started.html)
+
+- [ALCTS/CORE](https://www.youtube.com/watch?v=hXGAh6kTGnU) 
+Videos de educación continua de ALCTSCECore sobre datos enlazados 
+
+## Recursos introductorios de BIBFRAME
+
+Sitio de BIBFRAME de la Biblioteca del Congreso de los Estados Unidos
+ 
+- Descripción del Modelo BIBFRAME 2.0 
+- PreguntasFrequentes(FAQ) acerca de BIBFRAME 
+
+[BIBFRAME y el PCC],(https://loc.gov/aba/pcc/bibframe/bibframe-and-pcc.html) ¿Cuál es la relación? 
+
+- El PCC almacena informes, entrenamientos, y presentaciones relacionadas al PCC en BIBFRAME y datos enlazados en general.  
+
+Canal de Youtube del [ALCTSCE/Core](https://www.youtube.com/@alctsce/search) sobre BIBFRAME
+
+
+## Otros recursos de ayuda y aprendizaje
+
+- [Grupo de Afinidad de Catalogación de Sinopia PCC en wiki](https://wiki.lyrasis.org/display/PFCCP/PCC+Sinopia+Cataloging+Affinity+Group)
+
+- Canal de Slack de Sinopia en LD4: # sinopia 
+  
+- [Sitio de ayuda de Sinopia](http://help.sinopia.io)
+
+- [Library of Congress BIBFRAME Listserv](https://lsoft.com/scripts/wl.exe?SL1=BIBFRAME&H=LISTSERV.LOC.GOV)
+
+## Grupos de PCC trabajando con Datos Enlazados
+
+Para febrero de 2024 existen los siguientes grupos: 
+
+- [Grupo de Interoperabilidad de BIBFRAME(BIG)](https://wiki.lyrasis.org/pages/viewpage.action?pageId=249135298)
+- [Comité Consultivo de Datos Enlazados(LDAC)](https://wiki.lyrasis.org/display/PFCCP/Linked+Data+Advisory+Committee)
+- [Grupo de Trabajo sobre Formación en Datos Enlazados(LDT)](https://wiki.lyrasis.org/display/PFCCP/PCC+Working+Group+on+Metadata+Application+Profiles)
+- [Grupo de Trabajo del PCC sobre Perfiles de Aplicación de Metadatos (MAPs)](https://wiki.lyrasis.org/display/PFCCP/PCC+Working+Group+on+Metadata+Application+Profiles)
+- [Comité Asesor de Gestión de Identidad(IMAC)](https://wiki.lyrasis.org/display/PFCCP/Identity+Management+Advisory+Committee)
+- Grupo de trabajo de la SCA sobre la conversión de BIBFRAME a MARC
+
+## Aprendizaje y descubrimiento práctico
+
+- Sinopia es utilizado por el PCC (y otros) para experimentar trabajando con metadatos en un entorno de datos vinculados, y para explorar la catalogación cooperativa en un entorno de datos vinculados. Algunas instituciones están a punto de utilizar Sinopia en un entorno de producción.
+  
+- Las mejores prácticas continúan evolucionando, al igual que las plantillas y nuestra comprensión del catálogo de LD. ¡Espere que las cosas cambien!
+  
+- Sinopia sigue siendo desarrollado, ¡y sus comentarios son importantes y bienvenidos! El módulo 2 explica cómo reportar errores y sugerir mejoras.
+
+
+## Fin del Módulo 1
+
+Gracias

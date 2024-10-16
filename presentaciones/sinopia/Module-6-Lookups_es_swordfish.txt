@@ -1,0 +1,173 @@
+Ingresando datos utilizando búsquedas
+Módulo 6 Sinopia
+
+Alcance de este módulo
+Módulo 6: Ingresar datos utilizando búsquedas abarca
+ 
+Introducir datos mediante menús desplegables y búsquedas en fuentes autorizadas externas (por ejemplo, vocabularios de la Biblioteca del Congreso en id.loc.gov) 
+Añadir URIs y etiquetas manualmente
+2
+
+Uso de búsquedas
+Dado que los datos enlazados dependen de URIs para representar entidades, sus metadatos serán más útiles cuando la mayor parte de ellos se representen como URIs en lugar de cadenas de texto. 
+Cuando usa una búsqueda en Sinopia, está buscando a través de conjuntos de términos para encontrar el correcto para usar en sus metadatos. Cuando selecciona un término, Sinopia muestra el término y también guarda el URI correspondiente. 
+Questioning Authority (QA) es el servicio que proporciona acceso a muchos vocabularios en Sinopia.
+3
+
+Limitaciones de búsquedas
+QA utiliza las API proporcionadas por los titulares de vocabulario para poblar búsquedas 
+Beneficios
+Los vocabularios son actuales (no dependen de la actualización de cachés locales)
+mantenimiento más bajo
+Desventajas
+Estamos limitados a las opciones de API de los proveedores de datos sobre la relevancia de la búsqueda, el contexto proporcionado y los resultados mostrados, aunque proporcionamos enlaces a términos autorizados individuales en id.loc.gov.
+debido a esto, a menudo necesitarás seguir utilizando los archivos de autoridad completos en id.loc.gov y OCLC para elegir el término correcto
+4
+
+Tipos de búsquedas en Sinopia
+Lista desplegable
+para listas cortas de términos donde el contexto del término en la lista es valioso y los valores son estables, por ejemplo, tipos de contenido
+estas listas están almacenadas en Sinopia y no son búsquedas reales
+5
+Buscar con cuadro de consulta
+para vocabularios más amplios y dinámicos, como LCGFT, LC-NAF/LC-RWOs, LCSH
+Sinopia ofrece dos métodos de búsqueda: listas desplegables y componentes de búsqueda. 
+
+Acerca de las listas desplegables
+6
+Este ejemplo utiliza la plantilla _PCC BF2 Work (Monografía).
+Un campo con un menú desplegable contiene el texto "Seleccionar..." en el cuadro de entrada, con una flecha hacia abajo en el extremo derecho.
+
+Para abrir el menú desplegable, haz clic en cualquier parte del campo.
+
+Seleccionar valores de listas desplegables
+7
+Cada elemento de la lista representa un URI del vocabulario externo. 
+Las etiquetas están en orden alfabético en la lista desplegable. 
+Para seleccionar un elemento de la lista, pulse en el elemento. 
+Para cerrar el menú desplegable sin seleccionar un elemento, pulse en el espacio vacío al lado de la lista o presione Esc.
+
+Búsqueda instantánea para listas largas
+8
+En lugar de desplazarse por una larga lista, también puede escribir para buscar directamente.
+ 
+Ejemplo: Si quiere el idioma "Xhosa", comience a escribir la palabra en la caja de búsqueda. Saltará directamente al xhosa en lugar de tener que desplazarte por toda la lista.
+ 
+
+Editar valores en campos desplegables
+9
+Después de seleccionar un término, su URI y etiqueta se completan automáticamente. 
+Para editar el valor que introdujo, pulse en el ícono de “papelera” para eliminar el valor que ingresó, y luego abra nuevamente la lista desplegable para elegir un nuevo valor.
+
+Valores repetibles en campos desplegables
+10
+Para ingresar más de un valor en un campo desplegable, seleccione un valor...
+Haga clic en el botón "+Agregar otro..."
+"… y elija otro valor."
+
+Consultas de búsqueda para vocabularios más extensos
+11
+Un campo con un componente de búsqueda contiene el texto “Enter lookup query for..." en el cuadro de entrada, y tiene un botón de búsqueda en forma de lupa.
+Para fuentes externas autorizadas de vocabularios más extensos o dinámicos, Sinopia cuenta con una consulta de Búsqueda que le permite buscar en la fuente externa y seleccionar un resultado. 
+ 
+
+Realizar una consulta de búsqueda
+12
+Escriba un valor en el cuadro de búsqueda
+
+
+Pulse en el botón de búsqueda o presione Enter para buscar en el vocabulario externo.
+Sus resultados de búsqueda aparecerán. Si hay varios vocabularios, los resultados del primero se mostrarán de forma predeterminada con cualquier contexto proporcionado por la API. Para los demás, se mostrará el número de resultados después del nombre del vocabulario.
+
+Cambiar vocabularios
+13
+Para mostrar los resultados de búsqueda de un vocabulario distinto al predeterminado, pulse en su nombre.  Los resultados de la búsqueda de ese vocabulario se mostrarán.
+
+Diacríticos y conjuntos de caracteres
+14
+Igual que en campos literales, puede pulsar en el botón "ä" para abrir un teclado virtual para introducir caracteres de una variedad de conjuntos de caracteres diferentes.
+
+ 
+
+Ver el Registro Completo
+Cuando pulse en el icono de enlace externo, se mostrará el registro del término en una nueva pestaña del navegador. 
+15
+
+Editar tu selección
+16
+Para editar su selección, pulse en el ícono de la papelera para eliminarlo y luego realice otra búsqueda.
+
+Seleccionar un resultado
+Pulse en el resultado deseado para seleccionarlo.
+Ahora se muestra el URI y la etiqueta en lugar del cuadro de búsqueda.
+ 
+17
+El ícono de "enlace externo" es un enlace a la URI representada por la etiqueta. Desde aquí, puede ir al registro completo del término que haya elegido.
+
+Búsquedas repetibles
+Puede realizar múltiples búsquedas y seleccionar múltiples valores en campos de búsqueda repetibles. Después de seleccionar un valor, pulse en el botón “+Add another…” para hacer otra búsqueda y elegir su próximo valor.
+ 
+ 
+18
+
+Campos no repetibles
+19
+En el campo Nivel de codificación (Encoding level), observe la ausencia de un botón "Agregar otro...". Esto significa que solo se permite un valor en el campo de nivel de codificación.
+
+Valores por defecto
+20
+Algunos campos están prellenados con un término predeterminado.
+Para editar el valor predeterminado, pulse en el ícono de la papelera junto al término; esto eliminará el término predeterminado
+Utilice ya sea la lista desplegable o la búsqueda (según el campo) para buscar e ingresar un nuevo término.
+ 
+Este valor se prepopula en base a la plantilla elegida (en este caso, monografías)
+
+Consejos sobre el uso de búsquedas
+21
+Es posible que necesite escribir la cadena completa para que aparezca el encabezado deseado en la lista. 
+La búsqueda a veces es sensible a mayúsculas, puntuación y espacios. Intente escribir exactamente igual a como aparece en el encabezado autorizado.
+Los resultados se presentan en orden de relevancia, pero el orden puede no ser predecible.
+Puede que tenga que probar más de una forma del encabezado para obtener los resultados deseados (como una forma de referencia cruzada). 
+En ocasiones puede que necesite buscar en recursos externos como OCLC o id.loc.gov.
+
+Usar la barra lateral para ver los campos completados
+Después de ingresar datos en un campo de búsqueda, aparecerá un punto junto al nombre del campo en la barra lateral izquierda, indicando que el campo está lleno.
+22
+
+Búsquedas en datos existentes en Sinopia
+23
+Algunos campos de búsqueda no buscan vocabularios externos, sino que son búsquedas de Obras o Instancias ya creadas en Sinopia. 
+Estas búsquedas están cubiertas en el Módulo 8: Enlazando descripciones relacionadas.
+
+Cuando no puede encontrar un URI
+24
+Puede que se encuentre en una situación en la que sepa que una entidad existe en un vocabulario autoritativo, pero no haya una búsqueda disponible en Sinopia o la nueva entidad aún no esté disponible para su uso. 
+Un ejemplo común es una entidad recién creada en el Archivo de Autoridades de Nombres de la Biblioteca del Congreso (LC-NAF). La entidad existe, pero debido al retraso en el tiempo que tarda una nueva autoridad en llegar a id.loc.gov y recibir un URI, la entidad recién creada no aparecerá en los resultados de búsqueda.
+
+Introduciendo tu propia etiqueta y URI
+Si sabe cuál es la etiqueta y URI (o lo será en un futuro cercano), puede introducirlos manualmente
+25
+Pulse en Ingresa tu propio URI y etiqueta (Enter your own URI and label)
+
+Introduciendo tu propia etiqueta y URI
+Si sabe cuál es la etiqueta y URI (o lo será en un futuro cercano), puede introducirlos manualmente
+26
+La vista cambiará para darle un lugar donde pueda ingresar ambos
+
+Agregar manualmente un literal en lugar de un URI
+27
+Si no puede encontrar el encabezado deseado y ni una URI externa, puede agregar la cadena como un literal. 
+Escriba o pegue la cadena en el cuadro de consulta y presione “Enter” o el botón de búsqueda.
+En la parte superior de los resultados estará la opción de agregar la cadena como literal.
+Pulse en la línea 'Añadir [cadena] como literal' para seleccionar este literal como su valor.
+
+Desventajas de las adiciones manuales
+Las adiciones manuales (ya sea un URI + etiqueta o simplemente una etiqueta) funcionan bien dentro del entorno de BIBFRAME 
+No funcionan tan bien al convertir de BF a MARC
+Problemas que puedes encontrar:
+La conversión fallará porque la URI no cumple con la validación
+La conversión fallará porque espera un URI, no un literal 
+Hay soluciones alternativas, pero estas están fuera del alcance de este entrenamiento
+28
+
+Fin del Módulo 6

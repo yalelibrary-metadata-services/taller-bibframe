@@ -1,0 +1,45 @@
+Copiando Descripciones
+Módulo 9 Sinopia
+
+Alcance de este módulo
+Módulo 9: Copiar descripciones abarca
+ 
+Por qué podrías querer copiar una descripción existente
+Cómo copiar una descripción existente en Sinopia
+ 
+2
+
+¿Para qué copiar una descripción?
+Para volver a utilizar parte de los metadatos para una nueva entidad que es muy similar. Por ejemplo, copiar una instancia impresa para poblar una instancia electrónica recién agregada del mismo trabajo. 
+Para guardar una descripción perteneciente a un grupo (del cual usted no es miembro) en un grupo del cual es miembro.  De esta manera, podrá editarla.
+3
+
+Copiar una descripción - Desde el Panel de Control
+Para hacer una copia de una descripción de Sinopia guardada, use el ícono de         (dos hojas de papel).
+ 
+4
+Busque en Sinopia o seleccione de la lista en el Panel de control / Recursos recientes
+Pulse en el botón          "Copiar".
+
+Copiar una descripción - Desde el modo de edición
+Para hacer una copia de una descripción de Sinopia guardada, usa el ícono de         "dos hojas de papel".
+ 
+5
+El botón de copiar también está disponible cuando está en modo de edición para un recurso único
+
+Para hacer una copia de una descripción de Sinopia guardada, usa el ícono de           "dos hojas de papel".
+ 
+6
+Finalmente, también está disponible en modo de previsualización, en la parte inferior de la pantalla.
+Copiar una descripción - Desde Previsualización (Preview)
+
+Después de pulsar en “Copiar”
+Cuando pulse en Copiar, Sinopia abrirá una nueva pestaña debajo de la pestaña Editor, que contendrá una copia no guardada. Tenga en cuenta que el URI del recurso original ya no está allí. 
+Ahora puede agregar y modificar datos y guardar la nueva descripción. 
+Se asignará un nuevo URI único cuando se guarde.
+7
+Original
+Copiar (antes de guardar)
+
+
+Fin del Módulo 9

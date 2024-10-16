@@ -1,0 +1,83 @@
+Previsualizar, Guardar y Editar descripciones
+Módulo 7 Sinopia
+
+Alcance de este módulo
+Módulo 7: Previsualizar, guardar y editar portadas abarca
+ 
+Previsualizar su descripción en diferentes formatos
+Guardar su descripción
+Editar descripciones previamente guardadas
+ 
+2
+
+Al catalogar, pulse en el ícono del “ojo” para previsualizar el RDF que se está creando. La previsualización refleja todos los datos que ha ingresado, incluso si aún no ha guardado su descripción.
+ 
+Previsualizando RDF
+3
+
+Previsualización de RDF
+4
+Puede elegir entre 5 visualizaciones: 
+Vista de formulario
+JSON-LD
+N-Triples
+Tabla (vista predeterminada)
+"Turtle“
+ 
+Puede guardar su descripción (desplázandose hasta la parte inferior de la previsualización), o pulsar en la "x" en la esquina superior derecha para cerrar la vista previa.
+
+Formatos de vista previa de RDF
+5
+Vista de formulario
+
+Formatos de vista previa de RDF
+6
+Tabla (RDF)
+N-triples
+
+Formatos de vista previa de RDF
+7
+Turtle
+JSON-LD
+
+Guardando una descripción
+IMPORTANTE: Sinopia no guarda sus datos automáticamente a medida que los agrega. Debe pulsar manualmente en “Save” para guardar tus datos.
+ 
+Presione el botón Save en la parte superior de la pantalla del Editor. Úselo todas las veces que quiera.
+ 
+8
+
+Guardando una descripción: Propietario y editor del registro
+Cuando guarde por primera vez una descripción, aparecerá una ventana emergente que pregunta "¿Quién es el propietario de este [registro]?“ (Who owns this?) y "¿Quién puede editarlo?“ (Who else can edit?). Para los registros de BIBCO, elija PCC para la primera pregunta, un valor en blanco para la segunda y pulse en Guardar.
+ 
+9
+
+Guardando una descripción: Propietario y editor del registro
+Si está usando una plantilla de PCC, pero no catalogando a nivel de BIBCO, haga su propia institución (o use otra si su institución no es parte de un grupo participante) y para "¿Quién más puede editar?", seleccione PCC. Esto significa que las bibliotecas PCC podrán actualizar su registro.
+ 
+10
+
+Guardando una descripción: URI asignado 
+Una vez que la descripción ha sido guardada, se le asigna un URI único. Su recurso ahora es buscable en Sinopia desde la pestaña de Búsqueda. (Ver Módulo 3: Buscando datos creados en Sinopia.
+11
+Para copiar la URI al portapapeles, pulse en el botón Copiar URI. Esto es útil para llevar un registro de las URIs de las descripciones que ha creado, o para volver a una descripción para realizar ediciones adicionales, o para crear enlaces entre descripciones. (Ver Módulo 9: Vinculando Descripciones Relacionadas)
+
+
+Cerrar sin guardar 
+Para salir de la sesión de edición sin guardar tus cambios, pulse en el botón Cerrar. Si tiene cambios sin guardar, recibirá un mensaje preguntando si estás seguro de que quiere continuar. Pulse en Cerrar para descartar sus ediciones y cerrar la Ventana Pulse en Cancelar para seguir trabajando en su descripción.
+12
+
+Editando descripciones previamente guardadas 
+Para editar algo que ya esta guardado, necesita  encontrar la descripción nuevamente y abrirla.
+ 
+Busque la descripción (Ver módulo 3: Buscando datos creados en Sinopia), o para descripciones recientemente completadas, vaya a la pestaña de Panel de control y busque bajo Recursos recientes.
+ 
+Realice sus ediciones y pulse en Guardar. El URI permanecerá igual, y no se le pedirá que escoja un grupo.
+13
+
+Editando descripciones previamente guardadas 
+Pulse en el ícono del lápiz (editar) junto a la descripción; si no ve el lápiz, no tiene permiso para editar la descripción. 
+Realice sus ediciones y pulse en Guardar. El URI permanecerá igual, y no se le pedirá que escoja un grupo.
+14
+
+Fin del Módulo 7
