@@ -28,38 +28,43 @@ website:
         text: Introducción Día 1 
         contents:
         - 01-day/00-day1-ProgramaSugerido.qmd
-        - 01-day/01-day1-WebSemantica.qmd
-        - 01-day/02-day1-DatosEnlazados.qmd
-        - 01-day/03-day1-Beneficios.qmd
-        - 01-day/04-day1-Tecnologias1.qmd
-        - 01-day/05-day1-Tecnologias2.qmd
-        - 01-day/06-day1-Ontologias.qmd
-        - 01-day/07-day1-ActividadGuiada.qmd
-        - 01-day/08-day1-RecursosConsultados.qmd
+        - 01-day/01-day1-Resumen.qmd
     - id: dia2
       title: "Día 2"
-      href: 02-day/00-day2-L0-ProgramaSugerido.qmd
+      href: 02-day/00-day2-ProgramaSugerido.qmd
       contents:
-      - href: 02-day/00-day2-L0-ProgramaSugerido.qmd
+      - href: 02-day/00-day2-ProgramaSugerido.qmd
         text: Introducción Día 2
+        contents:
+        - 02-day/00-day2-ProgramaSugerido.qmd
+        - 02-day/01-day2-Resumen.qmd
     - id: dia3
       title: "Día 3"
-      href: 03-day/00-day3-L0-ProgramaSugerido.qmd
+      href: 03-day/00-day3-ProgramaSugerido.qmd
       contents:
-      - href: 03-day/00-day3-L0-ProgramaSugerido.qmd
+      - href: 03-day/00-day3-ProgramaSugerido.qmd
         text: Introducción Día 3
+        contents:
+        - 03-day/00-day3-ProgramaSugerido.qmd
+        - 03-day/01-day3-Resumen.qmd
     - id: dia4
       title: "Día 4"
-      href: 04-day/00-day4-L0-ProgramaSugerido.qmd
+      href: 04-day/00-day4-ProgramaSugerido.qmd
       contents:
-      - href: 04-day/00-day4-L0-ProgramaSugerido.qmd
+      - href: 04-day/00-day4-ProgramaSugerido.qmd
         text: Introducción Día 4
+        contents:
+        - 04-day/00-day4-ProgramaSugerido.qmd
+        - 04-day/01-day4-Resumen.qmd
     - id: dia5
       title: "Día 5"
-      href: 05-day/00-day5-L0-ProgramaSugerido.qmd
+      href: 05-day/00-day5-ProgramaSugerido.qmd
       contents:
-      - href: 05-day/00-day5-L0-ProgramaSugerido.qmd
+      - href: 05-day/00-day5-ProgramaSugerido.qmd
         text: Introducción Día 5
+        contents:
+        - 05-day/00-day5-ProgramaSugerido.qmd
+        - 05-day/01-day5-Resumen.qmd
 format:
   html:
     theme: yeti
