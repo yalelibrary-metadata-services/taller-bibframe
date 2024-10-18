@@ -5,13 +5,23 @@ page-navigation: true
 
 ## Objetivos: 
 
-1. Adquirir conocimiento general sobre web semántica y datos enlazados. 
-2. 
-
-## Temas Discutidos en Clase:
-
-1. 
+1. Proveer un espacio para que los participantes puedan practicar la catalogación en Sinopia utilizando las plantillas de UASLP. 
 2. 
 
 
 ## Recursos
+
+Módulos de entrenamiento de Sinopia por a PCC
+
+| Módulo | Enlace |
+| ---    |   ---  |
+| Módulo 1 | <a href="../presentaciones/sinopia/Module-1-Introduccion.qmd" target="_blank">Introducción</a>|
+| Módulo 2 | <a href="../presentaciones/sinopia/Module-2-Empezando_Sinopia.qmd" target="_blank">Empezando en Sinopia</a>|
+| Módulo 3 | <a href="../presentaciones/sinopia/Module-3-Searching_Sinopia.qmd" target="_blank">Buscando datos creados en Sinopia</a>|
+| Módulo 4 | <a href="../presentaciones/sinopia/Module-4-PCC-Templates.qmd" target="_blank">Sobre las plantillas PCC</a>|
+| Módulo 5 | |
+| Módulo 6 | |
+| Módulo 7 | |
+| Módulo 8 | |
+| Módulo 9 | |
+
