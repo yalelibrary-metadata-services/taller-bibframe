@@ -5,14 +5,28 @@ page-navigation: true
 
 ## Objetivos: 
 
-1. Adquirir conocimiento general sobre web semántica y datos enlazados. 
-2. 
+1. Introducir a participantes a los editores de los editores de datos enlazados Sinopia y Marva   
+2. Utilizar los Módulos de Entrenamiento en realizados por la PCC para explorar Sinopia.
+3. Crear una cuenta en [Sinopia Stage](https://stage.sinopia.io/) 
 
 ## Temas Discutidos en Clase:
 
-1. 
-2. 
+1. Diferencias entre Marva y Sinopia. 
+2. Presentación de las plantillas en Sinopia para el taller BIBFRAME.
 
 
 ## Recursos
 
+Módulos de entrenamiento de Sinopia por a PCC
+
+| Módulo | Enlace |
+| ---    |   ---  |
+| Módulo 1 | <a href="../presentaciones/sinopia/Module-1-Introduccion.qmd" target="_blank">Introducción</a>|
+| Módulo 2 | <a href="../presentaciones/sinopia/Module-2-Empezando_Sinopia.qmd" target="_blank">Empezando en Sinopia</a>|
+| Módulo 3 | <a href="../presentaciones/sinopia/Module-3-Searching_Sinopia.qmd" target="_blank">Buscando datos creados en Sinopia</a>|
+| Módulo 4 | <a href="../presentaciones/sinopia/Module-4-PCC-Templates.qmd" target="_blank">Sobre las plantillas PCC</a>|
+| Módulo 5 | |
+| Módulo 6 | |
+| Módulo 7 | |
+| Módulo 8 | |
+| Módulo 9 | |
