@@ -42,13 +42,13 @@ website:
       title: "Día 4"
       href: 04-day/00-day4-ProgramaSugerido.qmd
       contents:
-        - 03-day/00-day3-ProgramaSugerido.qmd
+        - 04-day/00-day4-ProgramaSugerido.qmd
         - 04-day/01-day4-Resumen.qmd
     - id: dia5
       title: "Día 5"
       href: 05-day/00-day5-ProgramaSugerido.qmd
       contents:
-        - 03-day/00-day3-ProgramaSugerido.qmd
+        - 05-day/00-day5-ProgramaSugerido.qmd
         - 05-day/01-day5-Resumen.qmd
 format:
   html:
