@@ -16,7 +16,6 @@ date: 2024/10/24
 - La navegación a través de una plantilla
 - Los tipos de datos que puedes ingresar en Sinopia
  
- 
 ## ¿Qué es una plantilla de recursos?
 
 - Puedes pensar en una plantilla de recurso de Sinopia, o plantilla, como una receta. Al igual que una receta te dice qué ingredientes usar, una plantilla te dice qué elementos puedes usar para catalogar un elemento particular. 
@@ -52,8 +51,8 @@ date: 2024/10/24
 
 - Para comenzar a catalogar en Sinopia, primero necesita seleccionar la plantilla adecuada. Sinopia contiene muchas plantillas, la mayoría de las cuales no son para uso en catalogación PCC.
 
-- Para ver solo las plantillas PCC primarias, pulse en la pestaña Plantillas de Recursos (Resource Templates).
-En el casillero Buscar un recurso (Find a resource template), escriba “_pcc” (guión bajo pcc).
+- Para ver solo las plantillas PCC primarias, pulse en la pestaña **Plantillas de Recursos (Resource Templates)**.
+En el casillero **Buscar un recurso (Find a resource template)**, escriba “_pcc” (guión bajo pcc).
 
 ![](fig/templatepcc_sinopia.png)
 
@@ -61,15 +60,15 @@ En el casillero Buscar un recurso (Find a resource template), escriba “_pcc”
 ## ¿Qué plantillas usar?
 
 - Al observar la lista de plantillas mostradas cuando se hace una búsqueda PCC, se puede notar que los nombres de las plantillas en la parte superior de la lista comienzan con un guion bajo. Estas son las plantillas que deseas abrir.
-  - Estas plantillas representan los niveles principales en el modelo BIBFRAME, como _PCC BF2 Work (Monografía).
+  - Estas plantillas representan los niveles principales en el modelo BIBFRAME, como **_PCC BF2 Work (Monografía)**.
 
-- Las plantillas mencionadas más abajo, como Cobertura Geográfica (Geographic Coverage), son plantillas más pequeñas que se utilizan dentro de las plantillas de Obra, Manifestación e Ítem. Aunque es posible abrir estas "subplantillas" por separado, en la práctica, solo necesitarás abrir las plantillas que comiencen con un guión bajo. 
+- Las plantillas mencionadas más abajo, como **Cobertura Geográfica (Geographic Coverage)**, son plantillas más pequeñas que se utilizan dentro de las plantillas de Obra, Manifestación e Ítem. Aunque es posible abrir estas "subplantillas" por separado, en la práctica, solo necesitarás abrir las plantillas que comiencen con un guión bajo. 
 
 ![](fig/plantillas_pcc.png)
 
 ## Encontrar plantillas desde el Panel de control (Dashboard)
 
-La pestaña del Panel de Control es una forma rápida de acceder a tus plantillas abiertas recientemente. Aparecerán primero en la pantalla bajo "Plantillas recientes“ (Recent templates).
+La pestaña del **Panel de Control** es una forma rápida de acceder a tus plantillas abiertas recientemente. Aparecerán primero en la pantalla bajo "Plantillas recientes“ (Recent templates).
  
 Cuando comience por primera vez en Sinopia, esta lista estará vacía.
 
@@ -96,6 +95,8 @@ Pulse en el encabezado para abrir la lista
  
 # Abriendo una plantilla de PCC para catalogación
 
+Sinopia proporciona los siguientes detalles sobre cada plantilla:
+
 1. **Etiqueta/ID:** Nombre de plantilla
 2. **URI del recurso:** Cuando se usa esta plantilla para la catalogación, el recurso resultante tendrá este URI como su tipo, o clase. Sinopia proporciona los siguientes detalles sobre cada plantilla:
 3. **Autor:** Nombre de la organización o persona que diseñó esta plantilla
@@ -108,11 +109,12 @@ Pulse en el encabezado para abrir la lista
 
 ## Navegando una plantilla: Pestaña del editor
 
-- Cuando pulse en el ícono "crear", Sinopia abrirá la plantilla para catalogar en la pestaña Editor.
+- Cuando pulse en el ícono "crear", Sinopia abrirá la plantilla para catalogar en la pestaña **Editor**.
  
 - Esta es la sección donde ingresará los datos de catalogación y creará una descripción de recursos basada en BIBFRAME
 
-Las siguientes diapositivas muestran cómo navegar a través de una plantilla en la pestaña Editor. Los módulos posteriores explicarán cómo ingresar datos en la Plantilla.
+Las siguientes diapositivas muestran cómo navegar a través de una plantilla en la pestaña Editor. 
+Los módulos posteriores explicarán cómo ingresar datos en la Plantilla.
 
 ![](fig/editor_sinopia.png)
 
@@ -122,7 +124,6 @@ Las siguientes diapositivas muestran cómo navegar a través de una plantilla en
 - La barra lateral izquierda muestra una vista general de la plantilla y te da una forma rápida de moverte de una sección a otra.
 
 ![](fig/barralateral_sinopia.png)
-
 
 
 ## Navegar una plantilla: Campos 
@@ -136,53 +137,54 @@ En el lado derecho de la ventana están los campos en sí mismos. Cada campo don
 
 Cuando haces clic en el nombre de un campo en la barra lateral izquierda, el lado derecho de la ventana muestra el campo correspondiente.
 
+![](fig/editor_barralateral_sinopia.png)
+
 ## Navegar una plantilla: Enlaces de RDA Toolkit
 
-El ícono de la cajita con la flecha es un enlace directo a la guía apropiada en el Original RDA Toolkit.	
-Si pasas el cursor sobre el ícono, aparecerá el número de la regla RDA.
+![](fig/enlacesrda_sinopia.png)
 
 ## Navegar una plantilla: Campos obligatorios
 
-Los campos obligatorios están identificados por un asterisco (*). Si deja un campo obligatorio en blanco, Sinopia no le permitirá guardar una descripción y resaltará los campos vacíos en rojo.
+![](fig/camposobligatorios_sinopia.png)
 
 ## Navegar una plantilla: Más Información
 
-Al pulsar en el botón “i”, se abrirá un cuadro que contiene aclaraciones sobre las mejores prácticas o cómo ingresar los datos.
+![](fig/plantillamasinformacion_sinopia.png)
 
 ## Navegar una plantilla: Subplantillas
 
-Una simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor. 
-Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad.
+- Una simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor. 
+  
+- Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad.
 Captura de pantalla de 
 
 # Ejemplo de Subplantilla: bf:Contribución
 
-bf:Obra
-bf:Contribución
-bf:Rol
-bf:Agente
+![](fig/subplantillabfcontribucion_sinopia.png)
 
 # Métodos de entrada de datos en Sinopia
 
-Literales
-Utilizado para registrar datos transcritos
-No son accionables por máquina (machine-actionable), pero son legibles para los humanos
+Las plantillas en Sinopia usan dos métodos básicos para ingresar datos: Literales y búsquedas. **Módulo 5:  Ingresando Literales** y **Módulo 6: Ingresar datos usando búsquedas** explican cómo funcionan estos métodos.
 
-Búsquedas 
+- Literales
+  - Utilizado para registrar datos transcritos
+  - No son accionables por máquina (machine-actionable), pero son legibles para los humanos
 
-Utilizado para ingresar URIs y etiquetas de vocabularios externos
-Las plantillas en Sinopia usan dos métodos básicos para ingresar datos: Literales y búsquedas. Módulo 5:  Ingresando Literales y Módulo 6: Ingresar datos usando búsquedas explican cómo funcionan estos métodos.
-Captura de pantalla de 
+- Búsquedas 
+  - Utilizado para ingresar URIs y etiquetas de vocabularios externos
+  
 
 # Cómo expandir una subplantilla
 
-El campo se expande para mostrar un campo literal o un campo de búsqueda.
 Los siguientes ejemplos utilizan la plantilla _PCC BF2 Instance (Monografía).
-Los campos internos de una subplantilla generalmente no están "abiertos" o "expandidos" cuando se abre la plantilla. Pulse en el botón +Agregar para expandir un campo. 
+
+![](fig/expandirsubplantilla_sinopia.png)
 
 # Múltiples niveles de subplantillas
 
-En este ejemplo, ampliamos el Alcance (Extent), pero aún no se han abierto los campos para Notas. Se debe expandir nuevamente con +Agregar (+Add).
+En este ejemplo, ampliamos el **Alcance (Extent)**, pero aún no se han abierto los campos para **Notas**. Se debe expandir nuevamente con **+Agregar (+Add)**.
+
+![](fig/multiplesnivelesbubplantillas_sinopia.png)
 
 # Usando una subplantilla más de una vez
 
