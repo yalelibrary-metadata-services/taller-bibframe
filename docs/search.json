@@ -1,217 +1,217 @@
 [
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#alcance-de-este-módulo",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#alcance-de-este-módulo",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#alcance-de-este-módulo",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Alcance de este módulo",
     "text": "Alcance de este módulo\n\nEl concepto de una plantilla\nLa selección de la plantilla PCC adecuada\nLa navegación a través de una plantilla\nLos tipos de datos que puedes ingresar en Sinopia"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#qué-es-una-plantilla-de-recursos",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "¿Qué es una plantilla de recursos?",
     "text": "¿Qué es una plantilla de recursos?\n\nPuedes pensar en una plantilla de recurso de Sinopia, o plantilla, como una receta. Al igual que una receta te dice qué ingredientes usar, una plantilla te dice qué elementos puedes usar para catalogar un elemento particular.\nPara cada clase, una plantilla especifica cuales propiedades son relevantes y cómo registrar datos para esas propiedades.\nUna plantilla actúa como un perfil de aplicación de metadatos. Para obtener más información sobre perfiles de aplicación de metadatos, consulte el Grupo de Tareas de PCC sobre Perfiles de Aplicación de Metadatos."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#plantillas-de-pcc-antecedentes",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Plantillas de PCC: Antecedentes",
     "text": "Plantillas de PCC: Antecedentes\n\nPara fomentar la adopción de Sinopia y la estandarización de la catalogación en Sinopia, el PCC ha proporcionado un conjunto de plantillas basadas en BIBFRAME para su uso. Estas plantillas de PCC fueron desarrolladas basadas en las mejores prácticas que surgieron del uso inicial de Sinopia.\nA partir de la publicación de este módulo, las Plantillas PCC están disponibles solo en el sitio web de Stage (stage.sinopia.io)"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#plantillas-de-pcc-qué-está-cubierto",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Plantillas de PCC: ¿Qué está cubierto?",
     "text": "Plantillas de PCC: ¿Qué está cubierto?\n\nSinopia ofrece plantillas de PCC para Obras, Manifestaciones e Ítems, tanto para Monografías como para Publicaciones Seriadas.\nCada nivel del modelo BIBFRAME (Obra, Manifestación, Ítem) tiene su propia plantilla.\nEl Módulo 8 explica cómo hacer enlaces entre descripciones creadas a partir de las plantillas."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#práctica-de-catalogación",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#práctica-de-catalogación",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#práctica-de-catalogación",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#práctica-de-catalogación",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Práctica de catalogación",
     "text": "Práctica de catalogación\n\nLas plantillas de PCC Sinopia enlazan a las directrices originales de RDA siempre que sea posible, y a veces proporcionan instrucciones adicionales sobre la práctica de catalogación.\n\n\n\nA medida que los catalogadores de PCC adquieran experiencia con las plantillas de PCC, surgirán y serán documentadas prácticas recomendadas adicionales."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#encontrando-plantillas-del-pcc",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Encontrando Plantillas del PCC",
     "text": "Encontrando Plantillas del PCC\n\nPara comenzar a catalogar en Sinopia, primero necesita seleccionar la plantilla adecuada. Sinopia contiene muchas plantillas, la mayoría de las cuales no son para uso en catalogación PCC.\nPara ver solo las plantillas PCC primarias, pulse en la pestaña Plantillas de Recursos (Resource Templates). En el casillero Buscar un recurso (Find a resource template), escriba “_pcc” (guión bajo pcc)."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-plantillas-usar",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#qué-plantillas-usar",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#qué-plantillas-usar",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#qué-plantillas-usar",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "¿Qué plantillas usar?",
-    "text": "¿Qué plantillas usar?\n\nAl observar la lista de plantillas mostradas cuando se hace una búsqueda PCC, se puede notar que los nombres de las plantillas en la parte superior de la lista comienzan con un guion bajo. Estas son las plantillas que deseas abrir.\n\nEstas plantillas representan los niveles principales en el modelo BIBFRAME, como _PCC BF2 Work (Monografía).\n\nLas plantillas mencionadas más abajo, como Cobertura Geográfica (Geographic Coverage), son plantillas más pequeñas que se utilizan dentro de las plantillas de Obra, Manifestación e Ítem. Aunque es posible abrir estas “subplantillas” por separado, en la práctica, solo necesitarás abrir las plantillas que comiencen con un guión bajo."
+    "text": "¿Qué plantillas usar?\n\nAl observar la lista de plantillas mostradas cuando se hace una búsqueda PCC, se puede notar que los nombres de las plantillas en la parte superior de la lista comienzan con un guion bajo. Estas son las plantillas que deseas abrir.\n\nEstas plantillas representan los niveles principales en el modelo BIBFRAME, como **_PCC BF2 Work (Monografía)**.\n\nLas plantillas mencionadas más abajo, como Cobertura Geográfica (Geographic Coverage), son plantillas más pequeñas que se utilizan dentro de las plantillas de Obra, Manifestación e Ítem. Aunque es posible abrir estas “subplantillas” por separado, en la práctica, solo necesitarás abrir las plantillas que comiencen con un guión bajo."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#encontrar-plantillas-desde-el-panel-de-control-dashboard",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Encontrar plantillas desde el Panel de control (Dashboard)",
     "text": "Encontrar plantillas desde el Panel de control (Dashboard)\nLa pestaña del Panel de Control es una forma rápida de acceder a tus plantillas abiertas recientemente. Aparecerán primero en la pantalla bajo “Plantillas recientes“ (Recent templates).\nCuando comience por primera vez en Sinopia, esta lista estará vacía."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Encontrar plantillas desde la pantalla de Plantillas de recursos (Resource Templates)",
     "text": "Encontrar plantillas desde la pantalla de Plantillas de recursos (Resource Templates)\nLa pantalla de plantillas de recursos (Resource Templates) muestra primero las plantillas que has utilizado más recientemente.\nPulse en el encabezado para abrir la lista"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegando-una-plantilla-pestaña-del-editor",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegando una plantilla: Pestaña del editor",
     "text": "Navegando una plantilla: Pestaña del editor\n\nCuando pulse en el ícono “crear”, Sinopia abrirá la plantilla para catalogar en la pestaña Editor.\nEsta es la sección donde ingresará los datos de catalogación y creará una descripción de recursos basada en BIBFRAME\n\nLas siguientes diapositivas muestran cómo navegar a través de una plantilla en la pestaña Editor. Los módulos posteriores explicarán cómo ingresar datos en la Plantilla."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Barra lateral",
     "text": "Navegar una plantilla: Barra lateral\n\nLa barra lateral izquierda muestra una vista general de la plantilla y te da una forma rápida de moverte de una sección a otra."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-campos",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Campos",
     "text": "Navegar una plantilla: Campos\nEn el lado derecho de la ventana están los campos en sí mismos. Cada campo donde puede ingresar datos corresponde a una propiedad de BIBFRAME."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-barra-lateral-1",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Barra lateral",
     "text": "Navegar una plantilla: Barra lateral\nCuando haces clic en el nombre de un campo en la barra lateral izquierda, el lado derecho de la ventana muestra el campo correspondiente."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-enlaces-de-rda-toolkit",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Enlaces de RDA Toolkit",
-    "text": "Navegar una plantilla: Enlaces de RDA Toolkit\nEl ícono de la cajita con la flecha es un enlace directo a la guía apropiada en el Original RDA Toolkit.\nSi pasas el cursor sobre el ícono, aparecerá el número de la regla RDA."
+    "text": "Navegar una plantilla: Enlaces de RDA Toolkit"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-campos-obligatorios",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Campos obligatorios",
-    "text": "Navegar una plantilla: Campos obligatorios\nLos campos obligatorios están identificados por un asterisco (*). Si deja un campo obligatorio en blanco, Sinopia no le permitirá guardar una descripción y resaltará los campos vacíos en rojo."
+    "text": "Navegar una plantilla: Campos obligatorios"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-más-información",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Más Información",
-    "text": "Navegar una plantilla: Más Información\nAl pulsar en el botón “i”, se abrirá un cuadro que contiene aclaraciones sobre las mejores prácticas o cómo ingresar los datos."
+    "text": "Navegar una plantilla: Más Información"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
-    "href": "presentaciones/sinopia/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-4-PCC-Templates.html#navegar-una-plantilla-subplantillas",
     "title": "Módulo 4: Sobre las plantillas PCC",
     "section": "Navegar una plantilla: Subplantillas",
-    "text": "Navegar una plantilla: Subplantillas\nUna simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor. Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad. Captura de pantalla de"
+    "text": "Navegar una plantilla: Subplantillas\n\nUna simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor.\nEste tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad. Captura de pantalla de"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#grupo-de-capacitación-de-sinopia-2019-2021",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Grupo de Capacitación de Sinopia (2019-2021)",
     "text": "Grupo de Capacitación de Sinopia (2019-2021)\nDesarrollaron el entrenamiento original para Sinopia\n\n\n\nPaul Burley\nAdam Cohen\nMichelle Futornick\nGreta de Groat\nJeannette Ho\n\n\n\nNancy Lorimer\nBeth Picknally Camden\nBrian Stearns (Presidente)\nCraig Thomas\nJohn Hostage"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#grupo-de-trabajo-sobre-capacitación-enlazada-de-pcc-sct-2022-",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)",
     "text": "Grupo de Trabajo sobre Capacitación Enlazada de PCC SCT (2022-)\nHan acutalizado las diapositivas originales\n\n\n\nBen Abrahamse\nMay Chan (Co-Presidente)\nCatrina Davis\nAbby Dover\nPaul Frank\n\n\n\nGreta Heng\nNancy Lorimer (Co-Presidente)\nCharlene Morrison\nHeather Pretty\nAdam L. Schiff"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#alcance-del-módulo-1",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#alcance-del-módulo-1",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#alcance-del-módulo-1",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#alcance-del-módulo-1",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Alcance del módulo #1",
     "text": "Alcance del módulo #1\n\nAntecedentes de Sinopia y de la serie original de entrenamiento.\nObjetivos de aprendizaje para la serie de formación en su totalidad.\nOrganización de la serie de formación.\nReferencias a recursos valiosos sobre datos enlazados y BIBFRAME para ayudarte a cumplir con los requisitos previos.\nApoyo disponible para usuarios de Sinopia"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#antecedentes-de-la-serie-de-entrenamiento-de-sinopia",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Antecedentes de la serie de entrenamiento de Sinopia",
     "text": "Antecedentes de la serie de entrenamiento de Sinopia\n\nSinopia es un entorno (RDF) de datos enlazados hecho para la creación y reutilización de metadatos, desarrollado como parte de la serie de subvenciones Linked Data for Production financiada por la Fundación Mellon.\nEn conjunto con el desarrollo de Sinopia, PCC ha trabajado en estrecha colaboración con LD4P para proporcionar capacitación a los catalogadores de PCC mediante la creación\nFormación de catalogadores de Sinopia para PCC (primera versión de estas diapositivas) el grupo de afinidad PCC Sinopia, como parte de la comunidad LD4.\n\nLa comunidad actualmente esta coordinada por Kalliopi Mathios, Ryan Mendenhall y Margarita Pérez Martínez"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#objetivos-de-aprendizaje-de-la-serie-de-entrenamiento",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Objetivos de aprendizaje de la serie de entrenamiento",
     "text": "Objetivos de aprendizaje de la serie de entrenamiento\nAl final de esta serie de capacitación estarás preparado/a para catalogar libros monográficos en Sinopia utilizando las plantillas de Sinopia de la PCC. Aprenderás cómo:\n\nUtilizar las herramientas de catalogación de Sinopia, con énfasis en las plantillas de PCC\nCrear y editar descripciones originales de datos enlazados\nEnlazar descripciones relacionadas\nBuscar datos creados en Sinopia\nDerivar nuevas descripciones a partir de descripciones existentes"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#qué-no-está-cubierto",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#qué-no-está-cubierto",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#qué-no-está-cubierto",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#qué-no-está-cubierto",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "¿Qué no está cubierto?",
     "text": "¿Qué no está cubierto?\nVarios temas están fuera del alcance de este entrenamiento:\n\nCreando plantillas de catalogación Sinopia\n\nSi estás interesado en la configuración de plantillas, por favor consulta la próxima documentación en el sitio de Github de Sinopia.\n\nIngestar o enlazar descripciones de fuentes externas (distintas a las proporcionadas como referencias).\nExportación de metadatos.\nAmplia cobertura de las mejores prácticas de catalogación en el entorno de Sinopia"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#lo-que-si-esta-cubierto",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Lo que si esta cubierto",
     "text": "Lo que si esta cubierto\n\nIngresar datos utilizando búsquedas\nPrevisualización, Guardado y Edición de Descripciones\nVinculación de Descripciones Relacionadas\nCopiando descripciones\nFlujo de trabajo de catalogación\nIntroducción al Entrenamiento de Sinopia (es decir, este módulo)\nEmpezando en Sinopia\nBuscando Datos Creados en Sinopia\nSobre las Plantillas del PCC\nIngresado de literales"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#requisitos-previos-de-la-serie-de-entrenamiento",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Requisitos previos de la serie de entrenamiento",
     "text": "Requisitos previos de la serie de entrenamiento\nEsta serie de formación está diseñada para usuarios con:\n\nComprensión básica de datos enlazados\nEntendimiento básico de BIBFRAME\nFamiliaridad con RDA Original\n\nLas diapositivas posteriores en este módulo incluyen enlaces a materiales que introducen conceptos de datos enlazados y BIBFRAME. Para obtener más información sobre RDA, consulta el RDA Toolkit."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#recursos-introductorios-sobre-datos-enlazados",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Recursos introductorios sobre Datos Enlazados",
     "text": "Recursos introductorios sobre Datos Enlazados\n\nCapacitación en Datos Vinculados de PCC (en progreso)\nEuropeana: DatosAbiertosVinculados\nOCLC:EmpezandoconlosDatosEnlazados\nALCTS/CORE Videos de educación continua de ALCTSCECore sobre datos enlazados"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#recursos-introductorios-de-bibframe",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Recursos introductorios de BIBFRAME",
     "text": "Recursos introductorios de BIBFRAME\nSitio de BIBFRAME de la Biblioteca del Congreso de los Estados Unidos\n\nDescripción del Modelo BIBFRAME 2.0\nPreguntasFrequentes(FAQ) acerca de BIBFRAME\n\n[BIBFRAME y el PCC],(https://loc.gov/aba/pcc/bibframe/bibframe-and-pcc.html) ¿Cuál es la relación?\n\nEl PCC almacena informes, entrenamientos, y presentaciones relacionadas al PCC en BIBFRAME y datos enlazados en general.\n\nCanal de Youtube del ALCTSCE/Core sobre BIBFRAME"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#otros-recursos-de-ayuda-y-aprendizaje",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Otros recursos de ayuda y aprendizaje",
     "text": "Otros recursos de ayuda y aprendizaje\n\nGrupo de Afinidad de Catalogación de Sinopia PCC en wiki\nCanal de Slack de Sinopia en LD4: # sinopia\nSitio de ayuda de Sinopia\nLibrary of Congress BIBFRAME Listserv"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#grupos-de-pcc-trabajando-con-datos-enlazados",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Grupos de PCC trabajando con Datos Enlazados",
     "text": "Grupos de PCC trabajando con Datos Enlazados\nPara febrero de 2024 existen los siguientes grupos:\n\nGrupo de Interoperabilidad de BIBFRAME(BIG)\nComité Consultivo de Datos Enlazados(LDAC)\nGrupo de Trabajo sobre Formación en Datos Enlazados(LDT)\nGrupo de Trabajo del PCC sobre Perfiles de Aplicación de Metadatos (MAPs)\nComité Asesor de Gestión de Identidad(IMAC)\nGrupo de trabajo de la SCA sobre la conversión de BIBFRAME a MARC"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#aprendizaje-y-descubrimiento-práctico",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Aprendizaje y descubrimiento práctico",
     "text": "Aprendizaje y descubrimiento práctico\n\nSinopia es utilizado por el PCC (y otros) para experimentar trabajando con metadatos en un entorno de datos vinculados, y para explorar la catalogación cooperativa en un entorno de datos vinculados. Algunas instituciones están a punto de utilizar Sinopia en un entorno de producción.\nLas mejores prácticas continúan evolucionando, al igual que las plantillas y nuestra comprensión del catálogo de LD. ¡Espere que las cosas cambien!\nSinopia sigue siendo desarrollado, ¡y sus comentarios son importantes y bienvenidos! El módulo 2 explica cómo reportar errores y sugerir mejoras."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-1-Introduccion.html#fin-del-módulo-1",
-    "href": "presentaciones/sinopia/Module-1-Introduccion.html#fin-del-módulo-1",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#fin-del-módulo-1",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-1-Introduccion.html#fin-del-módulo-1",
     "title": "Módulo 1: Introducción al Entrenamiento de Sinopia",
     "section": "Fin del Módulo 1",
     "text": "Fin del Módulo 1\nGracias"
@@ -256,21 +256,27 @@
     "href": "04-day/00-day4-ProgramaSugerido.html",
     "title": "Editores de datos enlazados para BIBFRAME",
     "section": "",
-    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:30\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nCreación de perfiles de metadatos\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\n\n\n Back to top"
+    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:45\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:45–11:00\nReceso\n\n\n11:00–12:00\nCreación de perfiles de metadatos\n\n\n12:15–12:45\nActividad: práctica en Sinopia\n\n\n12:45–1:00\nResumen y discusión\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Editores de datos enlazados para BIBFRAME"
+    ]
   },
   {
     "objectID": "05-day/00-day5-ProgramaSugerido.html",
     "href": "05-day/00-day5-ProgramaSugerido.html",
     "title": "Continuación: Editores de datos enlazados para BIBFRAME",
     "section": "",
-    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del dia anterior\n\n\n9:15–10:30\nPráctica de Sinopia\n\n\n10:30–10:45\nReceso\n\n\n10:45–12:00\nActividad\n\n\n12:00–12:15\nReceso\n\n\n12:15–12:45\nActividad\n\n\n12:45–1:00\nResumen y Discusión\n\n\n\n\n\n\n\n Back to top"
+    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:30\nPráctica en Sinopia\n\n\n10:45–11:00\nReceso\n\n\n11:00–1:00\nActividad, resumen y discusión\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Continuación: Editores de datos enlazados para BIBFRAME"
+    ]
   },
   {
     "objectID": "02-day/00-day2-ProgramaSugerido.html",
     "href": "02-day/00-day2-ProgramaSugerido.html",
     "title": "Introducción al esquema BIBFRAME",
     "section": "",
-    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:15–10:30\nReceso\n\n\n10:30–11:45\n¿BIBFRAME en español?\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\n¿BIBFRAME en español? (continuación), resumen y discusión\n\n\n\n\n\n\n\n Back to top",
+    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nActividad con Turtle, discusión\n\n\n10:15–10:45\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:45–11:00\nReceso\n\n\n11:00–12:45\nBIBFRAME en español\n\n\n12:45–1:00\nDiscusión\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Introducción al esquema BIBFRAME"
     ]
@@ -320,7 +326,7 @@
     "href": "01-day/00-day1-ProgramaSugerido.html",
     "title": "Introducción a la web semántica y los datos abiertos enlazados",
     "section": "",
-    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nIntroducciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:00\nRDF básico\n\n\n10:00–10:45\nOntologías y modelado semántico de datos\n\n\n10:45–11:00\nReceso\n\n\n11:00–11:45\nActividad: desmontando un registro MARC 21\n\n\n11:45–12:00\nDiscución\n\n\n11:30–12:00\nModelos Semánticos para BIBFRAME\n\n\n12:00–1:00\nActividad con Turtle, resumen y discusión\n\n\n\n\n\n\n\n Back to top",
+    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nPresentaciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:30\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n10:30–10:45\nRDF básico\n\n\n10:45–11:00\nReceso\n\n\n11:00–11:15\nRDF básico\n\n\n11:15–12:00\nOntologías y modelado semántico de datos\n\n\n12:00–12:45\nActividad: desmontando un registro MARC 21\n\n\n12:45–1:00\nDiscusión\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Introducción a la web semántica y los datos abiertos enlazados"
     ]
@@ -450,7 +456,7 @@
     "href": "03-day/00-day3-ProgramaSugerido.html",
     "title": "BIBFRAME y otros modelos",
     "section": "",
-    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–10:00\nConferencia: “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME, otros modelos y críticas\n\n\n10:45–11:45\nActividad\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\n\n\n Back to top",
+    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00-10:00\nConferencia “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME en español / Otros modelos y críticas\n\n\n10:45–11:45\nBIBFRAME en español / Demostración de herramientas\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "BIBFRAME y otros modelos"
     ]
@@ -520,7 +526,7 @@
     "href": "05-day/01-day5-Resumen.html#recursos",
     "title": "Resumen del Día 5",
     "section": "Recursos",
-    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\n\n\n\nMódulo 6\n\n\n\nMódulo 7\n\n\n\nMódulo 8\n\n\n\nMódulo 9",
+    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\nIngresando Literales\n\n\nMódulo 6\nIngresando datos utilizando búsquedas\n\n\nMódulo 7\nPrevisualizar, Guardar y Editar descripciones\n\n\nMódulo 8\nEnlazando Descripciones Relacionadas\n\n\nMódulo 9\nCopiando Descripciones",
     "crumbs": [
       "Resumen del Día 5"
     ]
@@ -560,7 +566,7 @@
     "href": "04-day/01-day4-Resumen.html#recursos",
     "title": "Resumen del Día 4",
     "section": "Recursos",
-    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\n\n\n\nMódulo 6\n\n\n\nMódulo 7\n\n\n\nMódulo 8\n\n\n\nMódulo 9",
+    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\nIngresando Literales\n\n\nMódulo 6\nIngresando datos utilizando búsquedas\n\n\nMódulo 7\nPrevisualizar, Guardar y Editar descripciones\n\n\nMódulo 8\nEnlazando Descripciones Relacionadas\n\n\nMódulo 9\nCopiando Descripciones",
     "crumbs": [
       "Resumen del Día 4"
     ]
@@ -580,176 +586,176 @@
     "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#alcance-de-este-módulo",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#alcance-de-este-módulo",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#alcance-de-este-módulo",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#alcance-de-este-módulo",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Alcance de este Módulo:",
     "text": "Alcance de este Módulo:\n\nEncontrar descripciones en Sinopia después de que se hayan creado usando la pestaña de Búsqueda.\nFiltrar los resultados de las búsquedas.\nUsar el panel de control para ver búsquedas recientes"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#cuándo-buscar",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#cuándo-buscar",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#cuándo-buscar",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#cuándo-buscar",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Cuándo buscar​",
     "text": "Cuándo buscar​\n\nBusque datos creados en Sinopia para:\n\nVerificar si algo ya ha sido catalogado para poder reutilizar los metadatos\nEncontrar una descripción que ya está en Sinopia para ver, editar o hacer una copia de ella\nBuscar Obras o Instancias relacionadas para enlazar a la descripción"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#iniciando-una-búsqueda",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#iniciando-una-búsqueda",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#iniciando-una-búsqueda",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#iniciando-una-búsqueda",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Iniciando una búsqueda",
     "text": "Iniciando una búsqueda\n\nVerifique que el menú desplegable de búsqueda esté configurado en el valor predeterminado Sinopia.\nEscriba su búsqueda en la cuadrilla Ingresar consulta y pulse en el icono 🔎, o pulse Enter."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#qué-se-está-buscando",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#qué-se-está-buscando",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#qué-se-está-buscando",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#qué-se-está-buscando",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "¿Qué se está buscando?",
     "text": "¿Qué se está buscando?\n\nLa función de búsqueda realiza una búsqueda de palabras clave en todos los datos literales de cualquier campo.\nLa búsqueda no distingue entre mayúsculas y minúsculas.\nEjemplo: El término francés encuentra francés y Francés"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#ordenando-los-resultados",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#ordenando-los-resultados",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#ordenando-los-resultados",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#ordenando-los-resultados",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Ordenando los resultados",
     "text": "Ordenando los resultados\n\nLos resultados se ordenan por relevancia de forma predeterminada\nLas coincidencias encontradas en campos de título son consideradas más relevantes que otras coincidencias.\nSeleccione un orden diferente utilizando el menú desplegable de “Ordenar por”.\nOrdenar por etiqueta es equivalente a ordenar por el título de la obra o manifestación."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-y-de-forma-predeterminada",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-y-de-forma-predeterminada",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-y-de-forma-predeterminada",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-y-de-forma-predeterminada",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Búsquedas de varias palabras: “Y” de forma predeterminada",
     "text": "Búsquedas de varias palabras: “Y” de forma predeterminada\n\nEl operador predeterminado para búsquedas de múltiples palabras es “Y” (And), y por eso no hay que ponerlo entre términos.\nEjemplo:\n\nEl término french history (historia francesa) encuentra cualquier objeto que incluya las palabras “history” y “french” dentro de su descripcion.\nEntre sus resultados encontramos libros escritos en francés y libros sobre historia francesa."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-usando-o",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-usando-o",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-usando-o",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#búsquedas-de-varias-palabras-usando-o",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Búsquedas de varias palabras: Usando O",
     "text": "Búsquedas de varias palabras: Usando O\n\nPara búsquedas O (Or), utilize la barra vertical (|)\nEjemplo:\n\nEl término history|french (historia | francesa) encuentra objetos que contengan las palabras ‘history’ o ‘french’.\nEntre sus resultados encontramos escritos sobre gramática francesa y teoria de la historia."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#derivación-de-palabras-y-buscar-todo",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#derivación-de-palabras-y-buscar-todo",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#derivación-de-palabras-y-buscar-todo",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#derivación-de-palabras-y-buscar-todo",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Derivación de palabras y Buscar todo",
     "text": "Derivación de palabras y Buscar todo\n\nLa búsqueda predeterminada es de palabras completas.\nUtilice un asterisco * como carácter comodín para truncar/derivados de una palabra\n\nEjemplo: Buscar sun no encuentra sunshine (soleado), pero buscar sun* encuentra sunshine (soleado), sunrise (amanecer), sunflower (girasol) etc.\n\n\nPara encontrar todo el material catalogado, busca con solo el carácter comodín (*)."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#filtrando-resultados",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#filtrando-resultados",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#filtrando-resultados",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#filtrando-resultados",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Filtrando resultados",
     "text": "Filtrando resultados\n\nPara reducir el número de resultados, se puede filtrar por la clase del recurso, o por la institución o grupo que creó la descripción.\nPulse en el botón de “Filtrar por” (Filter by) y luego desmarque las categorías que no quiere en sus resultados.\nPulse en “Ir” (Go) para filtrar la lista de resultados según las categorías que seleccione."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#buscando-desde-el-panel-de-control",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#buscando-desde-el-panel-de-control",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#buscando-desde-el-panel-de-control",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#buscando-desde-el-panel-de-control",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Buscando desde el panel de control",
     "text": "Buscando desde el panel de control\n\nEl Panel de control guarda sus búsquedas más recientes\nPara volver a realizar una búsqueda reciente, vaya a la pestaña de tablero (Dashboard) y desplácese hacia abajo hasta las búsquedas recientes.\nPulse en la lupa ubicada en la misma celda del término para repetir la búsqueda."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#buscando-por-uri",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#buscando-por-uri",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#buscando-por-uri",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#buscando-por-uri",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Buscando por URI",
     "text": "Buscando por URI\n\nCada descripción en Sinopia se le asigna un URI cuando se guarda por primera vez.\nSi conoce el URI que corresponde a una descripción, introdúzcalo en el cuadro de búsqueda.\nLos resultados incluyen la descripción con ese URI, y cualquier otra descripción que se refiera a él."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#fin-del-módulo-3",
-    "href": "presentaciones/sinopia/Module-3-Searching_Sinopia.html#fin-del-módulo-3",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#fin-del-módulo-3",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#fin-del-módulo-3",
     "title": "Módulo 3: Buscando datos creados en Sinopia",
     "section": "Fin del Módulo 3",
     "text": "Fin del Módulo 3\nGracias"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#alcance-de-este-módulo",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Alcance de este módulo",
     "text": "Alcance de este módulo\nEste módulo abarca lo siguiente:\n\nLo que puedes hacer en Sinopia\nEntornos de Sinopia y navegadores web compatibles\nCreando una cuenta de Sinopia\nNavegando por la interfaz de Sinopia\nInformando errores"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#qué-es-sinopia",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#qué-es-sinopia",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#qué-es-sinopia",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#qué-es-sinopia",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "¿Qué es Sinopia?",
     "text": "¿Qué es Sinopia?\n\nSinopia es un entorno de creación de datos enlazados, desarrollado por Linked Data for Production(LD4P), financiado por la Fundación Mellon.\nSinopia permite a los catalogadores:\nCatalogar en un entorno de datos enlazados sin tener que configurar y mantener herramientas localmente\nDesarrollar las mejores prácticas relacionadas con la creación de datos enlazados\nExplorar la catalogación cooperativa en un entorno de datos enlazados"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#stage-vs-producción",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#stage-vs-producción",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#stage-vs-producción",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#stage-vs-producción",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "“Stage” vs Producción",
     "text": "“Stage” vs Producción\nHay dos entornos principales de Sinopia, Stage y Producción\n\n\nSinopia-Stage\n\nEntorno de prueba de usuarios de Sinopia destinado para práctica.\nLos usuarios pueden crear datos y no preocuparse por su calidad.\nLas descripciones (y plantillas) pueden ser eliminadas.\nPlantillas de PCC disponibles para prácticar (ver Módulo 4)\n\n\nSinopia\n\nEntorno para la creación de metadatos a nivel de permanente.\nLos metadatos en este repositorio se guardarán por un mínimo de 5 años después de que finalice la subvención LD4P3 (2026).\nLas Plantillas PCC aún no están disponibles."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#desarrollo-de-sinopia-sinopia-development",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#desarrollo-de-sinopia-sinopia-development",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#desarrollo-de-sinopia-sinopia-development",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#desarrollo-de-sinopia-sinopia-development",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Desarrollo de Sinopia (Sinopia Development)",
     "text": "Desarrollo de Sinopia (Sinopia Development)\n\nEl desarrollo de Sinopia es principalmente para el uso de desarrolladores y propietarios de productos de Sinopia. El enfoque es probar actualizaciones de Sinopia antes de su lanzamiento.\nTambién está siendo utilizado actualmente por un grupo de pruebas de Ex Libris Alma.\nPor favor, solo use Sinopia Development si forma parte del grupo de pruebas de Ex Libris Alma"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#navegadores-web-compatibles",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#navegadores-web-compatibles",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#navegadores-web-compatibles",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#navegadores-web-compatibles",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Navegadores web compatibles",
     "text": "Navegadores web compatibles\n\nSinopia es basado en la web, por lo que no tiene que instalar ningún software.\nPuede usar cualquier navegador, pero tenga en cuenta que las actualizaciones de Sinopia solo se prueban en Chrome\nInforme cualquier problema con otros navegadores si los encuentra."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#cuentas",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#cuentas",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#cuentas",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#cuentas",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Cuentas",
     "text": "Cuentas\nNecesita una cuenta de Sinopia para:\n\nCrear descripciones\nEditar descripciones\nExplorar, buscar y visualizar descripciones existentes\nNecesita cuentas separadas para Stage y Producción, por lo que si desea utilizar ambas, necesitará registrarse dos veces\n\nPuede usar el mismo nombre de usuario, correo electrónico y contraseña para ambos, si lo prefiere."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#instruciones-crear-una-cuenta",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Instruciones crear una cuenta",
     "text": "Instruciones crear una cuenta\n\nVaya a stage.sinopia.io o sinopia.io\nPulse en Solicitar Cuenta (Request Account)\nIngrese un nombre de usuario, correo electrónico y contraseña.\nPulse en el botón “Continuar”\nRecibirá un correo electrónico pidiéndole que confirme.\n\n\n\n\n\n\n\nAcceder\n\n\n\n\n\n\n\nCrear\n\n\n\n\n\n\n\nAutenticar\n\n\n\n\n\n\n\nConfirmar"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#su-nombre-de-usuario-id-de-catalogador",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#su-nombre-de-usuario-id-de-catalogador",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#su-nombre-de-usuario-id-de-catalogador",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#su-nombre-de-usuario-id-de-catalogador",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Su nombre de usuario = ID de catalogador",
     "text": "Su nombre de usuario = ID de catalogador\nSu nombre de usuario no sólo es su acceso a Sinopia cuando use plantillas de Sinopia. Este se se auto-llenará en todas sus descripciones como su ID de catalogador y otros usuarios lo verán.\nPor favor, ¡téngalo en cuenta al elegir!"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#después-de-iniciar-sesión",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#después-de-iniciar-sesión",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#después-de-iniciar-sesión",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#después-de-iniciar-sesión",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Después de iniciar sesión",
     "text": "Después de iniciar sesión\nUna vez que cree una cuenta e inicie la sesión, su pantalla lucirá así:\n\nPulse en el botón del Editor de Datos Vinculados (Linked Data Editor) para empezar a usar Sinopia."
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#navegando-en-sinopia",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#navegando-en-sinopia",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#navegando-en-sinopia",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#navegando-en-sinopia",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Navegando en Sinopia",
     "text": "Navegando en Sinopia\nDespués de pulsar en el Editor de Datos Enlazados, estarás en el Panel de Control, el cual contiene enlaces a sus plantillas recientes, búsquedas y otros recursos. Otros enlaces son:\n\n\n\n\nBuscar y seleccionar plantillas de recursos. (Ver Módulo 4)\n\n\n\nMenú desplegable de acciones\n\nCargar RDF\nExportaciones\nVer métricas (no incluido)\n\nRecursos\nPlantillas\nUsuarios\n\n\n\n\n\nBarra de búsqueda\n\nBuscar descripciones creadas en Sinopia. (Modulo 3)\n\n\n\n\nAyuda\n\nSitio de ayuda de Sinopia\nInformar errores\nSugerir una nueva característica\nNotas de la versión\nBúsquedas de Autoridades\nPreguntas y Respuestas"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#sitio-de-ayuda-de-sinopia",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#sitio-de-ayuda-de-sinopia",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#sitio-de-ayuda-de-sinopia",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#sitio-de-ayuda-de-sinopia",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Sitio de Ayuda de Sinopia",
     "text": "Sitio de Ayuda de Sinopia\n¡Su opinión es importante!\nDesde el menú de Ayuda, pulse en Reportar un error para informar problemas, o Sugerir una nueva característica para proponer nuevas ideas para Sinopia.\nAmbos enlaces abren un formulario en GitHub. Necesitará crear una cuenta gratuita de GitHub (www.github.com) para completar los formularios.\nPuede hacer preguntas, informar problemas y sugerir ideas en el canal de Slack #sinopiaenelEspacio deTrabajoLD4 (ld4.slack.com)"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#detalles-técnicos-de-sinopia",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#detalles-técnicos-de-sinopia",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#detalles-técnicos-de-sinopia",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#detalles-técnicos-de-sinopia",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Detalles técnicos de Sinopia",
     "text": "Detalles técnicos de Sinopia\nEste entrenamiento se basa en Sinopia versión 3.17.74, lanzada en diciembre de 2023, con correcciones de errores y actualizaciones lanzadas periódicamente desde entonces.\nSi desea obtener más detalles sobre la última versión de Sinopia y ver notas sobre cada lanzamiento, visite el sitio de ayuda de Sinopia desde el menú de Ayuda, o vaya a help.sinopia.io, y luego pulse en Último lanzamiento.\nHay videos cortos que muestran las características de Sinopia disponibles en YouTube"
   },
   {
-    "objectID": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#fin-del-módulo-2",
-    "href": "presentaciones/sinopia/Module-2-Empezando_Sinopia.html#fin-del-módulo-2",
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#fin-del-módulo-2",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-2-Empezando_Sinopia.html#fin-del-módulo-2",
     "title": "Módulo 2: Empezando en Sinopia",
     "section": "Fin del Módulo 2",
     "text": "Fin del Módulo 2\nGracias"

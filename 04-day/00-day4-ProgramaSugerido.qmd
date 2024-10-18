@@ -6,12 +6,11 @@ title: "Editores de datos enlazados para BIBFRAME"
 
 jueves, 24 de octubre
 
-| Hora | Tema |
-| ---- | ---  |
-| 9:00–10:30 | Introducción a los editores de datos enlazados Sinopia y Marva |
-| 10:30–10:45 | Receso |
-| 10:45–12:00 | Creación de perfiles de metadatos|
-| 12:00–12:15 | Receso |
-| 12:15–12:45 | Actividad |
-| 12:45–1:00 | Resumen y Discusión|
-
+| Hora         | Tema                                                            |
+|--------------|-----------------------------------------------------------------|
+| 9:00–9:15    | Repaso del día anterior                                         |
+| 9:15–10:45   | Introducción a los editores de datos enlazados Sinopia y Marva  |
+| 10:45–11:00  | Receso                                                          |
+| 11:00–12:00  | Creación de perfiles de metadatos                               |
+| 12:15–12:45  | Actividad: práctica en Sinopia                                  |
+| 12:45–1:00   | Resumen y discusión                                             |

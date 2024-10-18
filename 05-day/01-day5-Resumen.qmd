@@ -6,8 +6,6 @@ page-navigation: true
 ## Objetivos: 
 
 1. Proveer un espacio para que los participantes puedan practicar la catalogación en Sinopia utilizando las plantillas de UASLP. 
-2. 
-
 
 ## Recursos
 
@@ -15,13 +13,12 @@ Módulos de entrenamiento de Sinopia por a PCC
 
 | Módulo | Enlace |
 | ---    |   ---  |
-| Módulo 1 | <a href="../presentaciones/sinopia/Module-1-Introduccion.qmd" target="_blank">Introducción</a>|
-| Módulo 2 | <a href="../presentaciones/sinopia/Module-2-Empezando_Sinopia.qmd" target="_blank">Empezando en Sinopia</a>|
-| Módulo 3 | <a href="../presentaciones/sinopia/Module-3-Searching_Sinopia.qmd" target="_blank">Buscando datos creados en Sinopia</a>|
-| Módulo 4 | <a href="../presentaciones/sinopia/Module-4-PCC-Templates.qmd" target="_blank">Sobre las plantillas PCC</a>|
-| Módulo 5 | |
-| Módulo 6 | |
-| Módulo 7 | |
-| Módulo 8 | |
-| Módulo 9 | |
-
+| Módulo 1 | <a href="../presentaciones/pdf/Modulo_1_Introduccion_es_2024.pdf" target="_blank">Introducción</a>|
+| Módulo 2 | <a href="../presentaciones/pdf/Modulo_2_Empezando_Sinopia_es_2024.pdf" target="_blank">Empezando en Sinopia</a>|
+| Módulo 3 | <a href="../presentaciones/pdf/Modulo_3_Busquedas_es_2024.pdf" target="_blank">Buscando datos creados en Sinopia</a>|
+| Módulo 4 | <a href="../presentaciones/pdf/Modulo_4_Plantillas_es_2024.pdf" target="_blank">Sobre las plantillas PCC</a>|
+| Módulo 5 | <a href="../presentaciones/pdf/Modulo_5_Literales_es_2024.pdf" target="_blank">Ingresando Literales</a>|
+| Módulo 6 | <a href="../presentaciones/pdf/Modulo_6_Lookups_es_2024.pdf" target="_blank">Ingresando datos utilizando búsquedas</a> |
+| Módulo 7 | <a href="../presentaciones/pdf/Modulo_7_Vizualizar_Cambiar_Grabar_es_2024.pdf" target="_blank">Previsualizar, Guardar y Editar descripciones</a> |
+| Módulo 8 | <a href="../presentaciones/pdf/Modulo_8_Enlazando_Descripciones_es_2024.pdf" target="_blank">Enlazando Descripciones Relacionadas</a> |
+| Módulo 9 | <a href="../presentaciones/pdf/Modulo_9_Copiando_descripciones_2024.pdf" target="_blank">Copiando Descripciones</a> |
