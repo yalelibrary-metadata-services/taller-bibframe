@@ -97,36 +97,15 @@ Necesita una cuenta de Sinopia para:
 4. Pulse en el botón "Continuar" 
 5. Recibirá un correo electrónico pidiéndole que confirme.
 
-:::: {.columns}
+::: {layout-ncol=4 layout-valign="center"}
+![Acceder](fig/login_sinopia.png)
 
-::: {.column width="25%"}
+![Crear](fig/signup_sinopia.png)
 
-**Acceder**
-![](fig/login_sinopia.png)
+![Autenticar](fig/confirm_account_sinopia.png)
 
+![Confirmar](fig/confirm_email_sinopia.png)
 :::
-
-::: {.column width="25%"}
-
-**Crear**
-![](fig/signup_sinopia.png)
-
-:::
-
-
-::: {.column width="25%"}
-
-**Autenticar**
-![](fig/confirm_account_sinopia.png)
-
-:::
-
-::: {.column width="25%"}
-**Confirmar**
-![](fig/confirm_email_sinopia.png)
-:::
-
-::::
 
 
 ## Su nombre de usuario = ID de catalogador
