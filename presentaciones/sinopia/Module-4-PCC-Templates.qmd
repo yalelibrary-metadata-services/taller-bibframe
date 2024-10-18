@@ -132,8 +132,6 @@ En el lado derecho de la ventana están los campos en sí mismos. Cada campo don
 ![](fig/editorcampos_sinopia.png)
 
 
- 
- 
 ## Navegar una plantilla: Barra lateral
 
 Cuando haces clic en el nombre de un campo en la barra lateral izquierda, el lado derecho de la ventana muestra el campo correspondiente.
