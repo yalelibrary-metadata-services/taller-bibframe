@@ -27,4 +27,4 @@ lunes, 21 de octubre
 
 - Enlace a actividad: desmontando un registro MARC 21
   - [El Principito con etiquetas](../presentaciones/pdf/El_principito_con_etiquetas.pdf)
-  - [El Principito sin etiquetas](.../presentaciones/pdf/El_principito_sin_etiquetas.pdf)
+  - [El Principito sin etiquetas](../presentaciones/pdf/El_principito_sin_etiquetas.pdf)
