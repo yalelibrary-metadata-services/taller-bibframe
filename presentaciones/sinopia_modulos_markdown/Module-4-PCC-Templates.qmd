@@ -188,12 +188,11 @@ En este ejemplo, ampliamos el **Alcance (Extent)**, pero aún no se han abierto 
 
 # Usando una subplantilla más de una vez
 
-Si tiene más de un Título Variante, necesita duplicar todo el submodelo, utilizando el botón +Agregar otro (+Add another).
-Las propiedades en una subplantilla funcionan juntas como grupo. Aquí puede ingresar todas las partes del título variante bajo la clase matriz bf:VariantTitle.
+![](fig/subplantilla2_sinopia.png)
 
 # Resultado de +Agregar otro
-26
-Después de hacer clic en +Agregar otro (+Add another), aparecerá una subplantilla duplicada completa.
+
+![](fig/agrrgar_otro_subplantillas_sinopia.png)
 
 # Fin del Módulo 4
 

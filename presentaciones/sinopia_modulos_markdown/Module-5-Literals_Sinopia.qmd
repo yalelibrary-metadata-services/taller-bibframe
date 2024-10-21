@@ -1,0 +1,70 @@
+---
+format:
+  revealjs: 
+    theme: custom.scss
+    logo: fig/pcclogo.png
+title: "Módulo 5: Ingresando Literales"
+subtitle: Traducción al español por Daniel Mugaburu
+author: PCC SCT Task Group
+date: 2024/10/24
+---
+
+## Alcance de este módulo
+
+Módulo 5: Incluir literales abarca
+ 
+- Ingresar datos como cadenas, o "literales"
+- Editar literales
+- Especificar el idioma de literales ingresados
+
+## Acerca de literales
+
+- Son utilizados para registrar datos transcritos o notas
+- No son procesables por máquina, pero son legibles para humanos
+- Ejemplos de campos que aceptan literales: Título principal, Subtítulo, Declaración de edición, Nota
+ 
+
+## Cómo ingresar y editar metadatos literales
+
+Los siguientes ejemplos utilizan la plantilla _PCC BF2 Instance (Monografía).
+
+![](fig/ingresar_literales_sinopia.png)
+
+## Usar la barra lateral para ver los campos completados
+
+Si guarda su trabajo después de ingresar datos en un campo literal, aparecerá un punto junto al nombre del campo en la barra lateral izquierda, indicando que el campo está completo.
+
+![](fig/barralateral_datoscompletados_sinopia.png)
+
+## Diacríticos y conjuntos de caracteres
+
+Pulse en el botón "ä" para abrir un teclado virtual para ingresar caracteres de una variedad de conjuntos de caracteres diferentes.
+
+![](fig/diacriticos_sinopia.png)
+ 
+## Lenguaje de literales
+
+![](fig/idioma_sinopia.png)
+
+## Guion o Transliteración de Literales
+
+El guion o esquema de transliteración para el texto literal también puede ser codificado.
+Nota cómo la etiqueta se expande en cada uno para agregar el código adicional. Recuerda, la etiqueta se refiere sólo al literal (cadena) con el que está asociada y a ningún otro.
+Título de la manifestación
+Título transliterado
+
+## Literales repetibles (cadenas)
+
+Para agregar más de un valor para un campo, escriba un valor.
+Luego pulse en el botón para añadir otro campo para la entrada.
+Pulse en la casilla para escribir el valor.
+ 
+
+## Literales no repetibles (cadenas)
+
+Algunos literales no son repetibles. Un ejemplo es Título principal (Título de la manifestación).
+El título principal (Título de la manifestación) (junto con sus campos individuales) no son repetibles. Debido a esto no verá otros "Agregar otro Título--Título de la manifestación", "Agregar otro Número de Caracteres de No Inicio," "Agregar Otra Información del Título", etc.
+
+## Fin del Módulo 5
+
+Gracias

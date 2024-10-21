@@ -7,17 +7,24 @@ page-navigation: true
 
 lunes, 21 de octubre
 
-| Hora           | Tema                                                            |
-|----------------|-----------------------------------------------------------------|
-| 9:00–9:15      | Presentaciones                                                  |
-| 9:15–9:30      | Visión general del taller                                       |
-| 9:30–10:30     | Introducción a la web semántica y los datos abiertos enlazados  |
-| 10:30–10:45    | RDF básico                                                      |
+| Hora           | Tema                                                            | Presentación |
+|----------------|-----------------------------------------------------------------|--------------|
+| 9:00–9:15      | Presentaciones                                                  |<a href="https://slides.com/timathom/taller-bibframe-d1-l1" target="_blank">Dia 1, Lección 1 </a>|
+| 9:15–9:30      | Visión general del taller                                       |<a href="https://slides.com/timathom/taller-bibframe-d1-l1" target="_blank">Dia 1, Lección 1 </a>|
+| 9:30–10:30     | Introducción a la web semántica y los datos abiertos enlazados  |<a href="https://slides.com/timathom/taller-bibframe-d1-l1" target="_blank">Dia 1, Lección 1 </a>|
+| 10:30–10:45    | RDF básico                                                      |<a href="https://slides.com/timathom/taller-bibframe-d1-l2" target="_blank">Dia 1, Lección 2 </a>|
 | 10:45–11:00    | Receso                                                          |
-| 11:00–11:15    | RDF básico                                                      |
-| 11:15–12:00    | Ontologías y modelado semántico de datos                        |
+| 11:00–11:15    | RDF básico                                                      |<a href="https://slides.com/timathom/taller-bibframe-d1-l2" target="_blank">Dia 1, Lección 2 </a>|
+| 11:15–12:00    | Ontologías y modelado semántico de datos                        |<a href="https://slides.com/timathom/taller-bibframe-d1-l3" target="_blank">Dia 1, Lección 3 </a>|
 | 12:00–12:45    | Actividad: desmontando un registro MARC 21                      |
 | 12:45–1:00     | Discusión                                                       |
 
+# Recursos:
 
+- [Encuesta](yalesurvey.ca1.qualtrics.com/jfe/form/SV_8pnIH8rBJozsDA2)
 
+- [Registro en Sinopia](https://stage.sinopia.io/) 
+
+- Enlace a actividad: desmontando un registro MARC 21
+  - [El Principito con etiquetas](https://yaleedu-my.sharepoint.com/:b:/g/personal/timothy_thompson_yale_edu/ET2xPf5q0X1KkJLeyR9Ws-4Bscf2wXCpi67E6Os3bkMxbA?e=ugJXB1)
+  - [El Principito sin etiquetas](https://yaleedu-my.sharepoint.com/:b:/g/personal/timothy_thompson_yale_edu/EWBWbawJNPpKmhGNKGDZVyYBGLq6r5Cm1fo6nChudQBSQw?e=KhhneT)

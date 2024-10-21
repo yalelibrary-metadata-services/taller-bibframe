@@ -12,7 +12,7 @@
 
   <meta name="author" content="PCC SCT Task Group">
   <meta name="dcterms.date" content="2024-10-24">
-  <title>BIBFRAME: ¿En español? - Módulo 4: Sobre las plantillas PCC</title>
+  <title>BIBFRAME: ¿En español? - Módulo 5: Ingresando Literales</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -327,7 +327,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Módulo 4: Sobre las plantillas PCC</h1>
+  <h1 class="title">Módulo 5: Ingresando Literales</h1>
   <p class="subtitle">Traducción al español por Daniel Mugaburu</p>
 
 <div class="quarto-title-authors">
@@ -342,192 +342,54 @@ PCC SCT Task Group
 </section>
 <section id="alcance-de-este-módulo" class="slide level2">
 <h2>Alcance de este módulo</h2>
+<p>Módulo 5: Incluir literales abarca</p>
 <ul>
-<li>El concepto de una plantilla</li>
-<li>La selección de la plantilla PCC adecuada</li>
-<li>La navegación a través de una plantilla</li>
-<li>Los tipos de datos que puedes ingresar en Sinopia</li>
+<li>Ingresar datos como cadenas, o “literales”</li>
+<li>Editar literales</li>
+<li>Especificar el idioma de literales ingresados</li>
 </ul>
 </section>
-<section id="qué-es-una-plantilla-de-recursos" class="slide level2">
-<h2>¿Qué es una plantilla de recursos?</h2>
+<section id="acerca-de-literales" class="slide level2">
+<h2>Acerca de literales</h2>
 <ul>
-<li><p>Puedes pensar en una plantilla de recurso de Sinopia, o plantilla, como una receta. Al igual que una receta te dice qué ingredientes usar, una plantilla te dice qué elementos puedes usar para catalogar un elemento particular.</p></li>
-<li><p>Para cada clase, una plantilla especifica cuales propiedades son relevantes y cómo registrar datos para esas propiedades.</p></li>
-<li><p>Una plantilla actúa como un perfil de aplicación de metadatos. Para obtener más información sobre perfiles de aplicación de metadatos, consulte el <a href="https://www.loc.gov/aba/pcc/taskgroup/Metadata-Application-Profiles.html">Grupo de Tareas de PCC sobre Perfiles de Aplicación de Metadatos</a>.</p></li>
+<li>Son utilizados para registrar datos transcritos o notas</li>
+<li>No son procesables por máquina, pero son legibles para humanos</li>
+<li>Ejemplos de campos que aceptan literales: Título principal, Subtítulo, Declaración de edición, Nota</li>
 </ul>
 </section>
-<section id="plantillas-de-pcc-antecedentes" class="slide level2">
-<h2>Plantillas de PCC: Antecedentes</h2>
-<ul>
-<li><p>Para fomentar la adopción de Sinopia y la estandarización de la catalogación en Sinopia, el PCC ha proporcionado un conjunto de plantillas basadas en BIBFRAME para su uso. Estas plantillas de PCC fueron desarrolladas basadas en las mejores prácticas que surgieron del uso inicial de Sinopia.</p></li>
-<li><p>A partir de la publicación de este módulo, las Plantillas PCC están disponibles solo en el sitio web de Stage (stage.sinopia.io)</p></li>
-</ul>
-</section>
-<section id="plantillas-de-pcc-qué-está-cubierto" class="slide level2">
-<h2>Plantillas de PCC: ¿Qué está cubierto?</h2>
-<ul>
-<li><p>Sinopia ofrece plantillas de PCC para Obras, Manifestaciones e Ítems, tanto para Monografías como para Publicaciones Seriadas.</p></li>
-<li><p>Cada nivel del modelo BIBFRAME (Obra, Manifestación, Ítem) tiene su propia plantilla.</p></li>
-<li><p>El Módulo 8 explica cómo hacer enlaces entre descripciones creadas a partir de las plantillas.</p></li>
-</ul>
-</section>
-<section id="práctica-de-catalogación" class="slide level2">
-<h2>Práctica de catalogación</h2>
-<ul>
-<li>Las plantillas de PCC Sinopia enlazan a las directrices originales de RDA siempre que sea posible, y a veces proporcionan instrucciones adicionales sobre la práctica de catalogación.</li>
-</ul>
-
-<img data-src="fig/worktitle_links_sinopia.png" class="r-stretch"><ul>
-<li>A medida que los catalogadores de PCC adquieran experiencia con las plantillas de PCC, surgirán y serán documentadas prácticas recomendadas adicionales.</li>
-</ul>
-</section>
-<section id="encontrando-plantillas-del-pcc" class="slide level2">
-<h2>Encontrando Plantillas del PCC</h2>
-<ul>
-<li><p>Para comenzar a catalogar en Sinopia, primero necesita seleccionar la plantilla adecuada. Sinopia contiene muchas plantillas, la mayoría de las cuales no son para uso en catalogación PCC.</p></li>
-<li><p>Para ver solo las plantillas PCC primarias, pulse en la pestaña <strong>Plantillas de Recursos (Resource Templates)</strong>. En el casillero <strong>Buscar un recurso (Find a resource template)</strong>, escriba “_pcc” (guión bajo pcc).</p></li>
-</ul>
-
-<img data-src="fig/templatepcc_sinopia.png" class="r-stretch"></section>
-<section id="qué-plantillas-usar" class="slide level2">
-<h2>¿Qué plantillas usar?</h2>
-<ul>
-<li>Al observar la lista de plantillas mostradas cuando se hace una búsqueda PCC, se puede notar que los nombres de las plantillas en la parte superior de la lista comienzan con un guion bajo. Estas son las plantillas que deseas abrir.
-<ul>
-<li>Estas plantillas representan los niveles principales en el modelo BIBFRAME, como **_PCC BF2 Work (Monografía)**.</li>
-</ul></li>
-<li>Las plantillas mencionadas más abajo, como <strong>Cobertura Geográfica (Geographic Coverage)</strong>, son plantillas más pequeñas que se utilizan dentro de las plantillas de Obra, Manifestación e Ítem. Aunque es posible abrir estas “subplantillas” por separado, en la práctica, solo necesitarás abrir las plantillas que comiencen con un guión bajo.</li>
-</ul>
-
-<img data-src="fig/plantillas_pcc.png" class="r-stretch"></section>
-<section id="encontrar-plantillas-desde-el-panel-de-control-dashboard" class="slide level2">
-<h2>Encontrar plantillas desde el Panel de control (Dashboard)</h2>
-<p>La pestaña del <strong>Panel de Control</strong> es una forma rápida de acceder a tus plantillas abiertas recientemente. Aparecerán primero en la pantalla bajo “Plantillas recientes“ (Recent templates).</p>
-<p>Cuando comience por primera vez en Sinopia, esta lista estará vacía.</p>
-
-<img data-src="fig/dashboard_sinopia.png" class="r-stretch"></section>
-<section id="encontrar-plantillas-desde-la-pantalla-de-plantillas-de-recursos-resource-templates" class="slide level2">
-<h2>Encontrar plantillas desde la pantalla de Plantillas de recursos (Resource Templates)</h2>
-<p>La pantalla de plantillas de recursos (Resource Templates) muestra primero las plantillas que has utilizado más recientemente.</p>
-<p>Pulse en el encabezado para abrir la lista</p>
-
-<img data-src="fig/recenttemplates_sinopia.png" class="r-stretch"></section>
-<section id="íconos-asociados-con-plantillas" class="title-slide slide level1 center">
-<h1>Íconos asociados con plantillas</h1>
-<ul>
-<li><p>Los botones e íconos junto a las plantillas le permiten crear una nueva descripción a partir de una plantilla, ver una versión de la plantilla como datos enlazados, editar la plantilla o copiar la plantilla.</p></li>
-<li><p>No tendrá todos los íconos; su apariencia dependerá de sus permisos</p></li>
-<li><p>Crear, editar y copiar plantillas no están dentro del alcance de este entrenamiento; solo los primeros 2 íconos son relevantes aquí</p></li>
-</ul>
-
-<img data-src="fig/iconos_asociados_sinopia.png" class="r-stretch"></section>
-
-<section>
-<section id="abriendo-una-plantilla-de-pcc-para-catalogación" class="title-slide slide level1 center">
-<h1>Abriendo una plantilla de PCC para catalogación</h1>
-<p>Sinopia proporciona los siguientes detalles sobre cada plantilla:</p>
-<ol type="1">
-<li><strong>Etiqueta/ID:</strong> Nombre de plantilla</li>
-<li><strong>URI del recurso:</strong> Cuando se usa esta plantilla para la catalogación, el recurso resultante tendrá este URI como su tipo, o clase. Sinopia proporciona los siguientes detalles sobre cada plantilla:</li>
-<li><strong>Autor:</strong> Nombre de la organización o persona que diseñó esta plantilla</li>
-<li><strong>Fecha:</strong> Plantilla de fecha creada o modificada</li>
-<li><strong>Declaración guía:</strong> Notas sobre la plantilla</li>
-<li><strong>Grupo:</strong> El grupo Sinopia que posee la plantilla y puede editarla</li>
-<li><strong>Acciones:</strong> Acciones que se permiten llevar a cabo con esta plantilla en particular</li>
-</ol>
-
-<img data-src="fig/newtemplate_sinopia.png" class="r-stretch"></section>
-<section id="navegando-una-plantilla-pestaña-del-editor" class="slide level2">
-<h2>Navegando una plantilla: Pestaña del editor</h2>
-<ul>
-<li><p>Cuando pulse en el ícono “crear”, Sinopia abrirá la plantilla para catalogar en la pestaña <strong>Editor</strong>.</p></li>
-<li><p>Esta es la sección donde ingresará los datos de catalogación y creará una descripción de recursos basada en BIBFRAME</p></li>
-</ul>
-<p>Las siguientes diapositivas muestran cómo navegar a través de una plantilla en la pestaña Editor. Los módulos posteriores explicarán cómo ingresar datos en la Plantilla.</p>
-
-<img data-src="fig/editor_sinopia.png" class="r-stretch"></section>
-<section id="navegar-una-plantilla-barra-lateral" class="slide level2">
-<h2>Navegar una plantilla: Barra lateral</h2>
-<ul>
-<li>La barra lateral izquierda muestra una vista general de la plantilla y te da una forma rápida de moverte de una sección a otra.</li>
-</ul>
-
-<img data-src="fig/barralateral_sinopia.png" class="r-stretch"></section>
-<section id="navegar-una-plantilla-campos" class="slide level2">
-<h2>Navegar una plantilla: Campos</h2>
-<p>En el lado derecho de la ventana están los campos en sí mismos. Cada campo donde puede ingresar datos corresponde a una propiedad de BIBFRAME.</p>
-
-<img data-src="fig/editorcampos_sinopia.png" class="r-stretch"></section>
-<section id="navegar-una-plantilla-barra-lateral-1" class="slide level2">
-<h2>Navegar una plantilla: Barra lateral</h2>
-<p>Cuando haces clic en el nombre de un campo en la barra lateral izquierda, el lado derecho de la ventana muestra el campo correspondiente.</p>
-
-<img data-src="fig/editor_barralateral_sinopia.png" class="r-stretch"></section>
-<section id="navegar-una-plantilla-enlaces-de-rda-toolkit" class="slide level2">
-<h2>Navegar una plantilla: Enlaces de RDA Toolkit</h2>
-
-<img data-src="fig/enlacesrda_sinopia.png" class="r-stretch"></section>
-<section id="navegar-una-plantilla-campos-obligatorios" class="slide level2">
-<h2>Navegar una plantilla: Campos obligatorios</h2>
-
-<img data-src="fig/camposobligatorios_sinopia.png" class="r-stretch"></section>
-<section id="navegar-una-plantilla-más-información" class="slide level2">
-<h2>Navegar una plantilla: Más Información</h2>
-
-<img data-src="fig/plantillamasinformacion_sinopia.png" class="r-stretch"></section>
-<section id="navegar-una-plantilla-subplantillas" class="slide level2">
-<h2>Navegar una plantilla: Subplantillas</h2>
-<ul>
-<li><p>Una simple lista de campos no puede expresar todo lo que se desea expresar en datos enlazados. Por ejemplo, una Obra tiene un Colaborador, y el Colaborador tiene un Rol. Si la Obra tiene más de un Contribuidor, una simple lista de campos no puede expresar cual Rol va con cada Contribuidor.</p></li>
-<li><p>Este tipo de situaciones se manejan mediante la inclusión de una plantilla más pequeña para que se termine con un conjunto de campos que permanecerán juntos y funcionarán como una unidad. Captura de pantalla de</p></li>
-</ul>
-</section></section>
-<section id="ejemplo-de-subplantilla-bfcontribución" class="title-slide slide level1 center">
-<h1>Ejemplo de Subplantilla: bf:Contribución</h1>
-
-<img data-src="fig/subplantillabfcontribucion_sinopia.png" class="r-stretch"></section>
-
-<section id="métodos-de-entrada-de-datos-en-sinopia" class="title-slide slide level1 center">
-<h1>Métodos de entrada de datos en Sinopia</h1>
-<p>Las plantillas en Sinopia usan dos métodos básicos para ingresar datos: Literales y búsquedas. <strong>Módulo 5: Ingresando Literales</strong> y <strong>Módulo 6: Ingresar datos usando búsquedas</strong> explican cómo funcionan estos métodos.</p>
-<ul>
-<li>Literales
-<ul>
-<li>Utilizado para registrar datos transcritos</li>
-<li>No son accionables por máquina (machine-actionable), pero son legibles para los humanos</li>
-</ul></li>
-<li>Búsquedas
-<ul>
-<li>Utilizado para ingresar URIs y etiquetas de vocabularios externos</li>
-</ul></li>
-</ul>
-</section>
-
-<section id="cómo-expandir-una-subplantilla" class="title-slide slide level1 center">
-<h1>Cómo expandir una subplantilla</h1>
+<section id="cómo-ingresar-y-editar-metadatos-literales" class="slide level2">
+<h2>Cómo ingresar y editar metadatos literales</h2>
 <p>Los siguientes ejemplos utilizan la plantilla _PCC BF2 Instance (Monografía).</p>
 
-<img data-src="fig/expandirsubplantilla_sinopia.png" class="r-stretch"></section>
+<img data-src="fig/ingresar_literales_sinopia.png" class="r-stretch"></section>
+<section id="usar-la-barra-lateral-para-ver-los-campos-completados" class="slide level2">
+<h2>Usar la barra lateral para ver los campos completados</h2>
+<p>Si guarda su trabajo después de ingresar datos en un campo literal, aparecerá un punto junto al nombre del campo en la barra lateral izquierda, indicando que el campo está completo.</p>
 
-<section id="múltiples-niveles-de-subplantillas" class="title-slide slide level1 center">
-<h1>Múltiples niveles de subplantillas</h1>
-<p>En este ejemplo, ampliamos el <strong>Alcance (Extent)</strong>, pero aún no se han abierto los campos para <strong>Notas</strong>. Se debe expandir nuevamente con <strong>+Agregar (+Add)</strong>.</p>
+<img data-src="fig/barralateral_datoscompletados_sinopia.png" class="r-stretch"></section>
+<section id="diacríticos-y-conjuntos-de-caracteres" class="slide level2">
+<h2>Diacríticos y conjuntos de caracteres</h2>
+<p>Pulse en el botón “ä” para abrir un teclado virtual para ingresar caracteres de una variedad de conjuntos de caracteres diferentes.</p>
 
-<img data-src="fig/multiplesnivelesbubplantillas_sinopia.png" class="r-stretch"></section>
+<img data-src="fig/diacriticos_sinopia.png" class="r-stretch"></section>
+<section id="lenguaje-de-literales" class="slide level2">
+<h2>Lenguaje de literales</h2>
 
-<section id="usando-una-subplantilla-más-de-una-vez" class="title-slide slide level1 center">
-<h1>Usando una subplantilla más de una vez</h1>
-
-<img data-src="fig/subplantilla2_sinopia.png" class="r-stretch"></section>
-
-<section id="resultado-de-agregar-otro" class="title-slide slide level1 center">
-<h1>Resultado de +Agregar otro</h1>
-
-<img data-src="fig/agrrgar_otro_subplantillas_sinopia.png" class="r-stretch"></section>
-
-<section id="fin-del-módulo-4" class="title-slide slide level1 center">
-<h1>Fin del Módulo 4</h1>
+<img data-src="fig/idioma_sinopia.png" class="r-stretch"></section>
+<section id="guion-o-transliteración-de-literales" class="slide level2">
+<h2>Guion o Transliteración de Literales</h2>
+<p>El guion o esquema de transliteración para el texto literal también puede ser codificado. Nota cómo la etiqueta se expande en cada uno para agregar el código adicional. Recuerda, la etiqueta se refiere sólo al literal (cadena) con el que está asociada y a ningún otro. Título de la manifestación Título transliterado</p>
+</section>
+<section id="literales-repetibles-cadenas" class="slide level2">
+<h2>Literales repetibles (cadenas)</h2>
+<p>Para agregar más de un valor para un campo, escriba un valor. Luego pulse en el botón para añadir otro campo para la entrada. Pulse en la casilla para escribir el valor.</p>
+</section>
+<section id="literales-no-repetibles-cadenas" class="slide level2">
+<h2>Literales no repetibles (cadenas)</h2>
+<p>Algunos literales no son repetibles. Un ejemplo es Título principal (Título de la manifestación). El título principal (Título de la manifestación) (junto con sus campos individuales) no son repetibles. Debido a esto no verá otros “Agregar otro Título–Título de la manifestación”, “Agregar otro Número de Caracteres de No Inicio,” “Agregar Otra Información del Título”, etc.</p>
+</section>
+<section id="fin-del-módulo-5" class="slide level2">
+<h2>Fin del Módulo 5</h2>
 <p>Gracias</p>
 
 <div class="quarto-auto-generated-content">

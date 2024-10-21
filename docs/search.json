@@ -217,6 +217,317 @@
     "text": "Fin del Módulo 1\nGracias"
   },
   {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#alcance-de-este-módulo",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#alcance-de-este-módulo",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Alcance de este módulo",
+    "text": "Alcance de este módulo\nMódulo 5: Incluir literales abarca\n\nIngresar datos como cadenas, o “literales”\nEditar literales\nEspecificar el idioma de literales ingresados"
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#acerca-de-literales",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#acerca-de-literales",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Acerca de literales",
+    "text": "Acerca de literales\n\nSon utilizados para registrar datos transcritos o notas\nNo son procesables por máquina, pero son legibles para humanos\nEjemplos de campos que aceptan literales: Título principal, Subtítulo, Declaración de edición, Nota"
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#cómo-ingresar-y-editar-metadatos-literales",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#cómo-ingresar-y-editar-metadatos-literales",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Cómo ingresar y editar metadatos literales",
+    "text": "Cómo ingresar y editar metadatos literales\nLos siguientes ejemplos utilizan la plantilla _PCC BF2 Instance (Monografía)."
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#usar-la-barra-lateral-para-ver-los-campos-completados",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#usar-la-barra-lateral-para-ver-los-campos-completados",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Usar la barra lateral para ver los campos completados",
+    "text": "Usar la barra lateral para ver los campos completados\nSi guarda su trabajo después de ingresar datos en un campo literal, aparecerá un punto junto al nombre del campo en la barra lateral izquierda, indicando que el campo está completo."
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#diacríticos-y-conjuntos-de-caracteres",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#diacríticos-y-conjuntos-de-caracteres",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Diacríticos y conjuntos de caracteres",
+    "text": "Diacríticos y conjuntos de caracteres\nPulse en el botón “ä” para abrir un teclado virtual para ingresar caracteres de una variedad de conjuntos de caracteres diferentes."
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#lenguaje-de-literales",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#lenguaje-de-literales",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Lenguaje de literales",
+    "text": "Lenguaje de literales"
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#guion-o-transliteración-de-literales",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#guion-o-transliteración-de-literales",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Guion o Transliteración de Literales",
+    "text": "Guion o Transliteración de Literales\nEl guion o esquema de transliteración para el texto literal también puede ser codificado. Nota cómo la etiqueta se expande en cada uno para agregar el código adicional. Recuerda, la etiqueta se refiere sólo al literal (cadena) con el que está asociada y a ningún otro. Título de la manifestación Título transliterado"
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#literales-repetibles-cadenas",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#literales-repetibles-cadenas",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Literales repetibles (cadenas)",
+    "text": "Literales repetibles (cadenas)\nPara agregar más de un valor para un campo, escriba un valor. Luego pulse en el botón para añadir otro campo para la entrada. Pulse en la casilla para escribir el valor."
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#literales-no-repetibles-cadenas",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#literales-no-repetibles-cadenas",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Literales no repetibles (cadenas)",
+    "text": "Literales no repetibles (cadenas)\nAlgunos literales no son repetibles. Un ejemplo es Título principal (Título de la manifestación). El título principal (Título de la manifestación) (junto con sus campos individuales) no son repetibles. Debido a esto no verá otros “Agregar otro Título–Título de la manifestación”, “Agregar otro Número de Caracteres de No Inicio,” “Agregar Otra Información del Título”, etc."
+  },
+  {
+    "objectID": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#fin-del-módulo-5",
+    "href": "presentaciones/sinopia_modulos_markdown/Module-5-Literals_Sinopia.html#fin-del-módulo-5",
+    "title": "Módulo 5: Ingresando Literales",
+    "section": "Fin del Módulo 5",
+    "text": "Fin del Módulo 5\nGracias"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introducción al entorno de BIBFRAME",
+    "section": "",
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+  },
+  {
+    "objectID": "index.html#descripcion-del-taller",
+    "href": "index.html#descripcion-del-taller",
+    "title": "Introducción al entorno de BIBFRAME",
+    "section": "",
+    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html",
+    "href": "04-day/01-day4-Resumen.html",
+    "title": "Resumen del Día 4",
+    "section": "",
+    "text": "Introducir a participantes a los editores de los editores de datos enlazados Sinopia y Marva\n\nUtilizar los Módulos de Entrenamiento en realizados por la PCC para explorar Sinopia.\nCrear una cuenta en Sinopia Stage"
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#objetivos",
+    "href": "04-day/01-day4-Resumen.html#objetivos",
+    "title": "Resumen del Día 4",
+    "section": "",
+    "text": "Introducir a participantes a los editores de los editores de datos enlazados Sinopia y Marva\n\nUtilizar los Módulos de Entrenamiento en realizados por la PCC para explorar Sinopia.\nCrear una cuenta en Sinopia Stage"
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
+    "href": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 4",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:\n\nDiferencias entre Marva y Sinopia.\nPresentación de las plantillas en Sinopia para el taller BIBFRAME."
+  },
+  {
+    "objectID": "04-day/01-day4-Resumen.html#recursos",
+    "href": "04-day/01-day4-Resumen.html#recursos",
+    "title": "Resumen del Día 4",
+    "section": "Recursos",
+    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\nIngresando Literales\n\n\nMódulo 6\nIngresando datos utilizando búsquedas\n\n\nMódulo 7\nPrevisualizar, Guardar y Editar descripciones\n\n\nMódulo 8\nEnlazando Descripciones Relacionadas\n\n\nMódulo 9\nCopiando Descripciones"
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html",
+    "href": "05-day/01-day5-Resumen.html",
+    "title": "Resumen del Día 5",
+    "section": "",
+    "text": "Proveer un espacio para que los participantes puedan practicar la catalogación en Sinopia utilizando las plantillas de UASLP."
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#objetivos",
+    "href": "05-day/01-day5-Resumen.html#objetivos",
+    "title": "Resumen del Día 5",
+    "section": "",
+    "text": "Proveer un espacio para que los participantes puedan practicar la catalogación en Sinopia utilizando las plantillas de UASLP."
+  },
+  {
+    "objectID": "05-day/01-day5-Resumen.html#recursos",
+    "href": "05-day/01-day5-Resumen.html#recursos",
+    "title": "Resumen del Día 5",
+    "section": "Recursos",
+    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\nIngresando Literales\n\n\nMódulo 6\nIngresando datos utilizando búsquedas\n\n\nMódulo 7\nPrevisualizar, Guardar y Editar descripciones\n\n\nMódulo 8\nEnlazando Descripciones Relacionadas\n\n\nMódulo 9\nCopiando Descripciones"
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html",
+    "href": "02-day/01-day2-Resumen.html",
+    "title": "Resumen del Día 2",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre…"
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html#objetivos",
+    "href": "02-day/01-day2-Resumen.html#objetivos",
+    "title": "Resumen del Día 2",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre…"
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html#temas-discutidos-en-clase",
+    "href": "02-day/01-day2-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 2",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:"
+  },
+  {
+    "objectID": "02-day/01-day2-Resumen.html#recursos",
+    "href": "02-day/01-day2-Resumen.html#recursos",
+    "title": "Resumen del Día 2",
+    "section": "Recursos",
+    "text": "Recursos"
+  },
+  {
+    "objectID": "03-day/00-day3-ProgramaSugerido.html",
+    "href": "03-day/00-day3-ProgramaSugerido.html",
+    "title": "BIBFRAME y otros modelos",
+    "section": "",
+    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00-10:00\nConferencia “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME en español / Otros modelos y críticas\n\n\n10:45–11:45\nBIBFRAME en español / Demostración de herramientas\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html",
+    "href": "01-day/01-day1-Resumen.html",
+    "title": "Resumen del Día 1",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#objetivos",
+    "href": "01-day/01-day1-Resumen.html#objetivos",
+    "title": "Resumen del Día 1",
+    "section": "",
+    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#temas-discutidos-en-clase",
+    "href": "01-day/01-day1-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 1",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:"
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-es-la-web-semántica",
+    "href": "01-day/01-day1-Resumen.html#qué-es-la-web-semántica",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué es la Web Semántica?",
+    "text": "¿Qué es la Web Semántica?\nLa Web Semántica es una extensión de la web actual, donde la información no solo es accesible para los humanos, sino que también es comprensible y procesable por las máquinas. Su objetivo principal es permitir que los datos en la web sean entendidos y vinculados de manera que los programas informáticos puedan encontrar, compartir y combinar información automáticamente a través de distintas fuentes."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-son-los-datos-enlazados",
+    "href": "01-day/01-day1-Resumen.html#qué-son-los-datos-enlazados",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué son los Datos Enlazados?",
+    "text": "¿Qué son los Datos Enlazados?\nLos Datos Enlazados (Linked Data en inglés) son una forma de publicar y conectar datos en la web de manera estructurada, utilizando estándares abiertos que permiten que la información sea interrelacionada, accesible y procesada tanto por humanos como por máquinas. Este concepto se deriva del principio de que los datos en la web deben estar conectados de manera que se puedan cruzar referencias fácilmente."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-es-rdf",
+    "href": "01-day/01-day1-Resumen.html#qué-es-rdf",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué es RDF?",
+    "text": "¿Qué es RDF?\nEl RDF (Resource Description Framework) es un estándar del W3C diseñado para modelar datos y describir recursos en la web. Su principal objetivo es proporcionar una forma de estructurar datos que pueda ser entendida tanto por humanos como por máquinas. RDF se utiliza ampliamente en la Web Semántica para representar información de manera que las máquinas puedan interpretar y procesar estos datos, facilitando la interconexión de datos en la web."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#componentes-claves-de-rdf",
+    "href": "01-day/01-day1-Resumen.html#componentes-claves-de-rdf",
+    "title": "Resumen del Día 1",
+    "section": "Componentes Claves de RDF",
+    "text": "Componentes Claves de RDF\nRDF organiza los datos en forma de tripletas, donde cada tripleta está formada por tres elementos:\n\nSujeto: El recurso o entidad que se describe.\nPredicado: La propiedad o atributo del sujeto.\nObjeto: El valor de la propiedad o el recurso relacionado.\n\n\nEstructura Básica de RDF\nRDF utiliza URIs (Identificadores Uniformes de Recursos) para identificar de manera única cada recurso, lo que permite que los datos estén vinculados y puedan ser referenciados desde cualquier lugar de la web. Además, las tripletas RDF pueden ser combinadas y reutilizadas en diferentes contextos.\nLos datos RDF pueden ser serializados en varios formatos, como Turtle, RDF/XML, N-Triples, y JSON-LD."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#cómo-funciona-rdf",
+    "href": "01-day/01-day1-Resumen.html#cómo-funciona-rdf",
+    "title": "Resumen del Día 1",
+    "section": "¿Cómo Funciona RDF?",
+    "text": "¿Cómo Funciona RDF?\nRDF permite crear grafos de datos interconectados donde cada nodo representa un recurso o entidad (como un libro, una persona, una organización, etc.), y los enlaces entre los nodos representan las relaciones o propiedades entre ellos.\nPor ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#serializaciones-para-datos-enlazados",
+    "href": "01-day/01-day1-Resumen.html#serializaciones-para-datos-enlazados",
+    "title": "Resumen del Día 1",
+    "section": "Serializaciones para Datos Enlazados",
+    "text": "Serializaciones para Datos Enlazados\n\nTurtle es ideal para representar datos RDF de manera simple y legible.\nJSON-LD facilita la integración de datos enlazados en aplicaciones web modernas.\nOWL proporciona el marco para definir ontologías y permitir razonamiento semántico.\nSPARQL permite realizar consultas poderosas sobre los grafos de datos RDF.\n\nEstas tecnologías permiten estructurar, enlazar y consultar datos de manera que sean tanto accesibles como entendibles para las máquinas, lo que es fundamental para el desarrollo de la Web Semántica."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#qué-es-una-ontología",
+    "href": "01-day/01-day1-Resumen.html#qué-es-una-ontología",
+    "title": "Resumen del Día 1",
+    "section": "¿Qué es una Ontología?",
+    "text": "¿Qué es una Ontología?\nEn el contexto de la Web Semántica y los Datos Enlazados, una ontología es una representación formal de un conjunto de conceptos dentro de un dominio y de las relaciones entre esos conceptos. Las ontologías proporcionan una estructura clara que permite organizar, compartir y reutilizar información de manera coherente, tanto por personas como por máquinas."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#componentes-de-una-ontología",
+    "href": "01-day/01-day1-Resumen.html#componentes-de-una-ontología",
+    "title": "Resumen del Día 1",
+    "section": "Componentes de una Ontología",
+    "text": "Componentes de una Ontología\nUna ontología generalmente incluye los siguientes elementos:\n\nClases: Representan los conceptos o tipos de objetos del dominio (por ejemplo, “Libro” o “Autor”).\nPropiedades: Definen las relaciones entre clases o atributos de las clases (por ejemplo, “tieneAutor” o “título”).\nInstancias: Son ejemplos específicos de clases (por ejemplo, “Don Quijote” como instancia de la clase “Libro”).\nAxiomas: Reglas que definen las restricciones sobre las clases y propiedades, lo que permite razonamiento automático."
+  },
+  {
+    "objectID": "01-day/01-day1-Resumen.html#recursos",
+    "href": "01-day/01-day1-Resumen.html#recursos",
+    "title": "Resumen del Día 1",
+    "section": "Recursos",
+    "text": "Recursos\n\nManu Sporny. ¿Qué son los Datos Enlazados? (Video)\nEuropeana. Datos Abiertos Vinculados. ¿Qué son?(Video)\nLinked Open Data Cloud. Una visualización de conjuntos de datos enlazados en la Web de Datos Enlazados\nMixter, Jeff (2024).“An introduction to library linked data”. OCLC\nÁvila Barrientos, Eder. (2020). Los datos bibliográficos abiertos enlazados y su comportamiento en la recuperación de información. Investigación bibliotecológica, 34(82), 203-227. Epub 17 de abril de 2020\nÁvila Barrientos, Eder. (2020) . Los Datos enlazados y su uso en bibliotecas Instituto de Investigaciones Bibliotecológicas y de la Información.\nBlaney, Jonathan (2017) . Introducción a los Datos abiertos enlazados. Programming Historian\nTimothy A. Thompson (2023). Empowering Global Leaders: A Linked Data Training Program for Library Innovation. EBSCO Information Services LLC\nW3C Semantic Web Standards Sitio oficial del World Wide Web Consortium (W3C) que define los estándares para la Web Semántica, incluyendo RDF, OWL, y SPARQL.\nLinked Data - Tim Berners-Lee’s Linked Data Principles Artículo original de Tim Berners-Lee que introduce los principios de los Datos Enlazados.\nRDF Primer (W3C) Una guía completa del W3C para aprender sobre RDF, incluyendo conceptos básicos y ejemplos.\nSPARQL Query Language for RDF (W3C) Recurso detallado sobre el lenguaje de consultas SPARQL para trabajar con datos RDF."
+  },
+  {
+    "objectID": "01-day/00-day1-ProgramaSugerido.html",
+    "href": "01-day/00-day1-ProgramaSugerido.html",
+    "title": "Introducción a la web semántica y los datos abiertos enlazados",
+    "section": "",
+    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\n\nHora\nTema\nPresentación\n\n\n\n\n9:00–9:15\nPresentaciones\nDia 1, Lección 1 \n\n\n9:15–9:30\nVisión general del taller\nDia 1, Lección 1 \n\n\n9:30–10:30\nIntroducción a la web semántica y los datos abiertos enlazados\nDia 1, Lección 1 \n\n\n10:30–10:45\nRDF básico\nDia 1, Lección 2 \n\n\n10:45–11:00\nReceso\n\n\n\n11:00–11:15\nRDF básico\nDia 1, Lección 2 \n\n\n11:15–12:00\nOntologías y modelado semántico de datos\nDia 1, Lección 3 \n\n\n12:00–12:45\nActividad: desmontando un registro MARC 21\n\n\n\n12:45–1:00\nDiscusión\n\n\n\n\n\n\nRecursos:\n\nEncuesta\nRegistro en Sinopia\nEnlace a actividad: desmontando un registro MARC 21\n\nEl Principito con etiquetas\nEl Principito sin etiquetas\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Introducción a la web semántica y los datos abiertos enlazados"
+    ]
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html",
+    "href": "03-day/01-day3-Resumen.html",
+    "title": "Resumen del Día 3",
+    "section": "",
+    "text": "Aprender sobre otros esquemas ontológicos para representar información.\nDemostración de herramientas de conversion MARC a BIBFRAME"
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html#objetivos",
+    "href": "03-day/01-day3-Resumen.html#objetivos",
+    "title": "Resumen del Día 3",
+    "section": "",
+    "text": "Aprender sobre otros esquemas ontológicos para representar información.\nDemostración de herramientas de conversion MARC a BIBFRAME"
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html#temas-discutidos-en-clase",
+    "href": "03-day/01-day3-Resumen.html#temas-discutidos-en-clase",
+    "title": "Resumen del Día 3",
+    "section": "Temas Discutidos en Clase:",
+    "text": "Temas Discutidos en Clase:"
+  },
+  {
+    "objectID": "03-day/01-day3-Resumen.html#recursos",
+    "href": "03-day/01-day3-Resumen.html#recursos",
+    "title": "Resumen del Día 3",
+    "section": "Recursos",
+    "text": "Recursos\n\nConvertidor de MARC a BIBFRAME\nHeramienta para comparar BIBFRAME to MARC\n\nEnlaces a presentaciones:\n\n\n\n\n\n\n\nPresentador\nTema\n\n\n\n\nTim Thompson , Irma Fraticelli\n Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar? \n\n\nÁlvaro López Bustamante"
+  },
+  {
+    "objectID": "02-day/00-day2-ProgramaSugerido.html",
+    "href": "02-day/00-day2-ProgramaSugerido.html",
+    "title": "Introducción al esquema BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nActividad con Turtle, discusión\n\n\n10:15–10:45\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:45–11:00\nReceso\n\n\n11:00–12:45\nBIBFRAME en español\n\n\n12:45–1:00\nDiscusión\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "05-day/00-day5-ProgramaSugerido.html",
+    "href": "05-day/00-day5-ProgramaSugerido.html",
+    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:30\nPráctica en Sinopia\n\n\n10:45–11:00\nReceso\n\n\n11:00–1:00\nActividad, resumen y discusión\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "04-day/00-day4-ProgramaSugerido.html",
+    "href": "04-day/00-day4-ProgramaSugerido.html",
+    "title": "Editores de datos enlazados para BIBFRAME",
+    "section": "",
+    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:45\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:45–11:00\nReceso\n\n\n11:00–12:00\nCreación de perfiles de metadatos\n\n\n12:15–12:45\nActividad: práctica en Sinopia\n\n\n12:45–1:00\nResumen y discusión\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Acerca de",
@@ -250,340 +561,6 @@
     "title": "Acerca de",
     "section": "Requerimientos para el taller:",
     "text": "Requerimientos para el taller:\n\nRealizar la encuesta preliminar para el taller (las respuestas son anónimas).\nCrear una cuenta en Sinopia, ambiente “Stage” (https://stage.sinopia.io). Aquí están algunas instrucciones de cómo crear una cuenta.\nLuego, proporcionar la información de su nombre, nombre de usuario y correo electrónico a Tim Thompson (timothy.thompson@yale.edu), para que se pueda vincular su cuenta a un grupo creado en la plataforma de Sinopia para el taller. El nombre de usuario será su identificador como catalogador/a en Sinopia."
-  },
-  {
-    "objectID": "04-day/00-day4-ProgramaSugerido.html",
-    "href": "04-day/00-day4-ProgramaSugerido.html",
-    "title": "Editores de datos enlazados para BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\njueves, 24 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:45\nIntroducción a los editores de datos enlazados Sinopia y Marva\n\n\n10:45–11:00\nReceso\n\n\n11:00–12:00\nCreación de perfiles de metadatos\n\n\n12:15–12:45\nActividad: práctica en Sinopia\n\n\n12:45–1:00\nResumen y discusión\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Editores de datos enlazados para BIBFRAME"
-    ]
-  },
-  {
-    "objectID": "05-day/00-day5-ProgramaSugerido.html",
-    "href": "05-day/00-day5-ProgramaSugerido.html",
-    "title": "Continuación: Editores de datos enlazados para BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nviernes, 25 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:30\nPráctica en Sinopia\n\n\n10:45–11:00\nReceso\n\n\n11:00–1:00\nActividad, resumen y discusión\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Continuación: Editores de datos enlazados para BIBFRAME"
-    ]
-  },
-  {
-    "objectID": "02-day/00-day2-ProgramaSugerido.html",
-    "href": "02-day/00-day2-ProgramaSugerido.html",
-    "title": "Introducción al esquema BIBFRAME",
-    "section": "",
-    "text": "Programa Sugerido\nmartes, 22 de octubre\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nRepaso del día anterior\n\n\n9:15–10:15\nActividad con Turtle, discusión\n\n\n10:15–10:45\nBIBFRAME: hacia un nuevo marco bibliográfico\n\n\n10:45–11:00\nReceso\n\n\n11:00–12:45\nBIBFRAME en español\n\n\n12:45–1:00\nDiscusión\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción al esquema BIBFRAME"
-    ]
-  },
-  {
-    "objectID": "03-day/01-day3-Resumen.html",
-    "href": "03-day/01-day3-Resumen.html",
-    "title": "Resumen del Día 3",
-    "section": "",
-    "text": "Aprender sobre otros esquemas ontológicos para representar información.\nDemostración de herramientas de conversion MARC a BIBFRAME",
-    "crumbs": [
-      "Resumen del Día 3"
-    ]
-  },
-  {
-    "objectID": "03-day/01-day3-Resumen.html#objetivos",
-    "href": "03-day/01-day3-Resumen.html#objetivos",
-    "title": "Resumen del Día 3",
-    "section": "",
-    "text": "Aprender sobre otros esquemas ontológicos para representar información.\nDemostración de herramientas de conversion MARC a BIBFRAME",
-    "crumbs": [
-      "Resumen del Día 3"
-    ]
-  },
-  {
-    "objectID": "03-day/01-day3-Resumen.html#temas-discutidos-en-clase",
-    "href": "03-day/01-day3-Resumen.html#temas-discutidos-en-clase",
-    "title": "Resumen del Día 3",
-    "section": "Temas Discutidos en Clase:",
-    "text": "Temas Discutidos en Clase:",
-    "crumbs": [
-      "Resumen del Día 3"
-    ]
-  },
-  {
-    "objectID": "03-day/01-day3-Resumen.html#recursos",
-    "href": "03-day/01-day3-Resumen.html#recursos",
-    "title": "Resumen del Día 3",
-    "section": "Recursos",
-    "text": "Recursos\n\nConvertidor de MARC a BIBFRAME\nHeramienta para comparar BIBFRAME to MARC\n\nEnlaces a presentaciones:\n\n\n\n\n\n\n\nPresentador\nTema\n\n\n\n\nTim Thompson , Irma Fraticelli\n Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar? \n\n\nÁlvaro López Bustamante",
-    "crumbs": [
-      "Resumen del Día 3"
-    ]
-  },
-  {
-    "objectID": "01-day/00-day1-ProgramaSugerido.html",
-    "href": "01-day/00-day1-ProgramaSugerido.html",
-    "title": "Introducción a la web semántica y los datos abiertos enlazados",
-    "section": "",
-    "text": "Programa Sugerido\nlunes, 21 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00–9:15\nPresentaciones\n\n\n9:15–9:30\nVisión general del taller\n\n\n9:30–10:30\nIntroducción a la web semántica y los datos abiertos enlazados\n\n\n10:30–10:45\nRDF básico\n\n\n10:45–11:00\nReceso\n\n\n11:00–11:15\nRDF básico\n\n\n11:15–12:00\nOntologías y modelado semántico de datos\n\n\n12:00–12:45\nActividad: desmontando un registro MARC 21\n\n\n12:45–1:00\nDiscusión\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Introducción a la web semántica y los datos abiertos enlazados"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html",
-    "href": "01-day/01-day1-Resumen.html",
-    "title": "Resumen del Día 1",
-    "section": "",
-    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#objetivos",
-    "href": "01-day/01-day1-Resumen.html#objetivos",
-    "title": "Resumen del Día 1",
-    "section": "",
-    "text": "Adquirir conocimiento general sobre web semántica y datos enlazados.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#temas-discutidos-en-clase",
-    "href": "01-day/01-day1-Resumen.html#temas-discutidos-en-clase",
-    "title": "Resumen del Día 1",
-    "section": "Temas Discutidos en Clase:",
-    "text": "Temas Discutidos en Clase:",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#qué-es-la-web-semántica",
-    "href": "01-day/01-day1-Resumen.html#qué-es-la-web-semántica",
-    "title": "Resumen del Día 1",
-    "section": "¿Qué es la Web Semántica?",
-    "text": "¿Qué es la Web Semántica?\nLa Web Semántica es una extensión de la web actual, donde la información no solo es accesible para los humanos, sino que también es comprensible y procesable por las máquinas. Su objetivo principal es permitir que los datos en la web sean entendidos y vinculados de manera que los programas informáticos puedan encontrar, compartir y combinar información automáticamente a través de distintas fuentes.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#qué-son-los-datos-enlazados",
-    "href": "01-day/01-day1-Resumen.html#qué-son-los-datos-enlazados",
-    "title": "Resumen del Día 1",
-    "section": "¿Qué son los Datos Enlazados?",
-    "text": "¿Qué son los Datos Enlazados?\nLos Datos Enlazados (Linked Data en inglés) son una forma de publicar y conectar datos en la web de manera estructurada, utilizando estándares abiertos que permiten que la información sea interrelacionada, accesible y procesada tanto por humanos como por máquinas. Este concepto se deriva del principio de que los datos en la web deben estar conectados de manera que se puedan cruzar referencias fácilmente.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#qué-es-rdf",
-    "href": "01-day/01-day1-Resumen.html#qué-es-rdf",
-    "title": "Resumen del Día 1",
-    "section": "¿Qué es RDF?",
-    "text": "¿Qué es RDF?\nEl RDF (Resource Description Framework) es un estándar del W3C diseñado para modelar datos y describir recursos en la web. Su principal objetivo es proporcionar una forma de estructurar datos que pueda ser entendida tanto por humanos como por máquinas. RDF se utiliza ampliamente en la Web Semántica para representar información de manera que las máquinas puedan interpretar y procesar estos datos, facilitando la interconexión de datos en la web.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#componentes-claves-de-rdf",
-    "href": "01-day/01-day1-Resumen.html#componentes-claves-de-rdf",
-    "title": "Resumen del Día 1",
-    "section": "Componentes Claves de RDF",
-    "text": "Componentes Claves de RDF\nRDF organiza los datos en forma de tripletas, donde cada tripleta está formada por tres elementos:\n\nSujeto: El recurso o entidad que se describe.\nPredicado: La propiedad o atributo del sujeto.\nObjeto: El valor de la propiedad o el recurso relacionado.\n\n\nEstructura Básica de RDF\nRDF utiliza URIs (Identificadores Uniformes de Recursos) para identificar de manera única cada recurso, lo que permite que los datos estén vinculados y puedan ser referenciados desde cualquier lugar de la web. Además, las tripletas RDF pueden ser combinadas y reutilizadas en diferentes contextos.\nLos datos RDF pueden ser serializados en varios formatos, como Turtle, RDF/XML, N-Triples, y JSON-LD.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#cómo-funciona-rdf",
-    "href": "01-day/01-day1-Resumen.html#cómo-funciona-rdf",
-    "title": "Resumen del Día 1",
-    "section": "¿Cómo Funciona RDF?",
-    "text": "¿Cómo Funciona RDF?\nRDF permite crear grafos de datos interconectados donde cada nodo representa un recurso o entidad (como un libro, una persona, una organización, etc.), y los enlaces entre los nodos representan las relaciones o propiedades entre ellos.\nPor ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#serializaciones-para-datos-enlazados",
-    "href": "01-day/01-day1-Resumen.html#serializaciones-para-datos-enlazados",
-    "title": "Resumen del Día 1",
-    "section": "Serializaciones para Datos Enlazados",
-    "text": "Serializaciones para Datos Enlazados\n\nTurtle es ideal para representar datos RDF de manera simple y legible.\nJSON-LD facilita la integración de datos enlazados en aplicaciones web modernas.\nOWL proporciona el marco para definir ontologías y permitir razonamiento semántico.\nSPARQL permite realizar consultas poderosas sobre los grafos de datos RDF.\n\nEstas tecnologías permiten estructurar, enlazar y consultar datos de manera que sean tanto accesibles como entendibles para las máquinas, lo que es fundamental para el desarrollo de la Web Semántica.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#qué-es-una-ontología",
-    "href": "01-day/01-day1-Resumen.html#qué-es-una-ontología",
-    "title": "Resumen del Día 1",
-    "section": "¿Qué es una Ontología?",
-    "text": "¿Qué es una Ontología?\nEn el contexto de la Web Semántica y los Datos Enlazados, una ontología es una representación formal de un conjunto de conceptos dentro de un dominio y de las relaciones entre esos conceptos. Las ontologías proporcionan una estructura clara que permite organizar, compartir y reutilizar información de manera coherente, tanto por personas como por máquinas.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#componentes-de-una-ontología",
-    "href": "01-day/01-day1-Resumen.html#componentes-de-una-ontología",
-    "title": "Resumen del Día 1",
-    "section": "Componentes de una Ontología",
-    "text": "Componentes de una Ontología\nUna ontología generalmente incluye los siguientes elementos:\n\nClases: Representan los conceptos o tipos de objetos del dominio (por ejemplo, “Libro” o “Autor”).\nPropiedades: Definen las relaciones entre clases o atributos de las clases (por ejemplo, “tieneAutor” o “título”).\nInstancias: Son ejemplos específicos de clases (por ejemplo, “Don Quijote” como instancia de la clase “Libro”).\nAxiomas: Reglas que definen las restricciones sobre las clases y propiedades, lo que permite razonamiento automático.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "01-day/01-day1-Resumen.html#recursos",
-    "href": "01-day/01-day1-Resumen.html#recursos",
-    "title": "Resumen del Día 1",
-    "section": "Recursos",
-    "text": "Recursos\n\nManu Sporny. ¿Qué son los Datos Enlazados? (Video)\nEuropeana. Datos Abiertos Vinculados. ¿Qué son?(Video)\nLinked Open Data Cloud. Una visualización de conjuntos de datos enlazados en la Web de Datos Enlazados\nMixter, Jeff (2024).“An introduction to library linked data”. OCLC\nÁvila Barrientos, Eder. (2020). Los datos bibliográficos abiertos enlazados y su comportamiento en la recuperación de información. Investigación bibliotecológica, 34(82), 203-227. Epub 17 de abril de 2020\nÁvila Barrientos, Eder. (2020) . Los Datos enlazados y su uso en bibliotecas Instituto de Investigaciones Bibliotecológicas y de la Información.\nBlaney, Jonathan (2017) . Introducción a los Datos abiertos enlazados. Programming Historian\nTimothy A. Thompson (2023). Empowering Global Leaders: A Linked Data Training Program for Library Innovation. EBSCO Information Services LLC\nW3C Semantic Web Standards Sitio oficial del World Wide Web Consortium (W3C) que define los estándares para la Web Semántica, incluyendo RDF, OWL, y SPARQL.\nLinked Data - Tim Berners-Lee’s Linked Data Principles Artículo original de Tim Berners-Lee que introduce los principios de los Datos Enlazados.\nRDF Primer (W3C) Una guía completa del W3C para aprender sobre RDF, incluyendo conceptos básicos y ejemplos.\nSPARQL Query Language for RDF (W3C) Recurso detallado sobre el lenguaje de consultas SPARQL para trabajar con datos RDF.",
-    "crumbs": [
-      "Resumen del Día 1"
-    ]
-  },
-  {
-    "objectID": "03-day/00-day3-ProgramaSugerido.html",
-    "href": "03-day/00-day3-ProgramaSugerido.html",
-    "title": "BIBFRAME y otros modelos",
-    "section": "",
-    "text": "Programa Sugerido\nmiércoles, 23 de octubre\n\n\n\n\n\n\n\nHora\nTema\n\n\n\n\n9:00-10:00\nConferencia “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”\n\n\n10:00–10:15\nReceso\n\n\n10:15–10:45\nBIBFRAME en español / Otros modelos y críticas\n\n\n10:45–11:45\nBIBFRAME en español / Demostración de herramientas\n\n\n11:45–12:00\nReceso\n\n\n12:00–1:00\nPresentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "BIBFRAME y otros modelos"
-    ]
-  },
-  {
-    "objectID": "02-day/01-day2-Resumen.html",
-    "href": "02-day/01-day2-Resumen.html",
-    "title": "Resumen del Día 2",
-    "section": "",
-    "text": "Adquirir conocimiento general sobre…",
-    "crumbs": [
-      "Resumen del Día 2"
-    ]
-  },
-  {
-    "objectID": "02-day/01-day2-Resumen.html#objetivos",
-    "href": "02-day/01-day2-Resumen.html#objetivos",
-    "title": "Resumen del Día 2",
-    "section": "",
-    "text": "Adquirir conocimiento general sobre…",
-    "crumbs": [
-      "Resumen del Día 2"
-    ]
-  },
-  {
-    "objectID": "02-day/01-day2-Resumen.html#temas-discutidos-en-clase",
-    "href": "02-day/01-day2-Resumen.html#temas-discutidos-en-clase",
-    "title": "Resumen del Día 2",
-    "section": "Temas Discutidos en Clase:",
-    "text": "Temas Discutidos en Clase:",
-    "crumbs": [
-      "Resumen del Día 2"
-    ]
-  },
-  {
-    "objectID": "02-day/01-day2-Resumen.html#recursos",
-    "href": "02-day/01-day2-Resumen.html#recursos",
-    "title": "Resumen del Día 2",
-    "section": "Recursos",
-    "text": "Recursos",
-    "crumbs": [
-      "Resumen del Día 2"
-    ]
-  },
-  {
-    "objectID": "05-day/01-day5-Resumen.html",
-    "href": "05-day/01-day5-Resumen.html",
-    "title": "Resumen del Día 5",
-    "section": "",
-    "text": "Proveer un espacio para que los participantes puedan practicar la catalogación en Sinopia utilizando las plantillas de UASLP.",
-    "crumbs": [
-      "Resumen del Día 5"
-    ]
-  },
-  {
-    "objectID": "05-day/01-day5-Resumen.html#objetivos",
-    "href": "05-day/01-day5-Resumen.html#objetivos",
-    "title": "Resumen del Día 5",
-    "section": "",
-    "text": "Proveer un espacio para que los participantes puedan practicar la catalogación en Sinopia utilizando las plantillas de UASLP.",
-    "crumbs": [
-      "Resumen del Día 5"
-    ]
-  },
-  {
-    "objectID": "05-day/01-day5-Resumen.html#recursos",
-    "href": "05-day/01-day5-Resumen.html#recursos",
-    "title": "Resumen del Día 5",
-    "section": "Recursos",
-    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\nIngresando Literales\n\n\nMódulo 6\nIngresando datos utilizando búsquedas\n\n\nMódulo 7\nPrevisualizar, Guardar y Editar descripciones\n\n\nMódulo 8\nEnlazando Descripciones Relacionadas\n\n\nMódulo 9\nCopiando Descripciones",
-    "crumbs": [
-      "Resumen del Día 5"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html",
-    "href": "04-day/01-day4-Resumen.html",
-    "title": "Resumen del Día 4",
-    "section": "",
-    "text": "Introducir a participantes a los editores de los editores de datos enlazados Sinopia y Marva\n\nUtilizar los Módulos de Entrenamiento en realizados por la PCC para explorar Sinopia.\nCrear una cuenta en Sinopia Stage",
-    "crumbs": [
-      "Resumen del Día 4"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html#objetivos",
-    "href": "04-day/01-day4-Resumen.html#objetivos",
-    "title": "Resumen del Día 4",
-    "section": "",
-    "text": "Introducir a participantes a los editores de los editores de datos enlazados Sinopia y Marva\n\nUtilizar los Módulos de Entrenamiento en realizados por la PCC para explorar Sinopia.\nCrear una cuenta en Sinopia Stage",
-    "crumbs": [
-      "Resumen del Día 4"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
-    "href": "04-day/01-day4-Resumen.html#temas-discutidos-en-clase",
-    "title": "Resumen del Día 4",
-    "section": "Temas Discutidos en Clase:",
-    "text": "Temas Discutidos en Clase:\n\nDiferencias entre Marva y Sinopia.\nPresentación de las plantillas en Sinopia para el taller BIBFRAME.",
-    "crumbs": [
-      "Resumen del Día 4"
-    ]
-  },
-  {
-    "objectID": "04-day/01-day4-Resumen.html#recursos",
-    "href": "04-day/01-day4-Resumen.html#recursos",
-    "title": "Resumen del Día 4",
-    "section": "Recursos",
-    "text": "Recursos\nMódulos de entrenamiento de Sinopia por a PCC\n\n\n\n\n\n\n\nMódulo\nEnlace\n\n\n\n\nMódulo 1\nIntroducción\n\n\nMódulo 2\nEmpezando en Sinopia\n\n\nMódulo 3\nBuscando datos creados en Sinopia\n\n\nMódulo 4\nSobre las plantillas PCC\n\n\nMódulo 5\nIngresando Literales\n\n\nMódulo 6\nIngresando datos utilizando búsquedas\n\n\nMódulo 7\nPrevisualizar, Guardar y Editar descripciones\n\n\nMódulo 8\nEnlazando Descripciones Relacionadas\n\n\nMódulo 9\nCopiando Descripciones",
-    "crumbs": [
-      "Resumen del Día 4"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introducción al entorno de BIBFRAME",
-    "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
-  },
-  {
-    "objectID": "index.html#descripcion-del-taller",
-    "href": "index.html#descripcion-del-taller",
-    "title": "Introducción al entorno de BIBFRAME",
-    "section": "",
-    "text": "Hace más de una década que la Biblioteca del Congreso de Estados Unidos (la LC, por sus siglas en inglés) viene desarrollando el estándar BIBFRAME. Tras una serie de pruebas y proyectos piloto, la hora de implantar BIBFRAME como el nuevo formato de intercambio de metadatos –el nuevo MARC21– se acerca cada vez más. La LC se está preparando para cambiar sus servicios de catalogación descriptiva para flujos de trabajo basados en BIBFRAME (sin embargo, aún planea mantener la distribución de registros MARC, que serán convertidos a partir de descripciones hechas en BIBFRAME). Con la evolución de estándares como BIBFRAME, y de las herramientas técnicas que sustentan su uso, se hace imprescindible que cada profesional de la información entienda y sepa manejar este nuevo entorno de metadatos, basado en las pautas de los datos abiertos enlazados (linked open data) y de las tecnologías de la red semántica. La catalogación ya no debe considerarse la aplicación de reglas y la creación de registros, sino la implementación de modelos de datos que cumplen con casos concretos.\n\n\n\n\nEntender cómo funcionan los datos enlazados.\nSaber manejar el vocabulario y modelo BIBFRAME.\nAdquirir experiencia práctica con la creación de datos enlazados, incluyendo el manejo de herramientas como el editor Sinopia."
   },
   {
     "objectID": "presentaciones/sinopia_modulos_markdown/Module-3-Searching_Sinopia.html#alcance-de-este-módulo",
