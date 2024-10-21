@@ -26,5 +26,5 @@ lunes, 21 de octubre
 - [Registro en Sinopia](https://stage.sinopia.io/) 
 
 - Enlace a actividad: desmontando un registro MARC 21
-  - [El Principito con etiquetas](https://yaleedu-my.sharepoint.com/:b:/g/personal/timothy_thompson_yale_edu/ET2xPf5q0X1KkJLeyR9Ws-4Bscf2wXCpi67E6Os3bkMxbA?e=ugJXB1)
-  - [El Principito sin etiquetas](https://yaleedu-my.sharepoint.com/:b:/g/personal/timothy_thompson_yale_edu/EWBWbawJNPpKmhGNKGDZVyYBGLq6r5Cm1fo6nChudQBSQw?e=KhhneT)
+  - [El Principito con etiquetas](../presentaciones/pdf/El_principito_con_etiquetas.pdf)
+  - [El Principito sin etiquetas](.../presentaciones/pdf/El_principito_sin_etiquetas.pdf)
