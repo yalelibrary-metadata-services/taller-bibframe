@@ -39,10 +39,8 @@ RDF organiza los datos en forma de **tripletas**, donde cada tripleta está form
 
 ![Ejemplo de Tripleta](../01-day/fig/tripleta_rdf.png)
 
-Imágen creada por:
+Imagen creada por: Ávila Barrientos, Eder, (2020) . [Los Datos enlazados y su uso en bibliotecas](https://ru.iibi.unam.mx/jspui/handle/IIBI_UNAM/56) 
 
-Ávila Barrientos, Eder, (2020) . [Los Datos enlazados y su uso en bibliotecas](https://ru.iibi.unam.mx/jspui/handle/IIBI_UNAM/56) Instituto de
-Investigaciones Bibliotecológicas y de la Información. 
 
 ### Estructura Básica de RDF
 
@@ -56,6 +54,7 @@ RDF permite crear **grafos de datos** interconectados donde cada nodo representa
 Por ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web.
 
 ![Ejemplo de un grafo](../01-day/fig/rdf2.svg)
+Imagen creada por Timothy A. Thompson
 
 ### Serializaciones para Datos Enlazados
 
@@ -82,7 +81,7 @@ Estas tecnologías permiten estructurar, enlazar y consultar datos de manera que
 - El **Lenguaje de Ontología Web (OWL)** añade funcionalidades avanzadas sobre estas características básicas de RDF.
 
 ![](../01-day/fig/rdfs.png)
-Imágen creada por Timothy A. Thompson
+Imagen creada por Timothy A. Thompson
 
 ### Clases, Propiedades e Individuos
 
