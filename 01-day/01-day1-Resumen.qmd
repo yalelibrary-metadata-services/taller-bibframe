@@ -1,32 +1,35 @@
 ---
 title: "Resumen del Día 1"
 page-navigation: true
+toc: true
 ---
 
 ## Objetivos: 
 
 1. Adquirir conocimiento general sobre web semántica y datos enlazados. 
-2. 
+2. Aprender sobre el Marco de Descripción de Recurso (Resource Descriptión Framework, RDF) y cómo se estructura una tripleta RDF.
+3. Familiarizarse con los formatos de serialización de RDF como Turtle y JSON-LD.
+4. Conocer diferentes ontologias y sus contextos (Schema.org)
+5. Entender el concepto de ontologías y vocabularios controlados, y cómo se utilizan para organizar y estructurar datos.
+6. Aprender a definir clases, propiedades e individuos en una ontología utilizando RDF Schema (RDFS) y OWL.
+7. Identificar el dominio y el rango de las propiedades en ontologías y su importancia en la relación entre los datos.
+   
 
 ## Temas Discutidos en Clase:
 
-1. 
-2. 
-
-
-## ¿Qué es la Web Semántica?
+### ¿Qué es la Web Semántica?
 
 La **Web Semántica** es una extensión de la web actual, donde la información no solo es accesible para los humanos, sino que también es comprensible y procesable por las máquinas. Su objetivo principal es permitir que los datos en la web sean entendidos y vinculados de manera que los programas informáticos puedan encontrar, compartir y combinar información automáticamente a través de distintas fuentes.
 
-## ¿Qué son los Datos Enlazados?
+### ¿Qué son los Datos Enlazados?
 
 Los **Datos Enlazados** (*Linked Data* en inglés) son una forma de publicar y conectar datos en la web de manera estructurada, utilizando estándares abiertos que permiten que la información sea interrelacionada, accesible y procesada tanto por humanos como por máquinas. Este concepto se deriva del principio de que los datos en la web deben estar conectados de manera que se puedan cruzar referencias fácilmente.
 
-## ¿Qué es RDF?
+### ¿Qué es RDF?
 
 El **RDF (Resource Description Framework)** es un estándar del W3C diseñado para modelar datos y describir recursos en la web. Su principal objetivo es proporcionar una forma de estructurar datos que pueda ser entendida tanto por humanos como por máquinas. RDF se utiliza ampliamente en la **Web Semántica** para representar información de manera que las máquinas puedan interpretar y procesar estos datos, facilitando la interconexión de datos en la web.
 
-## Componentes Claves de RDF
+### Componentes Claves de RDF
 
 RDF organiza los datos en forma de **tripletas**, donde cada tripleta está formada por tres elementos:
 
@@ -38,15 +41,15 @@ RDF organiza los datos en forma de **tripletas**, donde cada tripleta está form
 
 RDF utiliza **URIs (Identificadores Uniformes de Recursos)** para identificar de manera única cada recurso, lo que permite que los datos estén vinculados y puedan ser referenciados desde cualquier lugar de la web. Además, las tripletas RDF pueden ser combinadas y reutilizadas en diferentes contextos.
 
-Los datos RDF pueden ser serializados en varios formatos, como **Turtle**, **RDF/XML**, **N-Triples**, y **JSON-LD**.
+Los datos RDF pueden ser serializados en varios formatos, como **Turtle** y **JSON-LD**.
 
-## ¿Cómo Funciona RDF?
+### ¿Cómo Funciona RDF?
 
 RDF permite crear **grafos de datos** interconectados donde cada nodo representa un recurso o entidad (como un libro, una persona, una organización, etc.), y los enlaces entre los nodos representan las relaciones o propiedades entre ellos.
 
 Por ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web.
 
-## Serializaciones para Datos Enlazados
+### Serializaciones para Datos Enlazados
 
 - **Turtle** es ideal para representar datos RDF de manera simple y legible.
 - **JSON-LD** facilita la integración de datos enlazados en aplicaciones web modernas.
@@ -55,18 +58,35 @@ Por ejemplo, al describir un libro y su autor, podemos extender la red de conoci
 
 Estas tecnologías permiten estructurar, enlazar y consultar datos de manera que sean tanto accesibles como entendibles para las máquinas, lo que es fundamental para el desarrollo de la **Web Semántica**.
 
-## ¿Qué es una Ontología?
+### Concepto de Ontologías
 
-En el contexto de la **Web Semántica** y los **Datos Enlazados**, una **ontología** es una representación formal de un conjunto de conceptos dentro de un dominio y de las relaciones entre esos conceptos. Las ontologías proporcionan una estructura clara que permite organizar, compartir y reutilizar información de manera coherente, tanto por personas como por máquinas.
+- Una **ontología** es una definición formal de tipos, propiedades y relaciones entre entidades en un dominio específico, utilizada para documentar el significado de los datos.
+- Las ontologías son modelos semánticos que representan una visión del mundo, enfocándose en relaciones entre los elementos de datos.
 
-## Componentes de una Ontología
+### Ontologías y Vocabularios Controlados
 
-Una ontología generalmente incluye los siguientes elementos:
+- Las ontologías son más complejas que los vocabularios controlados, ya que se enfocan en relaciones semánticas, mientras que los vocabularios definen jerarquías simples.
+- El **Sistema Simple de Organización del Conocimiento (SKOS)** es un estándar utilizado para crear vocabularios controlados en RDF.
 
-- **Clases**: Representan los conceptos o tipos de objetos del dominio (por ejemplo, "Libro" o "Autor").
-- **Propiedades**: Definen las relaciones entre clases o atributos de las clases (por ejemplo, "tieneAutor" o "título").
-- **Instancias**: Son ejemplos específicos de clases (por ejemplo, "Don Quijote" como instancia de la clase "Libro").
-- **Axiomas**: Reglas que definen las restricciones sobre las clases y propiedades, lo que permite razonamiento automático.
+### RDF Schema (RDFS)
+
+- **RDFS** proporciona una extensión para RDF, que permite definir clases, subclases, propiedades, dominios y rangos. Es el punto de partida para crear jerarquías de clases y propiedades.
+- El **Lenguaje de Ontología Web (OWL)** añade funcionalidades avanzadas sobre estas características básicas de RDF.
+
+### Clases, Propiedades e Individuos
+
+- Las **clases** agrupan individuos que comparten propiedades comunes, y pueden organizarse en jerarquías.
+- Las **propiedades** establecen relaciones entre individuos o entre individuos y datos literales.
+- Los **individuos** son instancias de una clase y se definen mediante propiedades que los conectan con otros individuos.
+
+### Dominio y Rango
+
+- El **dominio** limita a qué individuos se les puede aplicar una propiedad, mientras que el **rango** define los tipos de individuos que pueden ser el objeto de una propiedad.
+
+### Actividad del día
+
+- Se propone desarrollar un conjunto de preguntas de competencia para definir ontologías, ejemplificando con una ontología sobre comida y vino.
+- Se realiza una actividad de análisis de registros **MARC 21**, utilizando preguntas de competencia para identificar entidades y relaciones dentro de los registros bibliográficos.
 
 
 ## Recursos
@@ -100,3 +120,7 @@ Una guía completa del W3C para aprender sobre RDF, incluyendo conceptos básico
 
 - [SPARQL Query Language for RDF (W3C)](https://www.w3.org/TR/sparql11-query/)
 Recurso detallado sobre el lenguaje de consultas SPARQL para trabajar con datos RDF.
+
+- [SKOS Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/)
+  
+- Natalya F. Noy, Deborah L. McGuinness. [Ontology Development 101: A Guide to Creating Your First Ontology](https://protege.stanford.edu/publications/ontology_development/ontology101.pdf) Stanford University, Stanford, CA.

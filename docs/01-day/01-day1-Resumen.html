@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../01-day/00-day1-ProgramaSugerido.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -70,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -100,6 +101,21 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="../01-day/00-day1-ProgramaSugerido.html">
  <span class="dropdown-text">Introducción a la web semántica y los datos abiertos enlazados</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../01-day/01-day1-Resumen.html">
+ <span class="dropdown-text">Resumen del Día 1</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-día-2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Día 2</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-día-2">    
+        <li>
+    <a class="dropdown-item" href="../02-day/00-day2-ProgramaSugerido.html">
+ <span class="dropdown-text">Introducción al esquema BIBFRAME</span></a>
+  </li>  
     </ul>
   </li>
 </ul>
@@ -108,12 +124,66 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../01-day/01-day1-Resumen.html">Resumen del Día 1</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-day/00-day1-ProgramaSugerido.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introducción a la web semántica y los datos abiertos enlazados</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-day/01-day1-Resumen.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Resumen del Día 1</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#objetivos" id="toc-objetivos" class="nav-link active" data-scroll-target="#objetivos">Objetivos:</a></li>
+  <li><a href="#temas-discutidos-en-clase" id="toc-temas-discutidos-en-clase" class="nav-link" data-scroll-target="#temas-discutidos-en-clase">Temas Discutidos en Clase:</a>
+  <ul class="collapse">
+  <li><a href="#qué-es-la-web-semántica" id="toc-qué-es-la-web-semántica" class="nav-link" data-scroll-target="#qué-es-la-web-semántica">¿Qué es la Web Semántica?</a></li>
+  <li><a href="#qué-son-los-datos-enlazados" id="toc-qué-son-los-datos-enlazados" class="nav-link" data-scroll-target="#qué-son-los-datos-enlazados">¿Qué son los Datos Enlazados?</a></li>
+  <li><a href="#qué-es-rdf" id="toc-qué-es-rdf" class="nav-link" data-scroll-target="#qué-es-rdf">¿Qué es RDF?</a></li>
+  <li><a href="#componentes-claves-de-rdf" id="toc-componentes-claves-de-rdf" class="nav-link" data-scroll-target="#componentes-claves-de-rdf">Componentes Claves de RDF</a></li>
+  <li><a href="#estructura-básica-de-rdf" id="toc-estructura-básica-de-rdf" class="nav-link" data-scroll-target="#estructura-básica-de-rdf">Estructura Básica de RDF</a></li>
+  <li><a href="#cómo-funciona-rdf" id="toc-cómo-funciona-rdf" class="nav-link" data-scroll-target="#cómo-funciona-rdf">¿Cómo Funciona RDF?</a></li>
+  <li><a href="#serializaciones-para-datos-enlazados" id="toc-serializaciones-para-datos-enlazados" class="nav-link" data-scroll-target="#serializaciones-para-datos-enlazados">Serializaciones para Datos Enlazados</a></li>
+  <li><a href="#concepto-de-ontologías" id="toc-concepto-de-ontologías" class="nav-link" data-scroll-target="#concepto-de-ontologías">Concepto de Ontologías</a></li>
+  <li><a href="#ontologías-y-vocabularios-controlados" id="toc-ontologías-y-vocabularios-controlados" class="nav-link" data-scroll-target="#ontologías-y-vocabularios-controlados">Ontologías y Vocabularios Controlados</a></li>
+  <li><a href="#rdf-schema-rdfs" id="toc-rdf-schema-rdfs" class="nav-link" data-scroll-target="#rdf-schema-rdfs">RDF Schema (RDFS)</a></li>
+  <li><a href="#clases-propiedades-e-individuos" id="toc-clases-propiedades-e-individuos" class="nav-link" data-scroll-target="#clases-propiedades-e-individuos">Clases, Propiedades e Individuos</a></li>
+  <li><a href="#dominio-y-rango" id="toc-dominio-y-rango" class="nav-link" data-scroll-target="#dominio-y-rango">Dominio y Rango</a></li>
+  <li><a href="#actividad-del-día" id="toc-actividad-del-día" class="nav-link" data-scroll-target="#actividad-del-día">Actividad del día</a></li>
+  </ul></li>
+  <li><a href="#recursos" id="toc-recursos" class="nav-link" data-scroll-target="#recursos">Recursos</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -140,49 +210,49 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="objetivos">Objetivos:</h2>
 <ol type="1">
 <li>Adquirir conocimiento general sobre web semántica y datos enlazados.</li>
-<li></li>
+<li>Aprender sobre el Marco de Descripción de Recurso (Resource Descriptión Framework, RDF) y cómo se estructura una tripleta RDF.</li>
+<li>Familiarizarse con los formatos de serialización de RDF como Turtle y JSON-LD.</li>
+<li>Conocer diferentes ontologias y sus contextos (Schema.org)</li>
+<li>Entender el concepto de ontologías y vocabularios controlados, y cómo se utilizan para organizar y estructurar datos.</li>
+<li>Aprender a definir clases, propiedades e individuos en una ontología utilizando RDF Schema (RDFS) y OWL.</li>
+<li>Identificar el dominio y el rango de las propiedades en ontologías y su importancia en la relación entre los datos.</li>
 </ol>
 </section>
 <section id="temas-discutidos-en-clase" class="level2">
 <h2 class="anchored" data-anchor-id="temas-discutidos-en-clase">Temas Discutidos en Clase:</h2>
-<ol type="1">
-<li></li>
-<li></li>
-</ol>
-</section>
-<section id="qué-es-la-web-semántica" class="level2">
-<h2 class="anchored" data-anchor-id="qué-es-la-web-semántica">¿Qué es la Web Semántica?</h2>
+<section id="qué-es-la-web-semántica" class="level3">
+<h3 class="anchored" data-anchor-id="qué-es-la-web-semántica">¿Qué es la Web Semántica?</h3>
 <p>La <strong>Web Semántica</strong> es una extensión de la web actual, donde la información no solo es accesible para los humanos, sino que también es comprensible y procesable por las máquinas. Su objetivo principal es permitir que los datos en la web sean entendidos y vinculados de manera que los programas informáticos puedan encontrar, compartir y combinar información automáticamente a través de distintas fuentes.</p>
 </section>
-<section id="qué-son-los-datos-enlazados" class="level2">
-<h2 class="anchored" data-anchor-id="qué-son-los-datos-enlazados">¿Qué son los Datos Enlazados?</h2>
+<section id="qué-son-los-datos-enlazados" class="level3">
+<h3 class="anchored" data-anchor-id="qué-son-los-datos-enlazados">¿Qué son los Datos Enlazados?</h3>
 <p>Los <strong>Datos Enlazados</strong> (<em>Linked Data</em> en inglés) son una forma de publicar y conectar datos en la web de manera estructurada, utilizando estándares abiertos que permiten que la información sea interrelacionada, accesible y procesada tanto por humanos como por máquinas. Este concepto se deriva del principio de que los datos en la web deben estar conectados de manera que se puedan cruzar referencias fácilmente.</p>
 </section>
-<section id="qué-es-rdf" class="level2">
-<h2 class="anchored" data-anchor-id="qué-es-rdf">¿Qué es RDF?</h2>
+<section id="qué-es-rdf" class="level3">
+<h3 class="anchored" data-anchor-id="qué-es-rdf">¿Qué es RDF?</h3>
 <p>El <strong>RDF (Resource Description Framework)</strong> es un estándar del W3C diseñado para modelar datos y describir recursos en la web. Su principal objetivo es proporcionar una forma de estructurar datos que pueda ser entendida tanto por humanos como por máquinas. RDF se utiliza ampliamente en la <strong>Web Semántica</strong> para representar información de manera que las máquinas puedan interpretar y procesar estos datos, facilitando la interconexión de datos en la web.</p>
 </section>
-<section id="componentes-claves-de-rdf" class="level2">
-<h2 class="anchored" data-anchor-id="componentes-claves-de-rdf">Componentes Claves de RDF</h2>
+<section id="componentes-claves-de-rdf" class="level3">
+<h3 class="anchored" data-anchor-id="componentes-claves-de-rdf">Componentes Claves de RDF</h3>
 <p>RDF organiza los datos en forma de <strong>tripletas</strong>, donde cada tripleta está formada por tres elementos:</p>
 <ol type="1">
 <li><strong>Sujeto</strong>: El recurso o entidad que se describe.</li>
 <li><strong>Predicado</strong>: La propiedad o atributo del sujeto.</li>
 <li><strong>Objeto</strong>: El valor de la propiedad o el recurso relacionado.</li>
 </ol>
+</section>
 <section id="estructura-básica-de-rdf" class="level3">
 <h3 class="anchored" data-anchor-id="estructura-básica-de-rdf">Estructura Básica de RDF</h3>
 <p>RDF utiliza <strong>URIs (Identificadores Uniformes de Recursos)</strong> para identificar de manera única cada recurso, lo que permite que los datos estén vinculados y puedan ser referenciados desde cualquier lugar de la web. Además, las tripletas RDF pueden ser combinadas y reutilizadas en diferentes contextos.</p>
-<p>Los datos RDF pueden ser serializados en varios formatos, como <strong>Turtle</strong>, <strong>RDF/XML</strong>, <strong>N-Triples</strong>, y <strong>JSON-LD</strong>.</p>
+<p>Los datos RDF pueden ser serializados en varios formatos, como <strong>Turtle</strong> y <strong>JSON-LD</strong>.</p>
 </section>
-</section>
-<section id="cómo-funciona-rdf" class="level2">
-<h2 class="anchored" data-anchor-id="cómo-funciona-rdf">¿Cómo Funciona RDF?</h2>
+<section id="cómo-funciona-rdf" class="level3">
+<h3 class="anchored" data-anchor-id="cómo-funciona-rdf">¿Cómo Funciona RDF?</h3>
 <p>RDF permite crear <strong>grafos de datos</strong> interconectados donde cada nodo representa un recurso o entidad (como un libro, una persona, una organización, etc.), y los enlaces entre los nodos representan las relaciones o propiedades entre ellos.</p>
 <p>Por ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web.</p>
 </section>
-<section id="serializaciones-para-datos-enlazados" class="level2">
-<h2 class="anchored" data-anchor-id="serializaciones-para-datos-enlazados">Serializaciones para Datos Enlazados</h2>
+<section id="serializaciones-para-datos-enlazados" class="level3">
+<h3 class="anchored" data-anchor-id="serializaciones-para-datos-enlazados">Serializaciones para Datos Enlazados</h3>
 <ul>
 <li><strong>Turtle</strong> es ideal para representar datos RDF de manera simple y legible.</li>
 <li><strong>JSON-LD</strong> facilita la integración de datos enlazados en aplicaciones web modernas.</li>
@@ -191,19 +261,48 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>Estas tecnologías permiten estructurar, enlazar y consultar datos de manera que sean tanto accesibles como entendibles para las máquinas, lo que es fundamental para el desarrollo de la <strong>Web Semántica</strong>.</p>
 </section>
-<section id="qué-es-una-ontología" class="level2">
-<h2 class="anchored" data-anchor-id="qué-es-una-ontología">¿Qué es una Ontología?</h2>
-<p>En el contexto de la <strong>Web Semántica</strong> y los <strong>Datos Enlazados</strong>, una <strong>ontología</strong> es una representación formal de un conjunto de conceptos dentro de un dominio y de las relaciones entre esos conceptos. Las ontologías proporcionan una estructura clara que permite organizar, compartir y reutilizar información de manera coherente, tanto por personas como por máquinas.</p>
-</section>
-<section id="componentes-de-una-ontología" class="level2">
-<h2 class="anchored" data-anchor-id="componentes-de-una-ontología">Componentes de una Ontología</h2>
-<p>Una ontología generalmente incluye los siguientes elementos:</p>
+<section id="concepto-de-ontologías" class="level3">
+<h3 class="anchored" data-anchor-id="concepto-de-ontologías">Concepto de Ontologías</h3>
 <ul>
-<li><strong>Clases</strong>: Representan los conceptos o tipos de objetos del dominio (por ejemplo, “Libro” o “Autor”).</li>
-<li><strong>Propiedades</strong>: Definen las relaciones entre clases o atributos de las clases (por ejemplo, “tieneAutor” o “título”).</li>
-<li><strong>Instancias</strong>: Son ejemplos específicos de clases (por ejemplo, “Don Quijote” como instancia de la clase “Libro”).</li>
-<li><strong>Axiomas</strong>: Reglas que definen las restricciones sobre las clases y propiedades, lo que permite razonamiento automático.</li>
+<li>Una <strong>ontología</strong> es una definición formal de tipos, propiedades y relaciones entre entidades en un dominio específico, utilizada para documentar el significado de los datos.</li>
+<li>Las ontologías son modelos semánticos que representan una visión del mundo, enfocándose en relaciones entre los elementos de datos.</li>
 </ul>
+</section>
+<section id="ontologías-y-vocabularios-controlados" class="level3">
+<h3 class="anchored" data-anchor-id="ontologías-y-vocabularios-controlados">Ontologías y Vocabularios Controlados</h3>
+<ul>
+<li>Las ontologías son más complejas que los vocabularios controlados, ya que se enfocan en relaciones semánticas, mientras que los vocabularios definen jerarquías simples.</li>
+<li>El <strong>Sistema Simple de Organización del Conocimiento (SKOS)</strong> es un estándar utilizado para crear vocabularios controlados en RDF.</li>
+</ul>
+</section>
+<section id="rdf-schema-rdfs" class="level3">
+<h3 class="anchored" data-anchor-id="rdf-schema-rdfs">RDF Schema (RDFS)</h3>
+<ul>
+<li><strong>RDFS</strong> proporciona una extensión para RDF, que permite definir clases, subclases, propiedades, dominios y rangos. Es el punto de partida para crear jerarquías de clases y propiedades.</li>
+<li>El <strong>Lenguaje de Ontología Web (OWL)</strong> añade funcionalidades avanzadas sobre estas características básicas de RDF.</li>
+</ul>
+</section>
+<section id="clases-propiedades-e-individuos" class="level3">
+<h3 class="anchored" data-anchor-id="clases-propiedades-e-individuos">Clases, Propiedades e Individuos</h3>
+<ul>
+<li>Las <strong>clases</strong> agrupan individuos que comparten propiedades comunes, y pueden organizarse en jerarquías.</li>
+<li>Las <strong>propiedades</strong> establecen relaciones entre individuos o entre individuos y datos literales.</li>
+<li>Los <strong>individuos</strong> son instancias de una clase y se definen mediante propiedades que los conectan con otros individuos.</li>
+</ul>
+</section>
+<section id="dominio-y-rango" class="level3">
+<h3 class="anchored" data-anchor-id="dominio-y-rango">Dominio y Rango</h3>
+<ul>
+<li>El <strong>dominio</strong> limita a qué individuos se les puede aplicar una propiedad, mientras que el <strong>rango</strong> define los tipos de individuos que pueden ser el objeto de una propiedad.</li>
+</ul>
+</section>
+<section id="actividad-del-día" class="level3">
+<h3 class="anchored" data-anchor-id="actividad-del-día">Actividad del día</h3>
+<ul>
+<li>Se propone desarrollar un conjunto de preguntas de competencia para definir ontologías, ejemplificando con una ontología sobre comida y vino.</li>
+<li>Se realiza una actividad de análisis de registros <strong>MARC 21</strong>, utilizando preguntas de competencia para identificar entidades y relaciones dentro de los registros bibliográficos.</li>
+</ul>
+</section>
 </section>
 <section id="recursos" class="level2">
 <h2 class="anchored" data-anchor-id="recursos">Recursos</h2>
@@ -220,6 +319,8 @@ ul.task-list li input[type="checkbox"] {
 <li><p><a href="https://www.w3.org/DesignIssues/LinkedData.html">Linked Data - Tim Berners-Lee’s Linked Data Principles</a> Artículo original de Tim Berners-Lee que introduce los principios de los Datos Enlazados.</p></li>
 <li><p><a href="https://www.w3.org/TR/rdf11-primer/">RDF Primer (W3C)</a> Una guía completa del W3C para aprender sobre RDF, incluyendo conceptos básicos y ejemplos.</p></li>
 <li><p><a href="https://www.w3.org/TR/sparql11-query/">SPARQL Query Language for RDF (W3C)</a> Recurso detallado sobre el lenguaje de consultas SPARQL para trabajar con datos RDF.</p></li>
+<li><p><a href="https://www.w3.org/2004/02/skos/">SKOS Simple Knowledge Organization System</a></p></li>
+<li><p>Natalya F. Noy, Deborah L. McGuinness. <a href="https://protege.stanford.edu/publications/ontology_development/ontology101.pdf">Ontology Development 101: A Guide to Creating Your First Ontology</a> Stanford University, Stanford, CA.</p></li>
 </ul>
 
 
@@ -635,6 +736,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../01-day/00-day1-ProgramaSugerido.html" class="pagination-link" aria-label="Introducción a la web semántica y los datos abiertos enlazados">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Introducción a la web semántica y los datos abiertos enlazados</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

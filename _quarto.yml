@@ -12,7 +12,7 @@ website:
       - text: "Acerca de"
         href: about.qmd
       - sidebar:dia1
-      #- sidebar:dia2
+      - sidebar:dia2
       #- sidebar:dia3
       #- sidebar:dia4
       #- sidebar:dia5
@@ -25,12 +25,12 @@ website:
       href: 01-day/00-day1-ProgramaSugerido.qmd
       contents:
         - 01-day/00-day1-ProgramaSugerido.qmd
-        #- 01-day/01-day1-Resumen.qmd
-    #- id: dia2
-    #  title: "Día 2"
-    #  href: 02-day/00-day2-ProgramaSugerido.qmd
-    #  contents:
-    #    - 02-day/00-day2-ProgramaSugerido.qmd
+        - 01-day/01-day1-Resumen.qmd
+    - id: dia2
+      title: "Día 2"
+      href: 02-day/00-day2-ProgramaSugerido.qmd
+      contents:
+        - 02-day/00-day2-ProgramaSugerido.qmd
     #    - 02-day/01-day2-Resumen.qmd
     #- id: dia3
     #  title: "Día 3"
