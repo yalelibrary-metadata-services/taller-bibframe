@@ -13,7 +13,7 @@ toc: true
 5. Entender el concepto de ontologías y vocabularios controlados, y cómo se utilizan para organizar y estructurar datos.
 6. Aprender a definir clases, propiedades e individuos en una ontología utilizando RDF Schema (RDFS) y OWL.
 7. Identificar el dominio y el rango de las propiedades en ontologías y su importancia en la relación entre los datos.
-   
+
 
 ## Temas Discutidos en Clase:
 
@@ -37,17 +37,25 @@ RDF organiza los datos en forma de **tripletas**, donde cada tripleta está form
 2. **Predicado**: La propiedad o atributo del sujeto.
 3. **Objeto**: El valor de la propiedad o el recurso relacionado.
 
+![Ejemplo de Tripleta](../01-day/fig/tripleta_rdf.png)
+
+Imágen creada por:
+
+Ávila Barrientos, Eder, (2020) . [Los Datos enlazados y su uso en bibliotecas](https://ru.iibi.unam.mx/jspui/handle/IIBI_UNAM/56) Instituto de
+Investigaciones Bibliotecológicas y de la Información. 
+
 ### Estructura Básica de RDF
 
 RDF utiliza **URIs (Identificadores Uniformes de Recursos)** para identificar de manera única cada recurso, lo que permite que los datos estén vinculados y puedan ser referenciados desde cualquier lugar de la web. Además, las tripletas RDF pueden ser combinadas y reutilizadas en diferentes contextos.
 
-Los datos RDF pueden ser serializados en varios formatos, como **Turtle** y **JSON-LD**.
 
 ### ¿Cómo Funciona RDF?
 
 RDF permite crear **grafos de datos** interconectados donde cada nodo representa un recurso o entidad (como un libro, una persona, una organización, etc.), y los enlaces entre los nodos representan las relaciones o propiedades entre ellos.
 
 Por ejemplo, al describir un libro y su autor, podemos extender la red de conocimiento enlazando ese libro con otros recursos, como su editorial, la fecha de publicación, o incluso con la biografía del autor en otro sitio web.
+
+![Ejemplo de un grafo](../01-day/fig/rdf2.svg)
 
 ### Serializaciones para Datos Enlazados
 
@@ -73,6 +81,9 @@ Estas tecnologías permiten estructurar, enlazar y consultar datos de manera que
 - **RDFS** proporciona una extensión para RDF, que permite definir clases, subclases, propiedades, dominios y rangos. Es el punto de partida para crear jerarquías de clases y propiedades.
 - El **Lenguaje de Ontología Web (OWL)** añade funcionalidades avanzadas sobre estas características básicas de RDF.
 
+![](../01-day/fig/rdfs.png)
+Imágen creada por Timothy A. Thompson
+
 ### Clases, Propiedades e Individuos
 
 - Las **clases** agrupan individuos que comparten propiedades comunes, y pueden organizarse en jerarquías.
@@ -90,6 +101,8 @@ Estas tecnologías permiten estructurar, enlazar y consultar datos de manera que
 
 
 ## Recursos
+
+- [Glosario grupal hecho en el taller](https://bit.ly/glosario_talleres)
 
 - Manu Sporny. [¿Qué son los Datos Enlazados?](https://www.youtube.com/watch?v=4x_xzT5eF5Q) (Video)
 
