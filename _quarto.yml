@@ -13,7 +13,7 @@ website:
         href: about.qmd
       - sidebar:dia1
       - sidebar:dia2
-      #- sidebar:dia3
+      - sidebar:dia3
       #- sidebar:dia4
       #- sidebar:dia5
   sidebar:
@@ -31,12 +31,12 @@ website:
       href: 02-day/00-day2-ProgramaSugerido.qmd
       contents:
         - 02-day/00-day2-ProgramaSugerido.qmd
-    #    - 02-day/01-day2-Resumen.qmd
-    #- id: dia3
-    #  title: "Día 3"
-    #  href: 03-day/00-day3-ProgramaSugerido.qmd
-    #  contents:
-    #    - 03-day/00-day3-ProgramaSugerido.qmd
+        - 02-day/01-day2-Resumen.qmd
+    - id: dia3
+      title: "Día 3"
+      href: 03-day/00-day3-ProgramaSugerido.qmd
+      contents:
+        - 03-day/00-day3-ProgramaSugerido.qmd
     #    - 03-day/01-day3-Resumen.qmd
     #- id: dia4
     #  title: "Día 4"
