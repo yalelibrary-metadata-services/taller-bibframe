@@ -6,11 +6,12 @@ title: "BIBFRAME y otros modelos"
 
 miércoles, 23 de octubre
 
-| Hora         | Tema                                                                                                                                |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 9:00-10:00   | Conferencia  “Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar?”  |
-| 10:00–10:15  | Receso                                                                                                                              |
-| 10:15–10:45  | BIBFRAME en español / Otros modelos y críticas                                                                                      |
-| 10:45–11:45  | BIBFRAME en español / Demostración de herramientas                                                                                  |
-| 11:45–12:00  | Receso                                                                                                                              |
-| 12:00–1:00   | Presentación por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial                                                        |
+| Hora | Tema | Presentaciones |
+|---|---|---|
+| 9:00-10:00 | Conferencia: “Yerba mala nunca muere:  ¿Por qué los formatos MARC 21 siguen vigentes  y el cambio hacia BIBFRAME no parece avanzar?” |  |
+| 10:00–10:15 | Receso |  |
+| 10:15–10:25 | Repaso del Día Anterior |  |
+| 10:25-11:45 | Patrones de BIBFRAME y continuación del ejercicio BIBFRAME en español | <a href="https://slides.com/timathom/taller-bibframe-d2-l2" target="_blank"> Día 2, Lección 2 </a>|
+| 11:45–12:00 | Receso |  |
+| 12:00–1:00 | Conferencia: "BIBFRAME: Notas respecto a su implementación"  por el Mtro. Álvaro López Bustamante (EBSCO), invitado especial | <a href="../03-day/pdf/BIBFRAME_TALLER_Mexico_Alvaro_Lopez_B.pdf" target="_blank"> Diapositvas </a>||
+

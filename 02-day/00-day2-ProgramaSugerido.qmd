@@ -19,5 +19,6 @@ martes, 22 de octubre
 
 - <a href="https://bibfra.mx/2024/uaslp/turtle" target="_blank"> Ejercicios con †urtle </a>
 
-- <a href="https://docs.google.com/spreadsheets/d/1yNrmNFNTZ3atF3LdbWV-kSScjUH6koupCul65g2HRN8/edit?usp=sharing" target="_blank"> Vocabulario BIBFRAME 2.4 </a>
+- <a href="https://docs.google.com/spreadsheets/d/1yNrmNFNTZ3atF3LdbWV-kSScjUH6koupCul65g2HRN8/edit?usp=sharing" target="_blank"> Hoja de Cálculo, Vocabulario BIBFRAME 2.4 </a>
 
+- <a href="https://bibfra.mx/2024/uaslp/bibframe" target="_blank"> Vocabulario BIBFRAME 2.4 </a>

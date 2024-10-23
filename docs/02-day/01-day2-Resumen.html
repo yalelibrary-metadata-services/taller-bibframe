@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -128,7 +128,27 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#objetivos" id="toc-objetivos" class="nav-link active" data-scroll-target="#objetivos">Objetivos:</a></li>
+  <li><a href="#temas-discutidos-en-clase" id="toc-temas-discutidos-en-clase" class="nav-link" data-scroll-target="#temas-discutidos-en-clase">Temas Discutidos en Clase:</a>
+  <ul class="collapse">
+  <li><a href="#modelos-conceptuales-y-ontologías" id="toc-modelos-conceptuales-y-ontologías" class="nav-link" data-scroll-target="#modelos-conceptuales-y-ontologías">Modelos Conceptuales y Ontologías</a></li>
+  <li><a href="#vocabularios-universales" id="toc-vocabularios-universales" class="nav-link" data-scroll-target="#vocabularios-universales">Vocabularios Universales</a></li>
+  <li><a href="#ejemplos-de-vocabularios-universales-utilizados-en-bibliotecas-y-datos-enlazados" id="toc-ejemplos-de-vocabularios-universales-utilizados-en-bibliotecas-y-datos-enlazados" class="nav-link" data-scroll-target="#ejemplos-de-vocabularios-universales-utilizados-en-bibliotecas-y-datos-enlazados">Ejemplos de vocabularios universales utilizados en bibliotecas y datos enlazados:</a></li>
+  <li><a href="#impacto-de-datos-enlazados-en-las-bibliotecas" id="toc-impacto-de-datos-enlazados-en-las-bibliotecas" class="nav-link" data-scroll-target="#impacto-de-datos-enlazados-en-las-bibliotecas">Impacto de Datos Enlazados en las Bibliotecas</a></li>
+  <li><a href="#turtle" id="toc-turtle" class="nav-link" data-scroll-target="#turtle">Turtle</a></li>
+  <li><a href="#qué-es-bibframe" id="toc-qué-es-bibframe" class="nav-link" data-scroll-target="#qué-es-bibframe">¿Qué es BIBFRAME?</a></li>
+  <li><a href="#componentes-del-modelo-bibframe" id="toc-componentes-del-modelo-bibframe" class="nav-link" data-scroll-target="#componentes-del-modelo-bibframe">Componentes del Modelo BIBFRAME:</a></li>
+  <li><a href="#implementación-y-uso-de-bibframe-en-español" id="toc-implementación-y-uso-de-bibframe-en-español" class="nav-link" data-scroll-target="#implementación-y-uso-de-bibframe-en-español">Implementación y uso de BIBFRAME en español:</a></li>
+  </ul></li>
+  <li><a href="#recursos" id="toc-recursos" class="nav-link" data-scroll-target="#recursos">Recursos</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -154,19 +174,152 @@ ul.task-list li input[type="checkbox"] {
 <section id="objetivos" class="level2">
 <h2 class="anchored" data-anchor-id="objetivos">Objetivos:</h2>
 <ol type="1">
-<li>Adquirir conocimiento general sobre…</li>
-<li></li>
+<li>Aprender sobre el formato de Turtle (un lenguaje para trabajar con datos enlazados).</li>
+<li>Conocer la historia y estructura de BIBFRAME.</li>
+<li>Reconocer otros vocabularios universales utilizados en las bibliotecas (Schema.org, FOAF)</li>
+<li>Aportar a la documentación de BIBFRAME mediante la traducción de sus propiedades al español.</li>
 </ol>
 </section>
 <section id="temas-discutidos-en-clase" class="level2">
 <h2 class="anchored" data-anchor-id="temas-discutidos-en-clase">Temas Discutidos en Clase:</h2>
+<section id="modelos-conceptuales-y-ontologías" class="level3">
+<h3 class="anchored" data-anchor-id="modelos-conceptuales-y-ontologías">Modelos Conceptuales y Ontologías</h3>
+<ul>
+<li><p><strong>Modelo Conceptual</strong> Forma abstracta de <strong>pensar sobre el mundo</strong>, de manera holística, consistente y coherente.</p></li>
+<li><p><strong>Ontología</strong> Conjunto compartido de términos para codificar ese pensamiento de forma lógica y procesable por máquinas (por ejemplo, en RDF).</p></li>
+</ul>
+</section>
+<section id="vocabularios-universales" class="level3">
+<h3 class="anchored" data-anchor-id="vocabularios-universales">Vocabularios Universales</h3>
+<p>Los vocabularios universales son conjuntos de términos, clases y propiedades que se utilizan para describir datos de manera coherente y estándar, facilitando la interoperabilidad entre diferentes sistemas y dominios. Estos vocabularios están diseñados para ser aplicables en una amplia gama de contextos y pueden ser entendidos y utilizados por máquinas en el marco de la web semántica.</p>
+</section>
+<section id="ejemplos-de-vocabularios-universales-utilizados-en-bibliotecas-y-datos-enlazados" class="level3">
+<h3 class="anchored" data-anchor-id="ejemplos-de-vocabularios-universales-utilizados-en-bibliotecas-y-datos-enlazados">Ejemplos de vocabularios universales utilizados en bibliotecas y datos enlazados:</h3>
 <ol type="1">
-<li></li>
-<li></li>
+<li><p>Schema.org</p>
+<ul>
+<li>Es uno de los vocabularios más utilizados en la web para describir entidades como personas, libros, eventos, productos, entre otros.</li>
+</ul></li>
+<li><p>Dublin Core</p>
+<ul>
+<li>Es un vocabulario utilizado para describir recursos digitales o físicos, como documentos, imágenes, o datos. Es muy utilizado en bibliotecas, archivos y museos.</li>
+</ul></li>
+<li><p>FOAF (Friend of a Friend):</p>
+<ul>
+<li>FOAF es un vocabulario para describir personas, sus relaciones y actividades. Es útil para crear perfiles de usuarios y redes sociales.</li>
+</ul></li>
+<li><p>SKOS (Simple Knowledge Organization System):</p>
+<ul>
+<li>SKOS es un vocabulario para describir esquemas de clasificación y conceptos, como tesauros y taxonomías.</li>
+</ul></li>
 </ol>
+</section>
+<section id="impacto-de-datos-enlazados-en-las-bibliotecas" class="level3">
+<h3 class="anchored" data-anchor-id="impacto-de-datos-enlazados-en-las-bibliotecas">Impacto de Datos Enlazados en las Bibliotecas</h3>
+<p><img src="../02-day/fig/datosabiertosbibliotecas.png" class="img-fluid"></p>
+</section>
+<section id="turtle" class="level3">
+<h3 class="anchored" data-anchor-id="turtle">Turtle</h3>
+<section id="tripletas" class="level4">
+<h4 class="anchored" data-anchor-id="tripletas">1. <strong>Tripletas</strong></h4>
+<p>Las tripletas son la unidad básica de RDF y Turtle. Cada tripleta consta de: - <strong>Sujeto</strong>: El recurso sobre el cual se hace la afirmación. - <strong>Predicado</strong>: La propiedad o relación del sujeto. - <strong>Objeto</strong>: El valor o recurso asociado con el sujeto a través del predicado.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>&lt;https://example.com/libro123&gt; dc:title "Cien años de soledad" .</code></pre>
+<ul>
+<li>Sujeto: <code>&lt;https://example.com/libro123&gt;</code></li>
+<li>Predicado: <code>dc:title</code></li>
+<li>Objeto: <code>"Cien años de soledad"</code></li>
+</ul>
+</section>
+<section id="prefijos" class="level4">
+<h4 class="anchored" data-anchor-id="prefijos">2. <strong>Prefijos</strong></h4>
+<p>Los <strong>prefijos</strong> permiten acortar las URLs largas mediante el uso de alias. Se declaran al inicio del archivo con la palabra clave <code>@prefix</code>.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>@prefix dc: &lt;http://purl.org/dc/elements/1.1/&gt; .</code></pre>
+<p>Esto permite usar <code>dc:title</code> en lugar de escribir la URL completa <code>http://purl.org/dc/elements/1.1/title</code>.</p>
+</section>
+<section id="base-uri" class="level4">
+<h4 class="anchored" data-anchor-id="base-uri">3. <strong>Base URI</strong></h4>
+<p>La declaración <code>@base</code> define una URI base que permite utilizar URIs relativas en lugar de absolutas.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>@base &lt;https://example.com/&gt; .
+&lt;libro123&gt; dc:title "Cien años de soledad" .</code></pre>
+<p>Es equivalente a:</p>
+<pre class="turtle"><code>&lt;https://example.com/libro123&gt; dc:title "Cien años de soledad" .</code></pre>
+</section>
+<section id="punto-y-coma" class="level4">
+<h4 class="anchored" data-anchor-id="punto-y-coma">4. <strong>Punto y coma (;)</strong></h4>
+<p>Se usa para hacer múltiples afirmaciones sobre el mismo sujeto sin repetirlo.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>&lt;https://example.com/libro123&gt; 
+    dc:title "Cien años de soledad" ;
+    dc:creator "Gabriel García Márquez" .</code></pre>
+</section>
+<section id="coma" class="level4">
+<h4 class="anchored" data-anchor-id="coma">5. <strong>Coma (,)</strong></h4>
+<p>Se usa cuando el mismo predicado tiene múltiples objetos.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>&lt;https://example.com/libro123&gt; 
+    dc:subject "Realismo mágico", "Literatura latinoamericana" .</code></pre>
+</section>
+<section id="tipos-de-datos" class="level4">
+<h4 class="anchored" data-anchor-id="tipos-de-datos">6. <strong>Tipos de datos</strong></h4>
+<p>Los literales pueden tener un tipo de dato asociado. Esto se indica con el prefijo <code>^^</code> seguido del tipo de dato ().</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>&lt;https://example.com/libro123&gt; dc:date "1967"^^xsd:date .</code></pre>
+</section>
+<section id="nodos-en-blanco" class="level4">
+<h4 class="anchored" data-anchor-id="nodos-en-blanco">7. <strong>Nodos en blanco</strong></h4>
+<p>Se utilizan cuando el recurso no tiene un identificador específico. Se pueden declarar usando corchetes <code>[]</code> o identificadores temporales como <code>_:b1</code>.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>&lt;https://example.com/libro123&gt; dc:creator [ foaf:name "Gabriel García Márquez" ] .</code></pre>
+</section>
+<section id="listas" class="level4">
+<h4 class="anchored" data-anchor-id="listas">8. <strong>Listas</strong></h4>
+<p>Las listas se representan con paréntesis <code>()</code> y contienen una secuencia de recursos u objetos.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code>&lt;https://example.com/libro123&gt; dc:creator ( &lt;autor1&gt; &lt;autor2&gt; &lt;autor3&gt; ) .</code></pre>
+</section>
+<section id="comentarios" class="level4">
+<h4 class="anchored" data-anchor-id="comentarios">9. <strong>Comentarios</strong></h4>
+<p>Los comentarios en Turtle comienzan con <code>#</code> y se ignoran al procesar el archivo.</p>
+<p><strong>Ejemplo</strong>:</p>
+<pre class="turtle"><code># Este es un comentario.
+&lt;https://example.com/libro123&gt; dc:title "Cien años de soledad" .</code></pre>
+</section>
+</section>
+<section id="qué-es-bibframe" class="level3">
+<h3 class="anchored" data-anchor-id="qué-es-bibframe">¿Qué es BIBFRAME?</h3>
+<p><strong>BIBFRAME (Bibliographic Framework)</strong> es un modelo de datos basado en <strong>RDF</strong> (Resource Description Framework) diseñado para reemplazar el formato <strong>MARC 21</strong>, utilizado tradicionalmente en bibliotecas para la descripción de recursos. Su objetivo principal es mejorar la interoperabilidad y el uso de datos enlazados en los sistemas bibliotecarios modernos.</p>
+</section>
+<section id="componentes-del-modelo-bibframe" class="level3">
+<h3 class="anchored" data-anchor-id="componentes-del-modelo-bibframe">Componentes del Modelo BIBFRAME:</h3>
+<ol type="1">
+<li><p><strong>Clases principales</strong>:</p>
+<ul>
+<li><strong>Obra (Work)</strong>: Representa el contenido abstracto, como una idea o una expresión creativa.</li>
+<li><strong>Manifestación (Instance)</strong>: Describe la forma física o digital en la que se manifiesta una obra.</li>
+<li><strong>Ítem (Item)</strong>: Se refiere a una copia física o digital específica de una manifestación.</li>
+</ul>
+<p>Estos niveles permiten describir una obra desde el concepto abstracto hasta su representación física.</p></li>
+<li><p><strong>Relaciones importantes en BIBFRAME</strong>:</p>
+<ul>
+<li>BIBFRAME se inspira en <strong>RDA</strong> y en el <strong>IFLA LRM</strong> (Library Reference Model), aunque omite la entidad <strong>Expresión</strong>, asignando características como idioma y tipo de contenido directamente a la <strong>Obra</strong>.</li>
+</ul></li>
+<li><p><strong>Metadatos administrativos</strong>: Los metadatos en BIBFRAME permiten registrar información administrativa, como el estado de un recurso, el nivel de descripción, y los identificadores relacionados. Esto facilita la gestión de los recursos a lo largo del tiempo y su interoperabilidad.</p></li>
+</ol>
+</section>
+<section id="implementación-y-uso-de-bibframe-en-español" class="level3">
+<h3 class="anchored" data-anchor-id="implementación-y-uso-de-bibframe-en-español">Implementación y uso de BIBFRAME en español:</h3>
+<p>Uno de los objetivos de este taller es traducir los términos de BIBFRAME al español para ampliar su accesibilidad. Los términos traducidos se compartirán con la Biblioteca del Congreso y se utilizarán para mejorar la documentación oficial.</p>
+<p>Este modelo representa un avance significativo hacia la web semántica, permitiendo que los catálogos de bibliotecas estén mejor conectados y accesibles para diversos sistemas en línea.</p>
+</section>
 </section>
 <section id="recursos" class="level2">
 <h2 class="anchored" data-anchor-id="recursos">Recursos</h2>
+<ul>
+<li>Rob Sanderson, <a href="docs.google.com/presentation/d/1WMgW_vQL1zhU-HMufq9e0mXzWd8gZ6KD/edit?usp=sharing&amp;ouid=105607492939200847376&amp;rtpof=true&amp;sd=true">“BibFrame Needs a Usability Makeover (And it’s as Easy as ABC)”</a></li>
+</ul>
 
 
 </section>
