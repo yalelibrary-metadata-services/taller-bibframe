@@ -22,3 +22,4 @@ Módulos de entrenamiento de Sinopia por a PCC
 | Módulo 7 | <a href="../presentaciones/pdf/Modulo_7_Vizualizar_Cambiar_Grabar_es_2024.pdf" target="_blank">Previsualizar, Guardar y Editar descripciones</a> |
 | Módulo 8 | <a href="../presentaciones/pdf/Modulo_8_Enlazando_Descripciones_es_2024.pdf" target="_blank">Enlazando Descripciones Relacionadas</a> |
 | Módulo 9 | <a href="../presentaciones/pdf/Modulo_9_Copiando_descripciones_2024.pdf" target="_blank">Copiando Descripciones</a> |
+| Módulo 10 | <a href="../presentaciones/pdf/Modulo_10_Flujo_Trabajo_es_2024.pdf" target="_blank">Flujo de Trabajo de Catalogación</a> |
