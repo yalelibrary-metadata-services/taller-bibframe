@@ -25,3 +25,4 @@ jueves, 24 de octubre
 - [Sinopia](https://sinopia.io/)
 - [Marva User Manual](https://guides.loc.gov/c.php?g=1170551&p=8704262&preview=003264c97f504caf990125066b248e24)
 - [Datos Enlazados de la Biblioteca Nacional de España](https://www.bne.es/es/catalogos/datos-enlazados-bne)
+- [Demo al español de Sinopia](https://www.youtube.com/watch?v=PWRr-JRmIRA) por Daniel Mugaburu, Asistente Técnico de Metadatos en la Unidad de Servicios Técnicos Bibliotecarios de la Universidad de Yale
