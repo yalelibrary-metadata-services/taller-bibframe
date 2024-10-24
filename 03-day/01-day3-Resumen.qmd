@@ -18,4 +18,6 @@ page-navigation: true
 
 - [LUX](https://lux.collections.yale.edu/)
   
-- [BIBFRAME](https://bibframe.org/)
+- [BIBFRAME.ORG](https://bibframe.org/)
+  
+- [LinkedArt](https://linked.art/)

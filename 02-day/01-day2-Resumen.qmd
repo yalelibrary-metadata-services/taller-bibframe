@@ -166,8 +166,8 @@ Este modelo representa un avance significativo hacia la web semántica, permitie
 
 
 
-
 ## Recursos
 
 - Rob Sanderson, ["BibFrame Needs a Usability Makeover (And it's as Easy as ABC)"](docs.google.com/presentation/d/1WMgW_vQL1zhU-HMufq9e0mXzWd8gZ6KD/edit?usp=sharing&ouid=105607492939200847376&rtpof=true&sd=true)
 
+-[Documentación sobre BIBFRAME](https://www.loc.gov/bibframe/pdf/marcld-report-11-21-2012.pdf)
