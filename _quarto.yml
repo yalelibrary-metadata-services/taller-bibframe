@@ -3,7 +3,7 @@ project:
   output-dir: docs
 website:
   title: "BIBFRAME: ¿En español?"
-  page-footer: "Yale University Library"
+  page-footer: "Yale University Library, 2024"
   back-to-top-navigation: true
   navbar:
     background: primary
