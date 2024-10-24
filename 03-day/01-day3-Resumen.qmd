@@ -5,25 +5,17 @@ page-navigation: true
 
 ## Objetivos: 
 
-1. Aprender sobre otros esquemas ontológicos para representar información.
-2. Demostración de herramientas de conversion MARC a BIBFRAME
-
-## Temas Discutidos en Clase:
-
-1. 
-2. 
+1. Aprender sobre diferentes patrones de BIBFRAME (Obra, Evento, ect.)
+2. Reconocer otros esquemas de metadatos para datos enlazados LinkedArt
+3. Explorar la plataforma LUX
 
 
 ## Recursos
 
 - [Convertidor de MARC a BIBFRAME](https://github.com/lcnetdev/bibframe2marc?tab=readme-ov-file)
+  
 - [Heramienta para comparar BIBFRAME to MARC](https://id.loc.gov/tools/bibframe/comparebf-lccn/2018958785.txt)
 
-
-Enlaces a presentaciones:
-
-| Presentador | Tema |
-| ---         | ---  |
-| Tim Thompson , Irma Fraticelli | <a href= https://slides.com/timathom/yerba-mala target="_blank"> Yerba mala nunca muere: ¿Por qué los formatos MARC 21 siguen vigentes y el cambio hacia BIBFRAME no parece avanzar? </a> | 
-|Álvaro López Bustamante||
-
+- [LUX](https://lux.collections.yale.edu/)
+  
+- [BIBFRAME](https://bibframe.org/)
