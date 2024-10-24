@@ -15,6 +15,10 @@ jueves, 24 de octubre
 | 12:15–12:45 | Actividad: práctica en Sinopia |  |
 | 12:45–1:00 | Resumen y discusión |  |
 
+## Actividad de Práctica
+
+- [Recursos a registrar en BIBFRAME](https://docs.google.com/spreadsheets/d/1mkymvJiTYNc_lkm1K1EG0a_365TXUtDQPHWFYkhTySM/edit?usp=sharing)
+
 ## Recursos
 
 - [Sinopia Stage](https://stage.sinopia.io/)
