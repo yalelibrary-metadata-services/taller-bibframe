@@ -23,3 +23,13 @@ Módulos de entrenamiento de Sinopia por a PCC
 | Módulo 8 | <a href="../presentaciones/pdf/Modulo_8_Enlazando_Descripciones_es_2024.pdf" target="_blank">Enlazando Descripciones Relacionadas</a> |
 | Módulo 9 | <a href="../presentaciones/pdf/Modulo_9_Copiando_descripciones_2024.pdf" target="_blank">Copiando Descripciones</a> |
 | Módulo 10 | <a href="../presentaciones/pdf/Modulo_10_Flujo_Trabajo_es_2024.pdf" target="_blank">Flujo de Trabajo de Catalogación</a> |
+
+
+# Recursos
+
+
+- From MARCXML to BIBRFRAME2:
+  - [marc2bibframe2](https://github.com/lcnetdev/marc2bibframe2.git)
+  - [Especificaciones para la conversión](https://www.loc.gov/bibframe/mtbf/)
+  - Esto es un programa que se utiliza en la línea de comando. De no saber como interactuar con la línea de comando, aca hay [un tutorial en español](https://programminghistorian.org/es/lecciones/introduccion-a-bash). 
+- [Convertidor a RDF](https://converter.zazuko.com/)
