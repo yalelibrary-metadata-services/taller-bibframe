@@ -15,7 +15,7 @@ website:
       - sidebar:dia2
       - sidebar:dia3
       - sidebar:dia4
-      #- sidebar:dia5
+      - sidebar:dia5
   sidebar:
     - id: dia1
       search: false
