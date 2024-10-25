@@ -33,3 +33,4 @@ Módulos de entrenamiento de Sinopia por a PCC
   - [Especificaciones para la conversión](https://www.loc.gov/bibframe/mtbf/)
   - Esto es un programa que se utiliza en la línea de comando. De no saber como interactuar con la línea de comando, aca hay [un tutorial en español](https://programminghistorian.org/es/lecciones/introduccion-a-bash). 
 - [Convertidor a RDF](https://converter.zazuko.com/)
+- [Heramienta para comparar BIBFRAME to MARC](https://id.loc.gov/tools/bibframe/comparebf-lccn/2018958785.txt)
